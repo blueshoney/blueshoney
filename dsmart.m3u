@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MovieSmart Türk" tvg-name="  MovieSmart Türk" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-turk.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Türk
+http://gold.kingotv.club:8080/duranogz/duran44/2007
+#EXTINF:-1 tvg-id="MovieSmart Premium" tvg-name=" MovieSmart Premium" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-premium1.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Premium
+http://gold.kingotv.club:8080/duranogz/duran44/2004
+#EXTINF:-1 tvg-id="MovieSmart Premium 2" tvg-name=" MovieSmart Premium 2" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-premium2.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Premium 2
+http://gold.kingotv.club:8080/duranogz/duran44/2005
+#EXTINF:-1 tvg-id="MovieSmart Platin" tvg-name="  MovieSmart Platin" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-platin1.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Platin
+http://gold.kingotv.club:8080/duranogz/duran44/2002
+#EXTINF:-1 tvg-id="MovieSmart Platin 2" tvg-name=" MovieSmart Platin 2" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-platin2.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Platin 2
+http://gold.kingotv.club:8080/duranogz/duran44/2003
+#EXTINF:-1 tvg-id="MovieSmart Action" tvg-name="  MovieSmart Action" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-action.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Action
+http://gold.kingotv.club:8080/duranogz/duran44/2006
+#EXTINF:-1 tvg-id="MovieSmart Family" tvg-name=" MovieSmart Family" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-family.png" group-title="TR ➾ beIN & DSMART", MovieSmart Family
+http://gold.kingotv.club:8080/duranogz/duran44/2008
+#EXTINF:-1 tvg-id="MovieSmart Fest" tvg-name="  MovieSmart Fest" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-fest.png" group-title="TR ➾ beIN & DSMART", MovieSmart Fest
+http://gold.kingotv.club:8080/duranogz/duran44/2009
+#EXTINF:-1 tvg-id="MovieSmart Classic" tvg-name="  MovieSmart Classic" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-classic.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Classic
+http://gold.kingotv.club:8080/duranogz/duran44/2010
+#EXTINF:-1 tvg-id="MovieSmart Gold" tvg-name="  MovieSmart Gold" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-gold.png" group-title="TR ➾ beIN & DSMART",  MovieSmart Gold
+http://gold.kingotv.club:8080/duranogz/duran44/2011
+#EXTINF:-1 tvg-id="Dizi Smart Premium" tvg-name="  Dizi Smart Premium" tvg-logo="http://176.9.134.196:2086/logos/dizismartpremium.png" group-title="TR ➾ beIN & DSMART",  Dizi Smart Premium
+http://gold.kingotv.club:8080/duranogz/duran44/2013
+#EXTINF:-1 tvg-id="" tvg-name="  DIZI SMART MAX" tvg-logo="http://176.9.134.196:2086/logos/dizismartmax.png" group-title="TR ➾ beIN & DSMART",  DIZI SMART MAX
+http://gold.kingotv.club:8080/duranogz/duran44/2014
+#EXTINF:-1 tvg-id="FX" tvg-name="  FX" tvg-logo="http://176.9.134.196:2086/logos/fx.png" group-title="TR ➾ ULUSAL",  FX
+http://gold.kingotv.club:8080/duranogz/duran44/2015
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="  FOXLIFE" tvg-logo="http://176.9.134.196:2086/logos/foxlife.png" group-title="TR ➾ ULUSAL",  FOXLIFE
+http://gold.kingotv.club:8080/duranogz/duran44/2016
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="  FOXCRIME " tvg-logo="http://176.9.134.196:2086/logos/foxcrime.png" group-title="TR ➾ ULUSAL",  FOXCRIME
+http://gold.kingotv.club:8080/duranogz/duran44/2017
