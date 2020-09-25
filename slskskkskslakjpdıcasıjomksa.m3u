@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="    TRT 1 " tvg-logo="http://176.9.134.196:2086/logos/trt-1.png" group-title="TR ➾ ULUSAL",    TRT 1   
+http://gold.kingotv.club:8080/duranogz/duran44/1837
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name=" TRT 2 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/trt2.png" group-title="TR ➾ ULUSAL",    TRT 2 F  
+http://gold.kingotv.club:8080/duranogz/duran44/1840
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name=" Show TV " tvg-logo="http://176.9.134.196:2086/logos/show-tv.png" group-title="TR ➾ ULUSAL",    SHOW TV   
+http://gold.kingotv.club:8080/duranogz/duran44/1845
+#EXTINF:-1 tvg-id="ATV TR" tvg-name=" ATV TR" tvg-logo="http://176.9.134.196:2086/logos/atv.png" group-title="TR ➾ ULUSAL",    ATV TR  
+http://gold.kingotv.club:8080/duranogz/duran44/1841
+#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="  Kanal D " tvg-logo="http://176.9.134.196:2086/logos/kanal-d.png" group-title="TR ➾ ULUSAL",    KANAL D   
+http://gold.kingotv.club:8080/duranogz/duran44/1843
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="   Star TV " tvg-logo="http://176.9.134.196:2086/logos/star-tv.png" group-title="TR ➾ ULUSAL",    STAR TV   
+http://gold.kingotv.club:8080/duranogz/duran44/1847
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="    FOX TV   " tvg-logo="http://176.9.134.196:2086/logos/fox-tv.png" group-title="TR ➾ ULUSAL",    FOX TV   
+http://gold.kingotv.club:8080/duranogz/duran44/1849
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="    TV 8   " tvg-logo="http://176.9.134.196:2086/logos/tv-8.png" group-title="TR ➾ ULUSAL",    TV 8   
+http://gold.kingotv.club:8080/duranogz/duran44/1851
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="    KANAL 7   " tvg-logo="http://176.9.134.196:2086/logos/kanal-7.png" group-title="TR ➾ ULUSAL",    KANAL 7   
+http://gold.kingotv.club:8080/duranogz/duran44/1858

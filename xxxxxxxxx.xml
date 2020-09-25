@@ -1,0 +1,843 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Kanal D">
+    <display-name lang="tr">Kanal D</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da806" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Show TV">
+    <display-name lang="tr">Show TV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da88e" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Star">
+    <display-name lang="tr">Star</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8be" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ATV">
+    <display-name lang="tr">ATV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da844" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT 1">
+    <display-name lang="tr">TRT 1</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da85c" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 7">
+    <display-name lang="tr">Kanal 7</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8a6" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV8">
+    <display-name lang="tr">TV8</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8b4" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="tr">FOX</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da894" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <programme start="20200925211500 +0100" stop="20200926001500 +0100" channel="Kanal D">
+    <title lang="tr">Çatı Katı Aşk</title>
+  </programme>
+  <programme start="20200926001500 +0100" stop="20200926014500 +0100" channel="Kanal D">
+    <title lang="tr">Zahide Yetiş'le Gelin Görün</title>
+  </programme>
+  <programme start="20200926014500 +0100" stop="20200926021500 +0100" channel="Kanal D">
+    <title lang="tr">Gelinim Mufakta</title>
+  </programme>
+  <programme start="20200926021500 +0100" stop="20200926040000 +0100" channel="Kanal D">
+    <title lang="tr">Akasya Durağı</title>
+  </programme>
+  <programme start="20200926040000 +0100" stop="20200926060000 +0100" channel="Kanal D">
+    <title lang="tr">Sihirli Annem</title>
+  </programme>
+  <programme start="20200926060000 +0100" stop="20200926080000 +0100" channel="Kanal D">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20200926080000 +0100" stop="20200926110000 +0100" channel="Kanal D">
+    <title lang="tr">Zahide Yetiş'le Gelin Görün</title>
+  </programme>
+  <programme start="20200926110000 +0100" stop="20200926131500 +0100" channel="Kanal D">
+    <title lang="tr">Gelinim Mufakta</title>
+  </programme>
+  <programme start="20200926131500 +0100" stop="20200926160000 +0100" channel="Kanal D">
+    <title lang="tr">Öyle Bir Geçer Zaman ki</title>
+  </programme>
+  <programme start="20200926160000 +0100" stop="20200926170000 +0100" channel="Kanal D">
+    <title lang="tr">Kanal D Ana Haber</title>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926200000 +0100" channel="Kanal D">
+    <title lang="tr">Arka Sokaklar</title>
+    <desc lang="tr">Engin'in yanındaki sarışın kadın bir anda ekibin dikkatini cekiyor. Peki bu kadın kim? Öte yandan ekip yine zorlu bir görevle karşı karşıya kalıyor..(n)</desc>
+  </programme>
+  <programme start="20200926234500 +0100" stop="20200927014500 +0100" channel="Kanal D">
+    <title lang="tr">Siyah Beyaz Aşk</title>
+  </programme>
+  <programme start="20200927014500 +0100" stop="20200927023000 +0100" channel="Kanal D">
+    <title lang="tr">5N1K</title>
+  </programme>
+  <programme start="20200927023000 +0100" stop="20200927053000 +0100" channel="Kanal D">
+    <title lang="tr">Akasya Durağı</title>
+  </programme>
+  <programme start="20200927214500 +0100" stop="20200928004500 +0100" channel="Kanal D">
+    <title lang="tr">Yeni Hayat</title>
+    <desc lang="tr">Yasemin, Adem'e geçmişte neler yaşadığını anlatmaktadır. Timur'un kendisini evliliğe devam etmesi için zorladığından bahseder. İlk etapta Timur'u sevdiğinden bahseden Yasemin, Timur'un nasıl değiştiğini anlatır. Kardeşiyle kendisini tehdit ettiğini de söyler. Adem, Yasemin'in söylediklerini şaşkınlıkla dinler.(n)</desc>
+  </programme>
+  <programme start="20200928004500 +0100" stop="20200928023000 +0100" channel="Kanal D">
+    <title lang="tr">Gelinim Mutfakta</title>
+  </programme>
+  <programme start="20200928023000 +0100" stop="20200928040000 +0100" channel="Kanal D">
+    <title lang="tr">Akasya Durağı</title>
+  </programme>
+  <programme start="20200928040000 +0100" stop="20200928060000 +0100" channel="Kanal D">
+    <title lang="tr">Sihirli Annem</title>
+  </programme>
+  <programme start="20200928060000 +0100" stop="20200928080000 +0100" channel="Kanal D">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20200928080000 +0100" stop="20200928110000 +0100" channel="Kanal D">
+    <title lang="tr">Zahide Yetiş'le Gelin Görün</title>
+  </programme>
+  <programme start="20200928110000 +0100" stop="20200928131500 +0100" channel="Kanal D">
+    <title lang="tr">Gelinim Mufakta</title>
+  </programme>
+  <programme start="20200928131500 +0100" stop="20200928160000 +0100" channel="Kanal D">
+    <title lang="tr">Öyle Bir Geçer Zaman ki</title>
+  </programme>
+  <programme start="20200928160000 +0100" stop="20200928170000 +0100" channel="Kanal D">
+    <title lang="tr">Kanal D Ana Haber</title>
+  </programme>
+  <programme start="20200928170000 +0100" stop="20200928200000 +0100" channel="Kanal D">
+    <title lang="tr">Hekimoğlu</title>
+  </programme>
+  <programme start="20200925234500 +0100" stop="20200926021500 +0100" channel="Show TV">
+    <title lang="tr">Arıza</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200926021500 +0100" stop="20200926050000 +0100" channel="Show TV">
+    <title lang="tr">Didem Arslan Yılmaz'la Vazgeçme</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200926050000 +0100" stop="20200926064500 +0100" channel="Show TV">
+    <title lang="tr">Kendine iyi Bak</title>
+    <desc lang="tr">Yeni Bölüm.(n)</desc>
+  </programme>
+  <programme start="20200926064500 +0100" stop="20200926093000 +0100" channel="Show TV">
+    <title lang="tr">Asuman'la Sevgili Dünürüm</title>
+    <desc lang="tr">Yeni Bölüm.(n)</desc>
+  </programme>
+  <programme start="20200926093000 +0100" stop="20200926121500 +0100" channel="Show TV">
+    <title lang="tr">Kuaförüm Sensin</title>
+    <desc lang="tr">Yeni Bölüm.(n)</desc>
+  </programme>
+  <programme start="20200926121500 +0100" stop="20200926154500 +0100" channel="Show TV">
+    <title lang="tr">Didem Arslan Yılmaz'la Vazgeçme</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200926154500 +0100" stop="20200926170000 +0100" channel="Show TV">
+    <title lang="tr">Show Ana Haber</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926211500 +0100" channel="Show TV">
+    <title lang="tr">Ramo</title>
+    <desc lang="tr">Ramo'nun Adana'dan gelen koltuğunu ateşe verirken "Yükselmek için değil yok etmek için savaşacağız!" sözleri İstanbul'da başlatacağı savaşta gözünün ne kadar kara olduğunu gösteriyor. Aksiyon dolu sahneler nefesleri keserken, Sibel'in Taner'e silah çektiği anlar heyecanı yükseltiyor. Taner içimizdeki haini buldum diyerek Sibel'in kafasına silah dayarken, olacaklar büyük merak uyandırıyor.(n)</desc>
+  </programme>
+  <programme start="20200926211500 +0100" stop="20200927000000 +0100" channel="Show TV">
+    <title lang="tr">Çukur</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200927000000 +0100" stop="20200927023000 +0100" channel="Show TV">
+    <title lang="tr">Kuzey Yıldızı '' İlk Aşk''</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200927023000 +0100" stop="20200927030000 +0100" channel="Show TV">
+    <title lang="tr">Didem Arslan Yılmaz'la Vazgeçme</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200927030000 +0100" stop="20200927051500 +0100" channel="Show TV">
+    <title lang="tr">Türk Malı</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200927051500 +0100" stop="20200927070000 +0100" channel="Show TV">
+    <title lang="tr">Hayat Güzeldir</title>
+    <desc lang="tr">Yeni Bölüm.(n)</desc>
+  </programme>
+  <programme start="20200927070000 +0100" stop="20200927100000 +0100" channel="Show TV">
+    <title lang="tr">Cumartesi Sürprizi</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200927100000 +0100" stop="20200927120000 +0100" channel="Show TV">
+    <title lang="tr">Feryat</title>
+    <desc lang="tr">Sevdiği adamın kötülüğüne maruz kalan Feride sonrasında babası da evlatlıktan reddeder. Bir çadır tiyatrosunda şarkıcılık yapmaya başlar. Yıllar sonra tiyatro Feride’nin memleketine de uğrar. Burada Feride, Ferdi adında bir üniversite öğrencisiyle tanışır. Birbirlerine âşık olurlar. Ancak Feride gerçek kimliğini Ferdi’den saklar. Tiyatro başka bir şehre gideceği zaman Ferdi’ye bir mektup bırakarak ondan ayrılır. Yıllar sonra Feride ünlü bir şarkıcı olur. Bu sayede Feride ile Ferdi’nin yolları tekrardan kesişecektir.(n)</desc>
+  </programme>
+  <programme start="20200927120000 +0100" stop="20200927154500 +0100" channel="Show TV">
+    <title lang="tr">Arıza</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200927154500 +0100" stop="20200927170000 +0100" channel="Show TV">
+    <title lang="tr">Show Ana Haber</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200927170000 +0100" stop="20200927211500 +0100" channel="Show TV">
+    <title lang="tr">Kuzey Yıldızı '' İlk Aşk''</title>
+    <desc lang="tr">Sefer, Nahide, Poyraz, Kamer ve Pembe'nin çil çil altınlara kavuştuğu tanıtımda Nahide'nin Şule'ye attığı sert tokat herkesi şoke ediyor. Kuzey ve Yıldız ayrılık acısı yaşarken, Yıldız'ın sesinden "Bir Ay Doğar İlk Akşamdan Geceden" türküsü izleyenleri derinden etkiliyor. Kuzey'in kaza yaptığı anlar ise yürekleri ağza getiriyor.(n)</desc>
+  </programme>
+  <programme start="20200927211500 +0100" stop="20200928000000 +0100" channel="Show TV">
+    <title lang="tr">Ramo</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200928000000 +0100" stop="20200928023000 +0100" channel="Show TV">
+    <title lang="tr">Arıza</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200928023000 +0100" stop="20200928030000 +0100" channel="Show TV">
+    <title lang="tr">Aşk Laftan Anlamaz</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200928030000 +0100" stop="20200928051500 +0100" channel="Show TV">
+    <title lang="tr">Türk Malı</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200928051500 +0100" stop="20200928070000 +0100" channel="Show TV">
+    <title lang="tr">Hayat Güzeldir</title>
+    <desc lang="tr">Yeni Bölüm.(n)</desc>
+  </programme>
+  <programme start="20200928070000 +0100" stop="20200928100000 +0100" channel="Show TV">
+    <title lang="tr">Pazar Sürprizi</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200928100000 +0100" stop="20200928114500 +0100" channel="Show TV">
+    <title lang="tr">Tarkan Güçlü Kahraman</title>
+    <desc lang="tr">Tarkan Güçlü Kahraman, Altın Madalyon'un devam filmi olan yapımda Tarkan'ın Çin diyarındaki altın kılıcı ele geçirmek için Wang Yu ile olan mücadelesi işlenmektedir.(n)</desc>
+  </programme>
+  <programme start="20200928114500 +0100" stop="20200928154500 +0100" channel="Show TV">
+    <title lang="tr">Ramo</title>
+    <desc lang="tr">Tekrar.(n)</desc>
+  </programme>
+  <programme start="20200928154500 +0100" stop="20200928170000 +0100" channel="Show TV">
+    <title lang="tr">Show Ana Haber</title>
+    <desc lang="tr">Canlı.(n)</desc>
+  </programme>
+  <programme start="20200928170000 +0100" stop="20200928200000 +0100" channel="Show TV">
+    <title lang="tr">Arıza</title>
+    <desc lang="tr">Ali Rıza ve arkadaşları Yaşar’ı etkisiz hale getirerek sevkiyatın yapılmasını engellemişlerdir. Öte yandan Fuat, Haşmet’e giderek internete Burak’ın videosunu servis edenin ve aynı zamanda adresini verenin Haşmet’in sağ kolu Sabri olduğunu iddia eder ve Sabri’yi almak ister. Haşmet izin vermez.(n)</desc>
+  </programme>
+  <programme start="20200925223000 +0100" stop="20200926004000 +0100" channel="Star">
+    <title lang="tr">Menajerimi Ara / tkr</title>
+    <desc lang="tr">Bu sırada Kıraç’ın oyuncusu Şükran Ovalı bebeği doğduktan sonra ara verdiği sektöre dönmek ister. Ancak hem bebeğine bakmak hemde kariyeri için yeni adımlar atmak sandığı kadar kolay olmayacaktır.(n)</desc>
+  </programme>
+  <programme start="20200926004000 +0100" stop="20200926023000 +0100" channel="Star">
+    <title lang="tr">Demet Ve Alişan İle Sabah Sabah / tkr</title>
+    <desc lang="tr">Demet ve Alişan ile Sabah Sabah”’ın ilk bölümünde eğlenceye, müziğe doyacaksınız. Pop müziğin sevilen ismi İrem Derici ilk bölümün sürpriz isimlerinden. İrem Derici, hem şarkılarıyla unutulmaz anlar yaşatacak hem de özel itiraflarıyla gündeme damga vuracak.(n)</desc>
+  </programme>
+  <programme start="20200926023000 +0100" stop="20200926040000 +0100" channel="Star">
+    <title lang="tr">Erkenci Kuş / tkr</title>
+  </programme>
+  <programme start="20200926040000 +0100" stop="20200926064500 +0100" channel="Star">
+    <title lang="tr">Mesut Yar ile Bugün</title>
+    <desc lang="tr">Önemli manşetlerden, son dakika gelişmelerine, uzman görüşlerinden, ayrıntılı analizlere kadar 24 saat içinde yaşanan ve yaşanacak olan ne varsa ‘Mesut Yar İle Bugün’ ortak ekranından izleyiciyle buluşacak.(n)</desc>
+  </programme>
+  <programme start="20200926064500 +0100" stop="20200926101500 +0100" channel="Star">
+    <title lang="tr">Demet Ve Alişan İle Sabah Sabah</title>
+    <desc lang="tr">Demet ve Alişan ile Sabah Sabah”’ın ilk bölümünde eğlenceye, müziğe doyacaksınız. Pop müziğin sevilen ismi İrem Derici ilk bölümün sürpriz isimlerinden. İrem Derici, hem şarkılarıyla unutulmaz anlar yaşatacak hem de özel itiraflarıyla gündeme damga vuracak.(n)</desc>
+  </programme>
+  <programme start="20200926101500 +0100" stop="20200926133000 +0100" channel="Star">
+    <title lang="tr">Gerçeğin Peşinde</title>
+  </programme>
+  <programme start="20200926133000 +0100" stop="20200926153000 +0100" channel="Star">
+    <title lang="tr">Erkenci Kuş / tkr</title>
+  </programme>
+  <programme start="20200926153000 +0100" stop="20200926170000 +0100" channel="Star">
+    <title lang="tr">Star Haber</title>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926200000 +0100" channel="Star">
+    <title lang="tr">Babil / 13</title>
+    <desc lang="tr">Dengeler değişiyor! Deniz'in kaçırılması İrfan'ı beklenmedik bir karara iterken Egemen'i de hayatının en önemli seçimine zorluyor.(n)</desc>
+  </programme>
+  <programme start="20200925212000 +0100" stop="20200926000000 +0100" channel="ATV">
+    <title lang="tr">İkimizin Yerine</title>
+    <desc lang="tr">Bir taşra kasabasında, ailesinin dayattığı hayata sıkışıp kalmış genç Çiçek, kasabaya yeni gelen gizemli edebiyat öğretmeni Doğan’a âşık olur. Doğan bu yasak aşka ne kadar dirense de, Çiçek’ten uzak duramaz.(n)</desc>
+  </programme>
+  <programme start="20200926000000 +0100" stop="20200926023000 +0100" channel="ATV">
+    <title lang="tr">Kırgın Çiçekler</title>
+  </programme>
+  <programme start="20200926023000 +0100" stop="20200926050000 +0100" channel="ATV">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
+  </programme>
+  <programme start="20200926050000 +0100" stop="20200926070000 +0100" channel="ATV">
+    <title lang="tr">Kahvaltı Haberleri</title>
+  </programme>
+  <programme start="20200926070000 +0100" stop="20200926100000 +0100" channel="ATV">
+    <title lang="tr">Müge Anlı İle Tatlı Sert</title>
+  </programme>
+  <programme start="20200926100000 +0100" stop="20200926110000 +0100" channel="ATV">
+    <title lang="tr">atv Gün Ortası</title>
+  </programme>
+  <programme start="20200926110000 +0100" stop="20200926132000 +0100" channel="ATV">
+    <title lang="tr">Beni Bırakma</title>
+    <desc lang="tr">Sayar ailesinde sular durulmuş, aile kayıplarının ardından, acı da olsa yeni bir hayata başlar… Tarık ve Meltem’in düğün gününde beklenmedik bir şey olur ve Tarık’ın mazisinden gelen esrarengiz yabancı tüm dengeleri alt üst eder. Annesinin sakladığı sırrın ortaya çıkmasıyla birlikte hayatı değişecek olan Tarık, annesini affedebilecek midir.(n)</desc>
+  </programme>
+  <programme start="20200926132000 +0100" stop="20200926160000 +0100" channel="ATV">
+    <title lang="tr">Esra Erol'da</title>
+  </programme>
+  <programme start="20200926160000 +0100" stop="20200926170000 +0100" channel="ATV">
+    <title lang="tr">atv Ana Haber Bülteni</title>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926200000 +0100" channel="ATV">
+    <title lang="tr">Hercai</title>
+    <desc lang="tr">Azat’ın vurulmasıyla iki aile arasındaki düşmanlık çoğalırken, esrarengiz bir biçimde ortaya çıkan Aslan suçu üstlenmiş ve Azize’yi büyük bir paniğe sürüklemiştir. Gözlerden uzak büyüttüğü tek erkek torununun gelişiyle tüm planları bozulan Azize onu geri göndermenin yollarını arar. Azat’ın vurulduğu anı gözleriyle gören Reyyan ise şoktadır.(n)</desc>
+  </programme>
+  <programme start="20200925214500 +0100" stop="20200926001500 +0100" channel="TRT 1">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200926001500 +0100" stop="20200926013000 +0100" channel="TRT 1">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200926013000 +0100" stop="20200926032000 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200926032000 +0100" stop="20200926063000 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200926063000 +0100" stop="20200926081500 +0100" channel="TRT 1">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200926081500 +0100" stop="20200926111500 +0100" channel="TRT 1">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200926111500 +0100" stop="20200926135000 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200926135000 +0100" stop="20200926155500 +0100" channel="TRT 1">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200926155500 +0100" stop="20200926165500 +0100" channel="TRT 1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200926165500 +0100" stop="20200926170000 +0100" channel="TRT 1">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926202500 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200926202500 +0100" stop="20200926220000 +0100" channel="TRT 1">
+    <title lang="tr">Pelin Çift İle Gündem Ötesi</title>
+  </programme>
+  <programme start="20200926220000 +0100" stop="20200927003000 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200927003000 +0100" stop="20200927005500 +0100" channel="TRT 1">
+    <title lang="tr">52 Hafta</title>
+  </programme>
+  <programme start="20200927005500 +0100" stop="20200927025500 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200927025500 +0100" stop="20200927050500 +0100" channel="TRT 1">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20200927050500 +0100" stop="20200927062500 +0100" channel="TRT 1">
+    <title lang="tr">Nostalji Kuşağı "Uğurlugiller"</title>
+  </programme>
+  <programme start="20200927062500 +0100" stop="20200927073000 +0100" channel="TRT 1">
+    <title lang="tr">Nostalji Kuşağı "Perihan Abla"</title>
+  </programme>
+  <programme start="20200927073000 +0100" stop="20200927103000 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200927103000 +0100" stop="20200927112500 +0100" channel="TRT 1">
+    <title lang="tr">Yedi Numara</title>
+  </programme>
+  <programme start="20200927112500 +0100" stop="20200927123000 +0100" channel="TRT 1">
+    <title lang="tr">Yeditepe İstanbul</title>
+  </programme>
+  <programme start="20200927123000 +0100" stop="20200927155500 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200927155500 +0100" stop="20200927170000 +0100" channel="TRT 1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200927170000 +0100" stop="20200927211500 +0100" channel="TRT 1">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200927211500 +0100" stop="20200928001000 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200928001000 +0100" stop="20200928020500 +0100" channel="TRT 1">
+    <title lang="tr">Filinta</title>
+  </programme>
+  <programme start="20200928020500 +0100" stop="20200928023000 +0100" channel="TRT 1">
+    <title lang="tr">Yedi Numara</title>
+  </programme>
+  <programme start="20200928023000 +0100" stop="20200928032000 +0100" channel="TRT 1">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20200928032000 +0100" stop="20200928055000 +0100" channel="TRT 1">
+    <title lang="tr">Böyle Bitmesin</title>
+  </programme>
+  <programme start="20200928055000 +0100" stop="20200928085000 +0100" channel="TRT 1">
+    <title lang="tr">Diriliş "Ertuğrul"</title>
+  </programme>
+  <programme start="20200928085000 +0100" stop="20200928100000 +0100" channel="TRT 1">
+    <title lang="tr">Enine Boyuna</title>
+  </programme>
+  <programme start="20200928100000 +0100" stop="20200928114000 +0100" channel="TRT 1">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200928114000 +0100" stop="20200928145000 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200928145000 +0100" stop="20200928155500 +0100" channel="TRT 1">
+    <title lang="tr">Gezegenin Kara Kutusu ''Antarktika''</title>
+  </programme>
+  <programme start="20200928155500 +0100" stop="20200928170000 +0100" channel="TRT 1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200928170000 +0100" stop="20200928211500 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200928211500 +0100" stop="20200928223500 +0100" channel="TRT 1">
+    <title lang="tr">Gezegenin Kara Kutusu ''Antarktika''</title>
+  </programme>
+  <programme start="20200928223500 +0100" stop="20200929011500 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200929011500 +0100" stop="20200929030000 +0100" channel="TRT 1">
+    <title lang="tr">Böyle Bitmesin</title>
+  </programme>
+  <programme start="20200929030000 +0100" stop="20200929050000 +0100" channel="TRT 1">
+    <title lang="tr">Nirvana Alevler İçinde (Altyazılı)</title>
+  </programme>
+  <programme start="20200929050000 +0100" stop="20200929061500 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200929061500 +0100" stop="20200929080000 +0100" channel="TRT 1">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200929080000 +0100" stop="20200929111500 +0100" channel="TRT 1">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200929111500 +0100" stop="20200929140000 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200929140000 +0100" stop="20200929155500 +0100" channel="TRT 1">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200929155500 +0100" stop="20200929165500 +0100" channel="TRT 1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200929165500 +0100" stop="20200929170000 +0100" channel="TRT 1">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200929170000 +0100" stop="20200929234000 +0100" channel="TRT 1">
+    <title lang="tr">Uyanış: Büyük Selçuklu</title>
+  </programme>
+  <programme start="20200929234000 +0100" stop="20200930010000 +0100" channel="TRT 1">
+    <title lang="tr">Leyla İle Mecnun</title>
+  </programme>
+  <programme start="20200930010000 +0100" stop="20200930012500 +0100" channel="TRT 1">
+    <title lang="tr">52 Hafta</title>
+  </programme>
+  <programme start="20200930012500 +0100" stop="20200930030000 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200930030000 +0100" stop="20200930050000 +0100" channel="TRT 1">
+    <title lang="tr">Nirvana Alevler İçinde (Altyazılı)</title>
+  </programme>
+  <programme start="20200930050000 +0100" stop="20200930061500 +0100" channel="TRT 1">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200930061500 +0100" stop="20200930080000 +0100" channel="TRT 1">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200930080000 +0100" stop="20200930111500 +0100" channel="TRT 1">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200930111500 +0100" stop="20200930140000 +0100" channel="TRT 1">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200930140000 +0100" stop="20200930155500 +0100" channel="TRT 1">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200930155500 +0100" stop="20200930165500 +0100" channel="TRT 1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200930165500 +0100" stop="20200930170000 +0100" channel="TRT 1">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200930170000 +0100" stop="20200930211500 +0100" channel="TRT 1">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200925220000 +0100" stop="20200926033000 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200926033000 +0100" stop="20200926050000 +0100" channel="Kanal 7">
+    <title lang="tr">Kanal 7'de Sabah</title>
+    <desc lang="tr">Kanal 7’de Sabah, siyasetin kalbi Ankara’daki gelişmelerden Anadolu insanının sorunlarına kadar her türlü konu ve gelişmeyi sabahın ilk ışıklarıyla ekrana taşıyor.(n)</desc>
+  </programme>
+  <programme start="20200926050000 +0100" stop="20200926063000 +0100" channel="Kanal 7">
+    <title lang="tr">Elif (Tekrar)</title>
+  </programme>
+  <programme start="20200926063000 +0100" stop="20200926081500 +0100" channel="Kanal 7">
+    <title lang="tr">Cuma Sohbetleri</title>
+    <desc lang="tr">Kanal 7 ekranlarının beğeniyle takip edilen programı ‘’Cuma Sohbetleri’’ Cuma günlerinin nurunu ekrana taşıyor.(n)</desc>
+  </programme>
+  <programme start="20200926081500 +0100" stop="20200926100500 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Kördüğüm'</title>
+    <desc lang="tr">Aynı çatı altında farklı şartlarda büyüyen iki kızın dramatik öyküsü Kördüğüm – Uttaran her gün Kanal 7’de.(n)</desc>
+  </programme>
+  <programme start="20200926100500 +0100" stop="20200926114000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Emanet' (T)</title>
+  </programme>
+  <programme start="20200926114000 +0100" stop="20200926131000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Yemin' (T)</title>
+  </programme>
+  <programme start="20200926131000 +0100" stop="20200926150000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Masum'</title>
+  </programme>
+  <programme start="20200926150000 +0100" stop="20200926160000 +0100" channel="Kanal 7">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20200926160000 +0100" stop="20200926174500 +0100" channel="Kanal 7">
+    <title lang="tr">Emanet (Yeni Bölüm)</title>
+  </programme>
+  <programme start="20200926174500 +0100" stop="20200926193000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Yemin' (Yeni Bölüm)</title>
+  </programme>
+  <programme start="20200926193000 +0100" stop="20200926203000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Güz Masalı'</title>
+  </programme>
+  <programme start="20200926203000 +0100" stop="20200926233000 +0100" channel="Kanal 7">
+    <title lang="tr">Muhabbet Kapısı</title>
+  </programme>
+  <programme start="20200927210000 +0100" stop="20200927220000 +0100" channel="Kanal 7">
+    <title lang="tr">Gündüz Gece</title>
+    <desc lang="tr">Türkücü Kürşat’ın sunumu ile Gündüz Gece Anadolu’nun güzelliklerini Kanal 7 izleyenleri için ekrana getirmeye devam ediyor.(n)</desc>
+  </programme>
+  <programme start="20200927220000 +0100" stop="20200928033000 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200928033000 +0100" stop="20200928044500 +0100" channel="Kanal 7">
+    <title lang="tr">Kanal 7'de Sabah</title>
+    <desc lang="tr">Kanal 7’de Sabah, siyasetin kalbi Ankara’daki gelişmelerden Anadolu insanının sorunlarına kadar her türlü konu ve gelişmeyi sabahın ilk ışıklarıyla ekrana taşıyor.(n)</desc>
+  </programme>
+  <programme start="20200928044500 +0100" stop="20200928054500 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200928054500 +0100" stop="20200928065000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Elif'</title>
+    <desc lang="tr">Hayatta yapayalnız kalan Elif’in zorlu yaşam mücadelesi hafta içi her gün yeni bölümüyle Kanal 7’de.(n)</desc>
+  </programme>
+  <programme start="20200928065000 +0100" stop="20200928085000 +0100" channel="Kanal 7">
+    <title lang="tr">Nursaçan'la Sohbetler</title>
+  </programme>
+  <programme start="20200928085000 +0100" stop="20200928103000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Kördüğüm'</title>
+    <desc lang="tr">Aynı çatı altında farklı şartlarda büyüyen iki kızın dramatik öyküsü Kördüğüm – Uttaran her gün Kanal 7’de.(n)</desc>
+  </programme>
+  <programme start="20200928103000 +0100" stop="20200928121000 +0100" channel="Kanal 7">
+    <title lang="tr">Tv Filmi 'Sığıntı'</title>
+  </programme>
+  <programme start="20200928121000 +0100" stop="20200928131000 +0100" channel="Kanal 7">
+    <title lang="tr">Dünyanın Tadı</title>
+  </programme>
+  <programme start="20200928131000 +0100" stop="20200928150000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Masum'</title>
+  </programme>
+  <programme start="20200928150000 +0100" stop="20200928160000 +0100" channel="Kanal 7">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20200928160000 +0100" stop="20200928180000 +0100" channel="Kanal 7">
+    <title lang="tr">Emanet (T)</title>
+    <desc lang="tr">Annesiz ve babasız kalan yeğenleri Yusuf’u kutsal bir emanet gibi gören Seher ve Yaman’ın kalplere dokunan öyküsü Emanet ile izleyici karşısına çıkıyor.(n)</desc>
+  </programme>
+  <programme start="20200928180000 +0100" stop="20200928195000 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200928195000 +0100" stop="20200928225000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Güz Masalı'</title>
+  </programme>
+  <programme start="20200929221500 +0100" stop="20200930033000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Ah Kalbim'</title>
+    <desc lang="tr">Nefretten doğan bir aşkın konu edildiği ‘Ah Kalbim’ her hafta sonu Kanal 7 ekranlarında.(n)</desc>
+  </programme>
+  <programme start="20200930033000 +0100" stop="20200930044500 +0100" channel="Kanal 7">
+    <title lang="tr">Kanal 7'de Sabah</title>
+    <desc lang="tr">Kanal 7’de Sabah, siyasetin kalbi Ankara’daki gelişmelerden Anadolu insanının sorunlarına kadar her türlü konu ve gelişmeyi sabahın ilk ışıklarıyla ekrana taşıyor.(n)</desc>
+  </programme>
+  <programme start="20200930044500 +0100" stop="20200930054500 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200930054500 +0100" stop="20200930074500 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Elif'</title>
+    <desc lang="tr">Hayatta yapayalnız kalan Elif’in zorlu yaşam mücadelesi hafta içi her gün yeni bölümüyle Kanal 7’de.(n)</desc>
+  </programme>
+  <programme start="20200930074500 +0100" stop="20200930085000 +0100" channel="Kanal 7">
+    <title lang="tr">Başkent Kulisi</title>
+    <desc lang="tr">Dünya ve Türkiye’de yaşananların mecliste bulduğu yankı Başkent Kulisi’nde ekrana taşınıyor.(n)</desc>
+  </programme>
+  <programme start="20200930085000 +0100" stop="20200930103000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Kördüğüm'</title>
+    <desc lang="tr">Aynı çatı altında farklı şartlarda büyüyen iki kızın dramatik öyküsü Kördüğüm – Uttaran her gün Kanal 7’de.(n)</desc>
+  </programme>
+  <programme start="20200930103000 +0100" stop="20200930122000 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi 'Yol Arkadaşı'</title>
+    <desc lang="tr">Hızır ve Akın sorgusuz beraber bir yolculuğa çıkarlar. Bu yol Akın’ın doğruyu bulabilmesi için bir ışık olur. Yolda şaşkınlığa uğradığı birçok olayla karşılaşır ama nedenini bulamaz.(n)</desc>
+  </programme>
+  <programme start="20200930122000 +0100" stop="20200930131000 +0100" channel="Kanal 7">
+    <title lang="tr">Dünyayı Geziyorum</title>
+    <desc lang="tr">Dünyayı Geziyorum dünyanın farklı köşelerini keşfetmeye devam ediyor. Özlem Tunca’nın oğlu Yakupcan’la birlikte çıktığı yolculuklardan en renkli görüntüler Dünyayı Geziyorum’da izleyicilerle buluşuyor.(n)</desc>
+  </programme>
+  <programme start="20200930131000 +0100" stop="20200930150000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Masum'</title>
+  </programme>
+  <programme start="20200930150000 +0100" stop="20200930160000 +0100" channel="Kanal 7">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20200930160000 +0100" stop="20200930180000 +0100" channel="Kanal 7">
+    <title lang="tr">Emanet</title>
+  </programme>
+  <programme start="20200930180000 +0100" stop="20200930195000 +0100" channel="Kanal 7">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20200930195000 +0100" stop="20200930225000 +0100" channel="Kanal 7">
+    <title lang="tr">Dizi 'Güz Masalı'</title>
+  </programme>
+  <programme start="20200925211500 +0100" stop="20200925233000 +0100" channel="TV8">
+    <title lang="tr">Doya Doya Moda</title>
+    <desc lang="tr">“Doya Doya Moda”da büyük bedene sahip 7 kadın, moda alanında kendini en iyi ifade eden yarışmacı olabilmek için yarışacak.(n)</desc>
+  </programme>
+  <programme start="20200925233000 +0100" stop="20200926013000 +0100" channel="TV8">
+    <title lang="tr">En Şık Benim</title>
+    <desc lang="tr">Ünlü tasarımcı ve modacı Raşit Bağzıbağlı’nın sunuculuğunu ve jüriliğini üstlendiği ''En Şık Benim'' yarışmasında, Türkiye’nin en şık kızları tarzlarını sergileyecek.(n)</desc>
+  </programme>
+  <programme start="20200926013000 +0100" stop="20200926021500 +0100" channel="TV8">
+    <title lang="tr">8X8</title>
+    <desc lang="tr">Birbirinden ilginç birbirinden eğlenceli listeler, Yeşilçam, müzik, magazin ve spora dair en özel ve unutulmaz görüntüler 8X8 programında sizlerle.(n)</desc>
+  </programme>
+  <programme start="20200926021500 +0100" stop="20200926030000 +0100" channel="TV8">
+    <title lang="tr">Bilginiz Olsun</title>
+    <desc lang="tr">Bilgi yüklü program “Bilginiz Olsun” TV8 ekranlarında izleyici ile buluşuyor! Sunuculuğunu Yavuz İgret’in yaptığı programın her bölümü birbirinden ilginç konularla dolu. “Bilginiz Olsun”; izleyiciyi kimi zaman vahşi doğanın ortasına götürüyor, kimi zaman da tarihte bilinmeyen bir yolculuğa çıkarıyor.(n)</desc>
+  </programme>
+  <programme start="20200926030000 +0100" stop="20200926041500 +0100" channel="TV8">
+    <title lang="tr">Oynat Bakalım</title>
+    <desc lang="tr">En eğlenceli videolar, en komik olaylar Oynat Bakalım'da ekranlarınıza geliyor.(n)</desc>
+  </programme>
+  <programme start="20200926041500 +0100" stop="20200926053000 +0100" channel="TV8">
+    <title lang="tr">8'de Sağlık</title>
+    <desc lang="tr">Sağlık hakkında doğru bilinen yanlışlar, önemli püf noktaları ve daha fazlası Dr. Özgür Koldaş ve Aylin Çetinkaya ile ekranlarınıza geliyor.(n)</desc>
+  </programme>
+  <programme start="20200926053000 +0100" stop="20200926063000 +0100" channel="TV8">
+    <title lang="tr">Oynat Bakalım</title>
+    <desc lang="tr">En eğlenceli videolar, en komik olaylar Oynat Bakalım'da ekranlarınıza geliyor.(n)</desc>
+  </programme>
+  <programme start="20200926063000 +0100" stop="20200926110000 +0100" channel="TV8">
+    <title lang="tr">MasterChef Türkiye</title>
+    <desc lang="tr">MasterChef Türkiye, sürpriz yemek tarifleri ve heyecanlı yarışmalarıyla TV8'de sizlerle.(n)</desc>
+  </programme>
+  <programme start="20200926110000 +0100" stop="20200926151500 +0100" channel="TV8">
+    <title lang="tr">Doya Doya Moda</title>
+    <desc lang="tr">“Doya Doya Moda”da büyük bedene sahip 7 kadın, moda alanında kendini en iyi ifade eden yarışmacı olabilmek için yarışacak.(n)</desc>
+  </programme>
+  <programme start="20200926151500 +0100" stop="20200926170000 +0100" channel="TV8">
+    <title lang="tr">En Şık Benim</title>
+    <desc lang="tr">Ünlü tasarımcı ve modacı Raşit Bağzıbağlı’nın sunuculuğunu ve jüriliğini üstlendiği ''En Şık Benim'' yarışmasında, Türkiye’nin en şık kızları tarzlarını sergileyecek.(n)</desc>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926200000 +0100" channel="TV8">
+    <title lang="tr">Kırmızı Oda</title>
+    <desc lang="tr">Gücünü gerçek karakterlerin gerçek hayat hikayelerinden alan ‘Kırmızı Oda’da üzerine konuşulmamış ne varsa ortaya çıkacak. İnsan hayatının en derin sırları ‘Kırmızı Oda’da anlatılacak.(n)</desc>
+  </programme>
+  <programme start="20200926211500 +0100" stop="20200926233000 +0100" channel="TV8">
+    <title lang="tr">Doya Doya Moda</title>
+    <desc lang="tr">“Doya Doya Moda”da büyük bedene sahip 7 kadın, moda alanında kendini en iyi ifade eden yarışmacı olabilmek için yarışacak.(n)</desc>
+  </programme>
+  <programme start="20200926233000 +0100" stop="20200927013000 +0100" channel="TV8">
+    <title lang="tr">En Şık Benim</title>
+    <desc lang="tr">Ünlü tasarımcı ve modacı Raşit Bağzıbağlı’nın sunuculuğunu ve jüriliğini üstlendiği ''En Şık Benim'' yarışmasında, Türkiye’nin en şık kızları tarzlarını sergileyecek.(n)</desc>
+  </programme>
+  <programme start="20200927013000 +0100" stop="20200927021500 +0100" channel="TV8">
+    <title lang="tr">8X8</title>
+    <desc lang="tr">Birbirinden ilginç birbirinden eğlenceli listeler, Yeşilçam, müzik, magazin ve spora dair en özel ve unutulmaz görüntüler 8X8 programında sizlerle.(n)</desc>
+  </programme>
+  <programme start="20200927021500 +0100" stop="20200927030000 +0100" channel="TV8">
+    <title lang="tr">Bilginiz Olsun</title>
+    <desc lang="tr">Bilgi yüklü program “Bilginiz Olsun” TV8 ekranlarında izleyici ile buluşuyor! Sunuculuğunu Yavuz İgret’in yaptığı programın her bölümü birbirinden ilginç konularla dolu. “Bilginiz Olsun”; izleyiciyi kimi zaman vahşi doğanın ortasına götürüyor, kimi zaman da tarihte bilinmeyen bir yolculuğa çıkarıyor.(n)</desc>
+  </programme>
+  <programme start="20200927030000 +0100" stop="20200927060000 +0100" channel="TV8">
+    <title lang="tr">Oynat Bakalım</title>
+    <desc lang="tr">En eğlenceli videolar, en komik olaylar Oynat Bakalım'da ekranlarınıza geliyor.(n)</desc>
+  </programme>
+  <programme start="20200925210000 +0100" stop="20200925234500 +0100" channel="FOX">
+    <title lang="tr">Yasak Elma - Tekrar</title>
+  </programme>
+  <programme start="20200925234500 +0100" stop="20200926013000 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada - Tekrar</title>
+  </programme>
+  <programme start="20200926013000 +0100" stop="20200926030000 +0100" channel="FOX">
+    <title lang="tr">Temizlik Benim İşim - Tekrar</title>
+  </programme>
+  <programme start="20200926030000 +0100" stop="20200926040000 +0100" channel="FOX">
+    <title lang="tr">Hayat Sevince Güzel - Tekrar</title>
+  </programme>
+  <programme start="20200926040000 +0100" stop="20200926050000 +0100" channel="FOX">
+    <title lang="tr">Fatih Savaş ile Sabah Sohbetleri</title>
+  </programme>
+  <programme start="20200926050000 +0100" stop="20200926074500 +0100" channel="FOX">
+    <title lang="tr">İsmail Küçükkaya ile Çalar Saat</title>
+  </programme>
+  <programme start="20200926074500 +0100" stop="20200926094500 +0100" channel="FOX">
+    <title lang="tr">Çağla ile Yeni Bir Gün</title>
+  </programme>
+  <programme start="20200926094500 +0100" stop="20200926104500 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200926104500 +0100" stop="20200926124500 +0100" channel="FOX">
+    <title lang="tr">Temizlik Benim İşim</title>
+  </programme>
+  <programme start="20200926124500 +0100" stop="20200926160000 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada</title>
+  </programme>
+  <programme start="20200926160000 +0100" stop="20200926170000 +0100" channel="FOX">
+    <title lang="tr">Selçuk Tepeli ile Fox Ana Haber</title>
+  </programme>
+  <programme start="20200926170000 +0100" stop="20200926211500 +0100" channel="FOX">
+    <title lang="tr">Bay Yanlış</title>
+    <desc lang="tr">İfadesi alınan Ezgi serbest kalsa da bu işin peşini bırakmazlar ve Ezgi’nin suçsuzluğunu ispatlamaya çalışırlar. Tüm zorluklara karşı, Özgür ve Ezgi için en önemli şey birbirlerine duydukları aşktır. Fakat Tolga’nın ve Serdar’ın onları rahat bırakmaya niyeti yoktur.(n)</desc>
+  </programme>
+  <programme start="20200926211500 +0100" stop="20200927000000 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200927000000 +0100" stop="20200927014500 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada - Tekrar</title>
+  </programme>
+  <programme start="20200927014500 +0100" stop="20200927031500 +0100" channel="FOX">
+    <title lang="tr">Temizlik Benim İşim - Tekrar</title>
+  </programme>
+  <programme start="20200927031500 +0100" stop="20200927053000 +0100" channel="FOX">
+    <title lang="tr">Hayat Sevince Güzel - Tekrar</title>
+  </programme>
+  <programme start="20200927053000 +0100" stop="20200927081500 +0100" channel="FOX">
+    <title lang="tr">İlker Karagöz ile Çalar Saat Haftasonu</title>
+  </programme>
+  <programme start="20200927081500 +0100" stop="20200927091500 +0100" channel="FOX">
+    <title lang="tr">Memet Özer ile Mutfakta - Yeni Sezon</title>
+  </programme>
+  <programme start="20200927091500 +0100" stop="20200927100000 +0100" channel="FOX">
+    <title lang="tr">Ali Yeşilırmak İle Dostumun Dünyası - Yeni Sezon</title>
+  </programme>
+  <programme start="20200927100000 +0100" stop="20200927124500 +0100" channel="FOX">
+    <title lang="tr">Baraj - Tekrar</title>
+  </programme>
+  <programme start="20200927124500 +0100" stop="20200927160000 +0100" channel="FOX">
+    <title lang="tr">Yasak Elma - Tekrar</title>
+  </programme>
+  <programme start="20200927160000 +0100" stop="20200927170000 +0100" channel="FOX">
+    <title lang="tr">Gülbin Tosun ile FOX Ana Haber</title>
+  </programme>
+  <programme start="20200927170000 +0100" stop="20200927210000 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka</title>
+    <desc lang="tr">Zümrüt, Serhat’la olan geçmişini ve aşkını sorgulamaya başlar. Serhat için, Zümrüt’ten başkası yoktur, olmayacaktır da.(n)</desc>
+  </programme>
+  <programme start="20200927210000 +0100" stop="20200927233000 +0100" channel="FOX">
+    <title lang="tr">Baraj - Tekrar</title>
+  </programme>
+  <programme start="20200927233000 +0100" stop="20200928020000 +0100" channel="FOX">
+    <title lang="tr">Yasak Elma - Tekrar</title>
+  </programme>
+  <programme start="20200928020000 +0100" stop="20200928031500 +0100" channel="FOX">
+    <title lang="tr">Kadın - Tekrar</title>
+  </programme>
+  <programme start="20200928031500 +0100" stop="20200928053000 +0100" channel="FOX">
+    <title lang="tr">Hayat Sevince Güzel - Tekrar</title>
+  </programme>
+  <programme start="20200928053000 +0100" stop="20200928081500 +0100" channel="FOX">
+    <title lang="tr">İlker Karagöz ile Çalar Saat Haftasonu</title>
+  </programme>
+  <programme start="20200928081500 +0100" stop="20200928084500 +0100" channel="FOX">
+    <title lang="tr">Kamera Arkası</title>
+  </programme>
+  <programme start="20200928084500 +0100" stop="20200928103000 +0100" channel="FOX">
+    <title lang="tr">Küçük Prens</title>
+    <desc lang="tr">Annesi tarafından artık yetişkinlerin dünyasına hazırlanan, çocukluktan çıkmak üzere olan kız, tuhaf ancak iyi yürekli bir adam olan komşuları Pilot ile tanışınca her şey değişir.(n)</desc>
+  </programme>
+  <programme start="20200928103000 +0100" stop="20200928131500 +0100" channel="FOX">
+    <title lang="tr">Mucize Doktor - Tekrar</title>
+  </programme>
+  <programme start="20200928131500 +0100" stop="20200928160000 +0100" channel="FOX">
+    <title lang="tr">Sen Çal Kapımı - Tekrar</title>
+  </programme>
+  <programme start="20200928160000 +0100" stop="20200928170000 +0100" channel="FOX">
+    <title lang="tr">Gülbin Tosun ile FOX Ana Haber</title>
+  </programme>
+  <programme start="20200928170000 +0100" stop="20200928200000 +0100" channel="FOX">
+    <title lang="tr">Savaşçı</title>
+  </programme>
+  <programme start="20200928211500 +0100" stop="20200928234500 +0100" channel="FOX">
+    <title lang="tr">Çalgı Çengi İkimiz</title>
+    <title lang="en">Ahmet Kural</title>
+    <desc lang="tr">Bu nedenle mafyadan tamamen uzaklaşıp hayatlarında yepyeni bir sayfa açmaya karar verirler. Ancak bu o kadar kolay olmayacaktır, mafyadan azledilmeleri için sahneye çıkacaklardaki bir düğündeki nikah memurunu kaçırmaları gerekmektedir.(n)</desc>
+  </programme>
+  <programme start="20200928234500 +0100" stop="20200929023000 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200929023000 +0100" stop="20200929050000 +0100" channel="FOX">
+    <title lang="tr">Rüzgarın Kalbi - Tekrar</title>
+  </programme>
+  <programme start="20200929050000 +0100" stop="20200929074500 +0100" channel="FOX">
+    <title lang="tr">İsmail Küçükkaya ile Çalar Saat</title>
+  </programme>
+  <programme start="20200929074500 +0100" stop="20200929094500 +0100" channel="FOX">
+    <title lang="tr">Çağla ile Yeni Bir Gün</title>
+  </programme>
+  <programme start="20200929094500 +0100" stop="20200929104500 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200929104500 +0100" stop="20200929124500 +0100" channel="FOX">
+    <title lang="tr">Temizlik Benim İşim</title>
+  </programme>
+  <programme start="20200929124500 +0100" stop="20200929160000 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada</title>
+  </programme>
+  <programme start="20200929160000 +0100" stop="20200929170000 +0100" channel="FOX">
+    <title lang="tr">Selçuk Tepeli ile Fox Ana Haber</title>
+  </programme>
+  <programme start="20200929170000 +0100" stop="20200929200000 +0100" channel="FOX">
+    <title lang="tr">Yasak Elma</title>
+  </programme>
+  <programme start="20200929211500 +0100" stop="20200929234500 +0100" channel="FOX">
+    <title lang="tr">Baraj - Tekrar</title>
+  </programme>
+  <programme start="20200929234500 +0100" stop="20200930020000 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200930020000 +0100" stop="20200930030000 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada - Tekrar</title>
+  </programme>
+  <programme start="20200930030000 +0100" stop="20200930050000 +0100" channel="FOX">
+    <title lang="tr">Rüzgarın Kalbi - Tekrar</title>
+  </programme>
+  <programme start="20200930050000 +0100" stop="20200930074500 +0100" channel="FOX">
+    <title lang="tr">İsmail Küçükkaya ile Çalar Saat</title>
+  </programme>
+  <programme start="20200930074500 +0100" stop="20200930094500 +0100" channel="FOX">
+    <title lang="tr">Çağla ile Yeni Bir Gün</title>
+  </programme>
+  <programme start="20200930094500 +0100" stop="20200930104500 +0100" channel="FOX">
+    <title lang="tr">Zümrüdüanka - Tekrar</title>
+  </programme>
+  <programme start="20200930104500 +0100" stop="20200930124500 +0100" channel="FOX">
+    <title lang="tr">Temizlik Benim İşim</title>
+  </programme>
+  <programme start="20200930124500 +0100" stop="20200930160000 +0100" channel="FOX">
+    <title lang="tr">Zuhal Topal'la Sofrada</title>
+  </programme>
+  <programme start="20200930160000 +0100" stop="20200930170000 +0100" channel="FOX">
+    <title lang="tr">Selçuk Tepeli ile Fox Ana Haber</title>
+  </programme>
+  <programme start="20200930170000 +0100" stop="20200930200000 +0100" channel="FOX">
+    <title lang="tr">Baraj</title>
+  </programme>
+</tv>
