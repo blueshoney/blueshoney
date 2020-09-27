@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MovieSmart Türk.dummy">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f972a1cfef0b75f4723f94" />
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Türk">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin.dummy">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Gold.dummy">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Gold">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin 2.dummy">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin 2">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium.dummy">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Classic.dummy">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Classic">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Action.dummy">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Action">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Fest.dummy">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Fest">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Family.dummy">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Family">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium 2.dummy">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium 2">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <programme start="20200928220500 +0500" stop="20200928232000 +0500" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Tabutta Rövaşata</title>
+    <desc lang="tr">Rumelihisar sokaklarında yaşayan Mahsun çevresi tarafından sevilen yoksul ve kimsesiz bir adamdır. Hayatta hiçbir amacı olmayan bu adam otomobil çalarak hayatta kalmaktadır.Bir gün sürekli takıldığı kahveye gelen bir kıza aşık olan Mahsun kalacak hiçbir yeri olmayan bu kıza odasını açar. Fakat kız bu iyiliği kötüye kullanarak Mahsun'un hayatında onarılmayacak yaralar açacaktır.(n)</desc>
+  </programme>
+  <programme start="20200928232000 +0500" stop="20200929010500 +0500" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Hababam Taburu</title>
+    <desc lang="tr">Türk gemisinin dört mürettabatı kaptandan habersiz Casablanca'ya gitmeye karar verir ve rotayı değiştirirler. Fakat hiç bilmedikleri, ıssız çöllerin olduğu bir yere varırlar. Burası darbeler ülkesi olan Umumba'dır. Komşu devletleri ile savaş halinde olanUmumba Devleti, kendi kara sularına giren her gemiye el koyar. Bu gemilerden biride Türk yük gemisidir. Böylece dört kafadar mürettebatın Hababam Taburu olarak askerlik serüvenleri başlar.(n)</desc>
+  </programme>
+  <programme start="20200929010500 +0500" stop="20200929022500 +0500" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200929022500 +0500" stop="20200929052500 +0500" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Kafkas Kartalı</title>
+    <desc lang="tr">Rusya'nın egemenliği altındaki Azeri Türkleri'nin bağımsızlık için verdikleri mücadeleyi konu alan tarihi film.(n)</desc>
+  </programme>
+  <programme start="20200928010500 +0500" stop="20200928022000 +0500" channel="MovieSmart Türk">
+    <title lang="tr">Tabutta Rövaşata</title>
+    <desc lang="tr">Rumelihisar sokaklarında yaşayan Mahsun çevresi tarafından sevilen yoksul ve kimsesiz bir adamdır. Hayatta hiçbir amacı olmayan bu adam otomobil çalarak hayatta kalmaktadır.Bir gün sürekli takıldığı kahveye gelen bir kıza aşık olan Mahsun kalacak hiçbir yeri olmayan bu kıza odasını açar. Fakat kız bu iyiliği kötüye kullanarak Mahsun'un hayatında onarılmayacak yaralar açacaktır.(n)</desc>
+  </programme>
+  <programme start="20200928022000 +0500" stop="20200928040500 +0500" channel="MovieSmart Türk">
+    <title lang="tr">Hababam Taburu</title>
+    <desc lang="tr">Türk gemisinin dört mürettabatı kaptandan habersiz Casablanca'ya gitmeye karar verir ve rotayı değiştirirler. Fakat hiç bilmedikleri, ıssız çöllerin olduğu bir yere varırlar. Burası darbeler ülkesi olan Umumba'dır. Komşu devletleri ile savaş halinde olanUmumba Devleti, kendi kara sularına giren her gemiye el koyar. Bu gemilerden biride Türk yük gemisidir. Böylece dört kafadar mürettebatın Hababam Taburu olarak askerlik serüvenleri başlar.(n)</desc>
+  </programme>
+  <programme start="20200928040500 +0500" stop="20200928052500 +0500" channel="MovieSmart Türk">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200928052500 +0500" stop="20200928082500 +0500" channel="MovieSmart Türk">
+    <title lang="tr">Kafkas Kartalı</title>
+    <desc lang="tr">Rusya'nın egemenliği altındaki Azeri Türkleri'nin bağımsızlık için verdikleri mücadeleyi konu alan tarihi film.(n)</desc>
+  </programme>
+</tv>
