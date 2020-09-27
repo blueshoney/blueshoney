@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MovieSmart Türk.dummy">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f972a1cfef0b75f4723f94" />
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Türk">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin.dummy">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Gold.dummy">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Gold">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin 2.dummy">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Platin 2">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium.dummy">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Classic.dummy">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Classic">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Action.dummy">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Action">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Fest.dummy">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Fest">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Family.dummy">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Family">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium 2.dummy">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="MovieSmart Premium 2">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <programme start="20200927221000 +0100" stop="20200927234000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Ammar 2: Cin İstilası</title>
+    <desc lang="tr">İlk filmdeki kaset, gazetecilik bölümü okuyan gençler tarafından tez konusu olur. Feride ve Mustafa'nın ölümünü araştırmak üzere bir belgesel film hazırlamaya karar verirler. Olaya karışmış gerçek kişilerle görüşüp Fransa, Hollanda ve Belçika'daki araştırmalarını da tamamladıktan sonra son olarak Sivas'ta gerçek izlere ulaşırlar. Polisin kapattığı dosyanın Cinlerle bağlantılı olduğuna kesin olarak inanırlar.(n)</desc>
+  </programme>
+  <programme start="20200927234000 +0100" stop="20200928005000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Kadifeden Kesesi</title>
+    <desc lang="tr">İstanbul'a tahsil için gelip, çeşitli maceralar yaşayan üç kardeşin komik ve eğlenceli öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200928005000 +0100" stop="20200928021500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Çapkın Hırsız</title>
+    <desc lang="tr">İki arkadaşın başlarından geçen serüvenleri konu alan filmde, parasız kalan iki arkadaş bir köşkü soymaya karar verirler. Ancak olaylar beklenmedik bir biçimde gelişir.(n)</desc>
+  </programme>
+  <programme start="20200928021500 +0100" stop="20200928040000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Murat İle Nazlı</title>
+    <desc lang="tr">Köy ağasının düşmanı olan bir ailenin oğlunun, ağanın kızıyla yaşadığı umutsuz aşkı konu alan bir melodram.(n)</desc>
+  </programme>
+  <programme start="20200928040000 +0100" stop="20200928051500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200928051500 +0100" stop="20200928065000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Deli Deli Küpeli</title>
+    <desc lang="tr">Kışın hüküm sürdüğü ve karın yolları kapadığı bir kasabaya beklenen kaymakam ve savcı sonunda ulaşmayı başarırlar. Hemen icraata başlayan kaymakam kasabadaki üçkağıtçılara ve bozuk düzene karşı büyük bir mücadele başlatır. Kısa zamanda halkın sevgilisi olan bu çılgın kaymakamın aslında bir sırrı vardır, kasabaya savcı yaptığı arkadaşı gibi oda tımarhaneden kaçmış bir delidir.(n)</desc>
+  </programme>
+  <programme start="20200928065000 +0100" stop="20200928082000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Gülcemal</title>
+    <desc lang="tr">Film, hayatında hiç görmediği babasının ölümünün ardından yollara düşen Gülcemal'in hayatını ele alıyor.(n)</desc>
+  </programme>
+  <programme start="20200928082000 +0100" stop="20200928095000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Murat İle Nazlı</title>
+    <desc lang="tr">Köy ağasının düşmanı olan bir ailenin oğlunun, ağanın kızıyla yaşadığı umutsuz aşkı konu alan bir melodram.(n)</desc>
+  </programme>
+  <programme start="20200928095000 +0100" stop="20200928114500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Karınca Kapanı</title>
+    <desc lang="tr">Güven Sarıselimoğlu, ülkenin en büyük holdinglerinden birinin sahibidir. Mutsuz bir evliliği olan ve sürekli kocasının göz hapsinde tutulan Münevver Sarıselimoğlu, eşi Güven'den kurtulmak ve ondan intikam almak için bir mafya babasından, Galip'ten yardım ister. Galip kimsenin öngöremeyeceği bir plan yapar ve böylece sadece kapandaki bu üç insanın değil bütün ülkenin kaderini değiştirecek bir hesaplaşma başlar.(n)</desc>
+  </programme>
+  <programme start="20200928114500 +0100" stop="20200928132000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Postacı</title>
+    <desc lang="tr">Sevtap, aynı mahallede oturan posta dağıtıcısı Adem'i beğenir. Birbirlerini severler. Bu arada tatilini geçirmek üzere Türkiye'ye gelen Sevtap'ın ağabeyi, bu ilişkiye şiddetle karşı çıkar. Ama Sevtap, Adem'den vazgeçmeye niyetli değildir.(n)</desc>
+  </programme>
+  <programme start="20200928132000 +0100" stop="20200928150000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Kirpi</title>
+    <desc lang="tr">Kirpi, birbirlerinden intikam almak için her yolu deneyen iki inatçı düşmanın, oldukça masum başlayan çekişmelerinin ülke çapında bir kargaşaya yol açmasını komik bir dille anlatıyor.(n)</desc>
+  </programme>
+  <programme start="20200928150000 +0100" stop="20200928163000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Battal Gazi Destanı</title>
+    <desc lang="tr">Babasının mezarı başında intikam yemini eden Battal Gazi ile sonunda İslamiyet'i kabul eden Bizans'lı Hammer'in öyküsü..(n)</desc>
+  </programme>
+  <programme start="20200928163000 +0100" stop="20200928184500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Çetin Ceviz-1</title>
+    <desc lang="tr">Aradığı aşkı ve huzuru yaşadığı köyde bulamayan Hatice, şehre göç etmeye karar verir ve üç kişilik zengin ve mutlu bir ailenin yanında çalışmaya başlar. Önceleri herşey yolunda gider.Fakat sonra tanık oldukları karşısında herşeyin o kadarda mükemmel olmadığının farkına varır. Yaşanılan olaylar karşısında şaşkına dönen Hatice, olan biteni uğursuzluğuna yorsada hayatının aşkını bulmayı da ihmal etmez.(n)</desc>
+  </programme>
+  <programme start="20200928184500 +0100" stop="20200928203000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Kaos: Örümcek Ağı</title>
+    <desc lang="tr">Türkiye'yi hem yurt içi hem yurt dışından gelebilecek tehditlere karşı koruma amaçlı kurulan gizli bir yapı olan Ulusal Güvenlik Teşkilatı'nın (UGT) bu sefer ki görevi oldukça tehlikeli ve risklidir. Zira ülke ciddi bir tehditle karşı karşıyadır ve ekibin sadece 48 saati vardır.(n)</desc>
+  </programme>
+  <programme start="20200928203000 +0100" stop="20200928233000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Bebek Geliyorum Demez</title>
+    <desc lang="tr">Kurumsal bir şirkette çalışan Beste, bu hayattan kurtulup başarılı bir yazar olabilmenin hayalini kurmaktadır. Bu sırada, hiç hazırlıklı olmadığı bir zamanda hamile kaldığını öğrenir. Bu haber, eşi Alper'le ilişkisini de, kendisi ve yakınları dahil çok kişinin hayatını da etkileyecektir.(n)</desc>
+  </programme>
+  <programme start="20200929220500 +0100" stop="20200929232000 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Tabutta Rövaşata</title>
+    <desc lang="tr">Rumelihisar sokaklarında yaşayan Mahsun çevresi tarafından sevilen yoksul ve kimsesiz bir adamdır. Hayatta hiçbir amacı olmayan bu adam otomobil çalarak hayatta kalmaktadır.Bir gün sürekli takıldığı kahveye gelen bir kıza aşık olan Mahsun kalacak hiçbir yeri olmayan bu kıza odasını açar. Fakat kız bu iyiliği kötüye kullanarak Mahsun'un hayatında onarılmayacak yaralar açacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929232000 +0100" stop="20200930010500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Hababam Taburu</title>
+    <desc lang="tr">Türk gemisinin dört mürettabatı kaptandan habersiz Casablanca'ya gitmeye karar verir ve rotayı değiştirirler. Fakat hiç bilmedikleri, ıssız çöllerin olduğu bir yere varırlar. Burası darbeler ülkesi olan Umumba'dır. Komşu devletleri ile savaş halinde olanUmumba Devleti, kendi kara sularına giren her gemiye el koyar. Bu gemilerden biride Türk yük gemisidir. Böylece dört kafadar mürettebatın Hababam Taburu olarak askerlik serüvenleri başlar.(n)</desc>
+  </programme>
+  <programme start="20200930010500 +0100" stop="20200930022500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200930022500 +0100" stop="20200930052500 +0100" channel="MovieSmart Türk.dummy">
+    <title lang="tr">Kafkas Kartalı</title>
+    <desc lang="tr">Rusya'nın egemenliği altındaki Azeri Türkleri'nin bağımsızlık için verdikleri mücadeleyi konu alan tarihi film.(n)</desc>
+  </programme>
+  <programme start="20200927011000 +0100" stop="20200927024000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Ammar 2: Cin İstilası</title>
+    <desc lang="tr">İlk filmdeki kaset, gazetecilik bölümü okuyan gençler tarafından tez konusu olur. Feride ve Mustafa'nın ölümünü araştırmak üzere bir belgesel film hazırlamaya karar verirler. Olaya karışmış gerçek kişilerle görüşüp Fransa, Hollanda ve Belçika'daki araştırmalarını da tamamladıktan sonra son olarak Sivas'ta gerçek izlere ulaşırlar. Polisin kapattığı dosyanın Cinlerle bağlantılı olduğuna kesin olarak inanırlar.(n)</desc>
+  </programme>
+  <programme start="20200927024000 +0100" stop="20200927035000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Kadifeden Kesesi</title>
+    <desc lang="tr">İstanbul'a tahsil için gelip, çeşitli maceralar yaşayan üç kardeşin komik ve eğlenceli öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200927035000 +0100" stop="20200927051500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Çapkın Hırsız</title>
+    <desc lang="tr">İki arkadaşın başlarından geçen serüvenleri konu alan filmde, parasız kalan iki arkadaş bir köşkü soymaya karar verirler. Ancak olaylar beklenmedik bir biçimde gelişir.(n)</desc>
+  </programme>
+  <programme start="20200927051500 +0100" stop="20200927070000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Murat İle Nazlı</title>
+    <desc lang="tr">Köy ağasının düşmanı olan bir ailenin oğlunun, ağanın kızıyla yaşadığı umutsuz aşkı konu alan bir melodram.(n)</desc>
+  </programme>
+  <programme start="20200927070000 +0100" stop="20200927081500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200927081500 +0100" stop="20200927095000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Deli Deli Küpeli</title>
+    <desc lang="tr">Kışın hüküm sürdüğü ve karın yolları kapadığı bir kasabaya beklenen kaymakam ve savcı sonunda ulaşmayı başarırlar. Hemen icraata başlayan kaymakam kasabadaki üçkağıtçılara ve bozuk düzene karşı büyük bir mücadele başlatır. Kısa zamanda halkın sevgilisi olan bu çılgın kaymakamın aslında bir sırrı vardır, kasabaya savcı yaptığı arkadaşı gibi oda tımarhaneden kaçmış bir delidir.(n)</desc>
+  </programme>
+  <programme start="20200927095000 +0100" stop="20200927112000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Gülcemal</title>
+    <desc lang="tr">Film, hayatında hiç görmediği babasının ölümünün ardından yollara düşen Gülcemal'in hayatını ele alıyor.(n)</desc>
+  </programme>
+  <programme start="20200927112000 +0100" stop="20200927125000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Murat İle Nazlı</title>
+    <desc lang="tr">Köy ağasının düşmanı olan bir ailenin oğlunun, ağanın kızıyla yaşadığı umutsuz aşkı konu alan bir melodram.(n)</desc>
+  </programme>
+  <programme start="20200927125000 +0100" stop="20200927144500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Karınca Kapanı</title>
+    <desc lang="tr">Güven Sarıselimoğlu, ülkenin en büyük holdinglerinden birinin sahibidir. Mutsuz bir evliliği olan ve sürekli kocasının göz hapsinde tutulan Münevver Sarıselimoğlu, eşi Güven'den kurtulmak ve ondan intikam almak için bir mafya babasından, Galip'ten yardım ister. Galip kimsenin öngöremeyeceği bir plan yapar ve böylece sadece kapandaki bu üç insanın değil bütün ülkenin kaderini değiştirecek bir hesaplaşma başlar.(n)</desc>
+  </programme>
+  <programme start="20200927144500 +0100" stop="20200927162000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Postacı</title>
+    <desc lang="tr">Sevtap, aynı mahallede oturan posta dağıtıcısı Adem'i beğenir. Birbirlerini severler. Bu arada tatilini geçirmek üzere Türkiye'ye gelen Sevtap'ın ağabeyi, bu ilişkiye şiddetle karşı çıkar. Ama Sevtap, Adem'den vazgeçmeye niyetli değildir.(n)</desc>
+  </programme>
+  <programme start="20200927162000 +0100" stop="20200927180000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Kirpi</title>
+    <desc lang="tr">Kirpi, birbirlerinden intikam almak için her yolu deneyen iki inatçı düşmanın, oldukça masum başlayan çekişmelerinin ülke çapında bir kargaşaya yol açmasını komik bir dille anlatıyor.(n)</desc>
+  </programme>
+  <programme start="20200927180000 +0100" stop="20200927193000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Battal Gazi Destanı</title>
+    <desc lang="tr">Babasının mezarı başında intikam yemini eden Battal Gazi ile sonunda İslamiyet'i kabul eden Bizans'lı Hammer'in öyküsü..(n)</desc>
+  </programme>
+  <programme start="20200927193000 +0100" stop="20200927214500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Çetin Ceviz-1</title>
+    <desc lang="tr">Aradığı aşkı ve huzuru yaşadığı köyde bulamayan Hatice, şehre göç etmeye karar verir ve üç kişilik zengin ve mutlu bir ailenin yanında çalışmaya başlar. Önceleri herşey yolunda gider.Fakat sonra tanık oldukları karşısında herşeyin o kadarda mükemmel olmadığının farkına varır. Yaşanılan olaylar karşısında şaşkına dönen Hatice, olan biteni uğursuzluğuna yorsada hayatının aşkını bulmayı da ihmal etmez.(n)</desc>
+  </programme>
+  <programme start="20200927214500 +0100" stop="20200927233000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Kaos: Örümcek Ağı</title>
+    <desc lang="tr">Türkiye'yi hem yurt içi hem yurt dışından gelebilecek tehditlere karşı koruma amaçlı kurulan gizli bir yapı olan Ulusal Güvenlik Teşkilatı'nın (UGT) bu sefer ki görevi oldukça tehlikeli ve risklidir. Zira ülke ciddi bir tehditle karşı karşıyadır ve ekibin sadece 48 saati vardır.(n)</desc>
+  </programme>
+  <programme start="20200927233000 +0100" stop="20200928023000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Bebek Geliyorum Demez</title>
+    <desc lang="tr">Kurumsal bir şirkette çalışan Beste, bu hayattan kurtulup başarılı bir yazar olabilmenin hayalini kurmaktadır. Bu sırada, hiç hazırlıklı olmadığı bir zamanda hamile kaldığını öğrenir. Bu haber, eşi Alper'le ilişkisini de, kendisi ve yakınları dahil çok kişinin hayatını da etkileyecektir.(n)</desc>
+  </programme>
+  <programme start="20200929010500 +0100" stop="20200929022000 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Tabutta Rövaşata</title>
+    <desc lang="tr">Rumelihisar sokaklarında yaşayan Mahsun çevresi tarafından sevilen yoksul ve kimsesiz bir adamdır. Hayatta hiçbir amacı olmayan bu adam otomobil çalarak hayatta kalmaktadır.Bir gün sürekli takıldığı kahveye gelen bir kıza aşık olan Mahsun kalacak hiçbir yeri olmayan bu kıza odasını açar. Fakat kız bu iyiliği kötüye kullanarak Mahsun'un hayatında onarılmayacak yaralar açacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929022000 +0100" stop="20200929040500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Hababam Taburu</title>
+    <desc lang="tr">Türk gemisinin dört mürettabatı kaptandan habersiz Casablanca'ya gitmeye karar verir ve rotayı değiştirirler. Fakat hiç bilmedikleri, ıssız çöllerin olduğu bir yere varırlar. Burası darbeler ülkesi olan Umumba'dır. Komşu devletleri ile savaş halinde olanUmumba Devleti, kendi kara sularına giren her gemiye el koyar. Bu gemilerden biride Türk yük gemisidir. Böylece dört kafadar mürettebatın Hababam Taburu olarak askerlik serüvenleri başlar.(n)</desc>
+  </programme>
+  <programme start="20200929040500 +0100" stop="20200929052500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Battal Gazi'nin Oğlu</title>
+    <desc lang="tr">Yıllar sonra büyüyüp babasının intikamını alan cengaverin kahramanlık öyküsü.(n)</desc>
+  </programme>
+  <programme start="20200929052500 +0100" stop="20200929082500 +0100" channel="MovieSmart Türk">
+    <title lang="tr">Kafkas Kartalı</title>
+    <desc lang="tr">Rusya'nın egemenliği altındaki Azeri Türkleri'nin bağımsızlık için verdikleri mücadeleyi konu alan tarihi film.(n)</desc>
+  </programme>
+</tv>
