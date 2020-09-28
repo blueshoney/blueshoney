@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX.dummy">
+    <display-name lang="tr">FX</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/5d9dc96ccfef0b5db33df65a" />
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="tr">TR: FX HD</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Dizi Smart Premium.dummy">
+    <display-name lang="tr">TR: Dizi Smart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Dizi Smart Premium">
+    <display-name lang="tr">TR: Dizi Smart Premium</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Dizi Smart Max.dummy">
+    <display-name lang="tr">TR: Dizi Smart Max</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Dizi Smart Max">
+    <display-name lang="tr">TR: Dizi Smart Max</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="FOXLIFE.dummy">
+    <display-name lang="tr">TR: FOXLIFE</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="FOXLIFE">
+    <display-name lang="tr">TR: FOXLIFE</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="FOXCRIME.dummy">
+    <display-name lang="tr">TR: FOXCRIME</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="FOXCRIME">
+    <display-name lang="tr">TR: FOXCRIME</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="NBA TV.dummy">
+    <display-name lang="tr">TR: NBA TV</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="tr">TR: NBA TV</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="S Sport.dummy">
+    <display-name lang="tr">TR: S Sport</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="S Sport">
+    <display-name lang="tr">TR: S Sport</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Spor Smart.dummy">
+    <display-name lang="tr">TR: Spor Smart</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Spor Smart">
+    <display-name lang="tr">TR: Spor Smart</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Trt Spor 2.dummy">
+    <display-name lang="tr">TR: Trt Spor 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Trt Spor 2">
+    <display-name lang="tr">TR: Trt Spor 2</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Love Nature.dummy">
+    <display-name lang="tr">TR: Love Nature</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="tr">TR: Love Nature</display-name>
+    <url>http://www.dsmart.com.tr.E</url>
+  </channel>
+  <programme start="20200928210000 +0300" stop="20200928215500 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Rick'in gidişinden 6 yıl sonra Hilltop'a yeni bir grup girerken, kayıp iki arkadaşı bulmak için cesur bir arama grubu oluşturulur.(n)</desc>
+  </programme>
+  <programme start="20200928215500 +0300" stop="20200928224000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Alpha kızını geri almak için, kendi grubuyla Hilltop kolonisini karşı karşıya getirir. Krallık için yapılan tedarik yardımı tehlikeli bir göreve dönüşür.(n)</desc>
+  </programme>
+  <programme start="20200928224000 +0300" stop="20200928234000 +0300" channel="FX.dummy">
+    <title lang="tr">Billions</title>
+    <desc lang="tr">Axe, geleceğini güvence altına almak için geçmişine dönerken Chuck, bazı eski ortakların yardımıyla Axe'a karşı komplo kurar.(n)</desc>
+  </programme>
+  <programme start="20200928234000 +0300" stop="20200929003500 +0300" channel="FX.dummy">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon ve Emmett, yılın en sıcak günlerinden birinde Chicago yaz eğlencesi için biraraya gelir. Kevin ailesinde gerçekleşen bir ölüm ile başa çıkmaya çalışmaktadır. Ronnie, Rafiq ile tekrar iletişime geçer ve bazı yardımı dokunabilecek olan tavsiyeler alır.(n)</desc>
+  </programme>
+  <programme start="20200929003500 +0300" stop="20200929013000 +0300" channel="FX.dummy">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon, THE AFTER TASTE FOOD yarışmasında finale kalır. Emmett, hayatındaki kadın ile aralarını yumuşatmaya çalışır. Kevin ve Jack bir kavgaya karışır.(n)</desc>
+  </programme>
+  <programme start="20200929013000 +0300" stop="20200929015000 +0300" channel="FX.dummy">
+    <title lang="tr">Last Man Standing</title>
+    <desc lang="tr">Kristin ve Mandy, Kyle’ın İK Oryantasyonu'ndan kaçmaya çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929015000 +0300" stop="20200929021500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Simpson Ailesi, Marge'ı ısırmasıyla birlikte köpeklerinin trajik geçmişini keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929021500 +0300" stop="20200929030000 +0300" channel="FX.dummy">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20200929030000 +0300" stop="20200929034500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Ed, Orville'deki Moclans'ın bir sır sakladığını keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929034500 +0300" stop="20200929043500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929043500 +0300" stop="20200929045700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929045700 +0300" stop="20200929052000 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200929052000 +0300" stop="20200929060000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Coulson ve General Talbot, süper güçleri olan insanlar hakkındaki sempozyumda Malick'in içeriden bir adamı olduğundan şüphelenir.(n)</desc>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929062200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929062200 +0300" stop="20200929064500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200929064500 +0300" stop="20200929073500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Ed, Orville'deki Moclans'ın bir sır sakladığını keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929073500 +0300" stop="20200929082500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929082500 +0300" stop="20200929091000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200929091000 +0300" stop="20200929093200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929093200 +0300" stop="20200929095500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200929095500 +0300" stop="20200929104500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929104500 +0300" stop="20200929113000 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929122000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200929122000 +0300" stop="20200929124200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200929124200 +0300" stop="20200929130500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200929130500 +0300" stop="20200929135500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929135500 +0300" stop="20200929145000 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200929145000 +0300" stop="20200929154500 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929154500 +0300" stop="20200929160700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929160700 +0300" stop="20200929164500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200929164500 +0300" stop="20200929173500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929173500 +0300" stop="20200929183000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929183000 +0300" stop="20200929194500 +0300" channel="FX.dummy">
+    <title lang="tr">Alef</title>
+    <desc lang="tr">Settar’ın geçmişi Kemal ile arasında büyük bir mesafe yaratırken, aralanan sır perdesi tamamen açılacaktır….(n)</desc>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929203500 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, kelimenin tam anlamıyla her yerde olabilen Dean'i bulmaya çalışan herkesin yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200929203500 +0300" stop="20200929212000 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, Dean'in bulunduğu yer hakkında bir ipucu bulmasıyla, Mary ve Bobby araştırmaya başlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929212000 +0300" stop="20200929221000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir topluluk içerden bölünme tehdidi için mücadele ederken, başka bir grubun gerçek niyeti ortaya çıkar. Bu kez, bir arkadaş kurtarma görevinin ölümcül sonuçları olabilir.(n)</desc>
+  </programme>
+  <programme start="20200929221000 +0300" stop="20200929225000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daryl'in cesur kurtarma görevi, Alpha'yı kendisine ait olanı alması için bedeli kanla ödense bile kendi grubunu serbest bırakmaya zorlar. Krallık'ın toplulukları yeniden bir araya getirme planları tehlikeye atılır.(n)</desc>
+  </programme>
+  <programme start="20200929225000 +0300" stop="20200929233500 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, kelimenin tam anlamıyla her yerde olabilen Dean'i bulmaya çalışan herkesin yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200929233500 +0300" stop="20200930001500 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, Dean'in bulunduğu yer hakkında bir ipucu bulmasıyla, Mary ve Bobby araştırmaya başlarlar.(n)</desc>
+  </programme>
+  <programme start="20200930001500 +0300" stop="20200930010000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200930010000 +0300" stop="20200930014500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930014500 +0300" stop="20200930021000 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930021000 +0300" stop="20200930030000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200930030000 +0300" stop="20200930035000 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200930035000 +0300" stop="20200930044000 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200930044000 +0300" stop="20200930050200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200930050200 +0300" stop="20200930052500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200930052500 +0300" stop="20200930060000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200930060000 +0300" stop="20200930062200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200930062200 +0300" stop="20200930064500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200930064500 +0300" stop="20200930073500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200930073500 +0300" stop="20200930082500 +0300" channel="FX.dummy">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200930082500 +0300" stop="20200930091000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200930091000 +0300" stop="20200930093200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200930093200 +0300" stop="20200930095500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200930095500 +0300" stop="20200930104500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200930104500 +0300" stop="20200930113000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930122000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200930122000 +0300" stop="20200930124200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930124200 +0300" stop="20200930131000 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200930131000 +0300" stop="20200930140000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930145000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930145000 +0300" stop="20200930154500 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930160700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20200930160700 +0300" stop="20200930164500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20200930164500 +0300" stop="20200930173500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20200930173500 +0300" stop="20200930183000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20200930183000 +0300" stop="20200930192000 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Dean'e olanların gizemini çözmeye çalışan Sam, bilmeden davaya dahil olan Şerif Jody Mills'in yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200930192000 +0300" stop="20200930201000 +0300" channel="FX.dummy">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Aksiyon figürleri canlandığında Dean kendini gerçek bir korku filmi içinde bulur.(n)</desc>
+  </programme>
+  <programme start="20200930201000 +0300" stop="20200930210000 +0300" channel="FX.dummy">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930215000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir yabancının ani gelişi ve çarpıcı sırların ortaya çıkması Alexandria'da eski yaraları tekrar ortaya çıkarır.(n)</desc>
+  </programme>
+  <programme start="20200930215000 +0300" stop="20200930225000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Dört Topluluk ilk defa yıllar sonra yapılacak olan eğlence için Krallık'ta bir araya gelir.(n)</desc>
+  </programme>
+  <programme start="20200930225000 +0300" stop="20200930234000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Çok büyük bir kaybın ardından, topluluklar vahşi bir kar fırtınasına karşı cesur olmak zorundadır. Bu sırada, bir grup içerdeki düşmanıyla uğraşırken, bir diğeri hayat ya da ölüm kararı vermek zorundadır.(n)</desc>
+  </programme>
+  <programme start="20200930234000 +0300" stop="20201001003000 +0300" channel="FX.dummy">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20201001003000 +0300" stop="20201001011500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20201001011500 +0300" stop="20201001013700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20201001013700 +0300" stop="20201001020500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20201001020500 +0300" stop="20201001030000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001034500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20201001034500 +0300" stop="20201001043000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001043000 +0300" stop="20201001045200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001045200 +0300" stop="20201001051500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001060000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001062200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001062200 +0300" stop="20201001064500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20201001064500 +0300" stop="20201001073000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20201001073000 +0300" stop="20201001081500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001081500 +0300" stop="20201001090500 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20201001090500 +0300" stop="20201001092700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001092700 +0300" stop="20201001095500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20201001095500 +0300" stop="20201001104500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20201001104500 +0300" stop="20201001113000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001122000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20201001122000 +0300" stop="20201001124200 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20201001124200 +0300" stop="20201001131000 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20201001131000 +0300" stop="20201001140000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001145000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20201001145000 +0300" stop="20201001154500 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Ekip, yeni bir düşman hakkında bilgi arar; Malick'in geçmişindeki sırrı, Hydra mirasını yok etmekle tehdit eder.(n)</desc>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001160700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Büyükbaba çocuklara bakıcılık yaparken Simpson ailesi onun geçmişinde bir yolculuğa çıkar.(n)</desc>
+  </programme>
+  <programme start="20201001160700 +0300" stop="20201001164500 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Lisa yeni bir arkadaş edinmesiyle birlikte iki farklı yaşam sürmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001164500 +0300" stop="20201001173500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a üst düzey bir yetkilinin zamansız ziyaretinde, Brad ve Amy kaçışlarını planlar. Bu sırada, Sykes ve Richards birbirlerinin amaçlarını sorgulamaya başlar.(n)</desc>
+  </programme>
+  <programme start="20201001173500 +0300" stop="20201001183000 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir virüsün Proje NOAH'ın dışında görülmesi sonucunda Guilder ve Richard acil olarak bir arama ekibini harekete geçirir.(n)</desc>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001192500 +0300" channel="FX.dummy">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Phyllis, Eşit Haklar Bildirgesi'ne karşı mücadelesinde taban desteğini seferber eder. Gloria Steinem, Bella Abzug'ın kendisini siyasi oyunun içine çekme girişimlerini durdurur.(n)</desc>
+  </programme>
+  <programme start="20201001192500 +0300" stop="20201001202500 +0300" channel="FX.dummy">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon ve Emmett, yılın en sıcak günlerinden birinde Chicago yaz eğlencesi için biraraya gelir. Kevin ailesinde gerçekleşen bir ölüm ile başa çıkmaya çalışmaktadır. Ronnie, Rafiq ile tekrar iletişime geçer ve bazı yardımı dokunabilecek olan tavsiyeler alır.(n)</desc>
+  </programme>
+  <programme start="20201001202500 +0300" stop="20201001212000 +0300" channel="FX.dummy">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon, THE AFTER TASTE FOOD yarışmasında finale kalır. Emmett, hayatındaki kadın ile aralarını yumuşatmaya çalışır. Kevin ve Jack bir kavgaya karışır.(n)</desc>
+  </programme>
+  <programme start="20201001212000 +0300" stop="20201001221500 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Oceanside grubu, Fısıldayanlar'ın geri dönmesi ihtimaline karşılık eğitimlerine devam ederken, yeni medeniyet kurmaya çalışanlar arasında gerilim artar.(n)</desc>
+  </programme>
+  <programme start="20201001221500 +0300" stop="20201001230000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Alfa ve Beta'nın arasındaki bağın kökeni ortaya çıkarken, Fısıldayanlar kendi ekiplerini bir araya getirir.(n)</desc>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201001235000 +0300" channel="FX.dummy">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Fısıldayanlar'ın geri dönmesi, Alexandria'da büyük bir paranoyaya sebep olur.(n)</desc>
+  </programme>
+  <programme start="20201001235000 +0300" stop="20201002004000 +0300" channel="FX.dummy">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Phyllis, Eşit Haklar Bildirgesi'ne karşı mücadelesinde taban desteğini seferber eder. Gloria Steinem, Bella Abzug'ın kendisini siyasi oyunun içine çekme girişimlerini durdurur.(n)</desc>
+  </programme>
+  <programme start="20201002004000 +0300" stop="20201002012500 +0300" channel="FX.dummy">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir virüsün Proje NOAH'ın dışında görülmesi sonucunda Guilder ve Richard acil olarak bir arama ekibini harekete geçirir.(n)</desc>
+  </programme>
+  <programme start="20201002012500 +0300" stop="20201002014700 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Büyükbaba çocuklara bakıcılık yaparken Simpson ailesi onun geçmişinde bir yolculuğa çıkar.(n)</desc>
+  </programme>
+  <programme start="20201002014700 +0300" stop="20201002021000 +0300" channel="FX.dummy">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Lisa yeni bir arkadaş edinmesiyle birlikte iki farklı yaşam sürmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201002021000 +0300" stop="20201002051000 +0300" channel="FX.dummy">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Ekip, yeni bir düşman hakkında bilgi arar; Malick'in geçmişindeki sırrı, Hydra mirasını yok etmekle tehdit eder.(n)</desc>
+  </programme>
+  <programme start="20200928000000 +0300" stop="20200928005500 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Rick'in gidişinden 6 yıl sonra Hilltop'a yeni bir grup girerken, kayıp iki arkadaşı bulmak için cesur bir arama grubu oluşturulur.(n)</desc>
+  </programme>
+  <programme start="20200928005500 +0300" stop="20200928014000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Alpha kızını geri almak için, kendi grubuyla Hilltop kolonisini karşı karşıya getirir. Krallık için yapılan tedarik yardımı tehlikeli bir göreve dönüşür.(n)</desc>
+  </programme>
+  <programme start="20200928014000 +0300" stop="20200928024000 +0300" channel="FX">
+    <title lang="tr">Billions</title>
+    <desc lang="tr">Axe, geleceğini güvence altına almak için geçmişine dönerken Chuck, bazı eski ortakların yardımıyla Axe'a karşı komplo kurar.(n)</desc>
+  </programme>
+  <programme start="20200928024000 +0300" stop="20200928033500 +0300" channel="FX">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon ve Emmett, yılın en sıcak günlerinden birinde Chicago yaz eğlencesi için biraraya gelir. Kevin ailesinde gerçekleşen bir ölüm ile başa çıkmaya çalışmaktadır. Ronnie, Rafiq ile tekrar iletişime geçer ve bazı yardımı dokunabilecek olan tavsiyeler alır.(n)</desc>
+  </programme>
+  <programme start="20200928033500 +0300" stop="20200928043000 +0300" channel="FX">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon, THE AFTER TASTE FOOD yarışmasında finale kalır. Emmett, hayatındaki kadın ile aralarını yumuşatmaya çalışır. Kevin ve Jack bir kavgaya karışır.(n)</desc>
+  </programme>
+  <programme start="20200928043000 +0300" stop="20200928045000 +0300" channel="FX">
+    <title lang="tr">Last Man Standing</title>
+    <desc lang="tr">Kristin ve Mandy, Kyle’ın İK Oryantasyonu'ndan kaçmaya çalışır.(n)</desc>
+  </programme>
+  <programme start="20200928045000 +0300" stop="20200928051500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Simpson Ailesi, Marge'ı ısırmasıyla birlikte köpeklerinin trajik geçmişini keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200928051500 +0300" stop="20200928060000 +0300" channel="FX">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20200928060000 +0300" stop="20200928064500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Ed, Orville'deki Moclans'ın bir sır sakladığını keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200928064500 +0300" stop="20200928073500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200928073500 +0300" stop="20200928075700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200928075700 +0300" stop="20200928082000 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200928082000 +0300" stop="20200928090000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Coulson ve General Talbot, süper güçleri olan insanlar hakkındaki sempozyumda Malick'in içeriden bir adamı olduğundan şüphelenir.(n)</desc>
+  </programme>
+  <programme start="20200928090000 +0300" stop="20200928092200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200928092200 +0300" stop="20200928094500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200928094500 +0300" stop="20200928103500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Ed, Orville'deki Moclans'ın bir sır sakladığını keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200928103500 +0300" stop="20200928112500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200928112500 +0300" stop="20200928121000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200928121000 +0300" stop="20200928123200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Tanrı ve St. Peter cennete kimin gideceğini tartışırken, Springfield sakinleri gerçeküstü karşılaşmaları hatırlarlar.(n)</desc>
+  </programme>
+  <programme start="20200928123200 +0300" stop="20200928125500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer, Cthulhu'ya karşı istiridye yeme yarışmasını kazanır. Mr. Burns ise yeni bir emeklilik evi açar.(n)</desc>
+  </programme>
+  <programme start="20200928125500 +0300" stop="20200928134500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200928134500 +0300" stop="20200928143000 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200928143000 +0300" stop="20200928152000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200928152000 +0300" stop="20200928154200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200928154200 +0300" stop="20200928160500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200928160500 +0300" stop="20200928165500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200928165500 +0300" stop="20200928175000 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200928175000 +0300" stop="20200928184500 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200928184500 +0300" stop="20200928190700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200928190700 +0300" stop="20200928194500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200928194500 +0300" stop="20200928203500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200928203500 +0300" stop="20200928213000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200928213000 +0300" stop="20200928224500 +0300" channel="FX">
+    <title lang="tr">Alef</title>
+    <desc lang="tr">Settar’ın geçmişi Kemal ile arasında büyük bir mesafe yaratırken, aralanan sır perdesi tamamen açılacaktır….(n)</desc>
+  </programme>
+  <programme start="20200928224500 +0300" stop="20200928233500 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, kelimenin tam anlamıyla her yerde olabilen Dean'i bulmaya çalışan herkesin yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200928233500 +0300" stop="20200929002000 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, Dean'in bulunduğu yer hakkında bir ipucu bulmasıyla, Mary ve Bobby araştırmaya başlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929002000 +0300" stop="20200929011000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir topluluk içerden bölünme tehdidi için mücadele ederken, başka bir grubun gerçek niyeti ortaya çıkar. Bu kez, bir arkadaş kurtarma görevinin ölümcül sonuçları olabilir.(n)</desc>
+  </programme>
+  <programme start="20200929011000 +0300" stop="20200929015000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daryl'in cesur kurtarma görevi, Alpha'yı kendisine ait olanı alması için bedeli kanla ödense bile kendi grubunu serbest bırakmaya zorlar. Krallık'ın toplulukları yeniden bir araya getirme planları tehlikeye atılır.(n)</desc>
+  </programme>
+  <programme start="20200929015000 +0300" stop="20200929023500 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, kelimenin tam anlamıyla her yerde olabilen Dean'i bulmaya çalışan herkesin yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200929023500 +0300" stop="20200929031500 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Sam, Dean'in bulunduğu yer hakkında bir ipucu bulmasıyla, Mary ve Bobby araştırmaya başlarlar.(n)</desc>
+  </programme>
+  <programme start="20200929031500 +0300" stop="20200929040000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929044500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929044500 +0300" stop="20200929051000 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929051000 +0300" stop="20200929060000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929065000 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929065000 +0300" stop="20200929074000 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200929074000 +0300" stop="20200929080200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200929080200 +0300" stop="20200929082500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200929082500 +0300" stop="20200929090000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Malick'i Rusya'ya kadar takip ettikten sonra, Bobby ve Hunter bir suikast planına karışır. S.H.I.E.L.D. ekibi, tehlikedeki hayatları kurtarmak için yarışırken ekip içerisinde değişimler olur.(n)</desc>
+  </programme>
+  <programme start="20200929090000 +0300" stop="20200929092200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200929092200 +0300" stop="20200929094500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200929094500 +0300" stop="20200929103500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Zamandaki bozulma, Ed ve Kelly'nin ilişkisini etkiler.(n)</desc>
+  </programme>
+  <programme start="20200929103500 +0300" stop="20200929112500 +0300" channel="FX">
+    <title lang="tr">The Orville 2</title>
+    <desc lang="tr">Mürettebat, Kelly'nin kararından kaynaklanan felaket ile mücadele eder.(n)</desc>
+  </programme>
+  <programme start="20200929112500 +0300" stop="20200929121000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929121000 +0300" stop="20200929123200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Springfield'a gelen yeni bir araba firması, eğlenceli çalışma ortamıyla işçileri büyülüyor..(n)</desc>
+  </programme>
+  <programme start="20200929123200 +0300" stop="20200929125500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Bart, Nelson ve Milhouse, Moe'ya uçuk bir şaka hazırlıyor..(n)</desc>
+  </programme>
+  <programme start="20200929125500 +0300" stop="20200929134500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929143000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929143000 +0300" stop="20200929152000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200929152000 +0300" stop="20200929154200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929154200 +0300" stop="20200929161000 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200929161000 +0300" stop="20200929170000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929175000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200929175000 +0300" stop="20200929184500 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20200929184500 +0300" stop="20200929190700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20200929190700 +0300" stop="20200929194500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929203500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20200929203500 +0300" stop="20200929213000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20200929213000 +0300" stop="20200929222000 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Dean'e olanların gizemini çözmeye çalışan Sam, bilmeden davaya dahil olan Şerif Jody Mills'in yardımını ister.(n)</desc>
+  </programme>
+  <programme start="20200929222000 +0300" stop="20200929231000 +0300" channel="FX">
+    <title lang="tr">Supernatural</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Aksiyon figürleri canlandığında Dean kendini gerçek bir korku filmi içinde bulur.(n)</desc>
+  </programme>
+  <programme start="20200929231000 +0300" stop="20200930000000 +0300" channel="FX">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930005000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir yabancının ani gelişi ve çarpıcı sırların ortaya çıkması Alexandria'da eski yaraları tekrar ortaya çıkarır.(n)</desc>
+  </programme>
+  <programme start="20200930005000 +0300" stop="20200930015000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Dört Topluluk ilk defa yıllar sonra yapılacak olan eğlence için Krallık'ta bir araya gelir.(n)</desc>
+  </programme>
+  <programme start="20200930015000 +0300" stop="20200930024000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Çok büyük bir kaybın ardından, topluluklar vahşi bir kar fırtınasına karşı cesur olmak zorundadır. Bu sırada, bir grup içerdeki düşmanıyla uğraşırken, bir diğeri hayat ya da ölüm kararı vermek zorundadır.(n)</desc>
+  </programme>
+  <programme start="20200930024000 +0300" stop="20200930033000 +0300" channel="FX">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Muhafazakar aktivist Phyllis Schlafly, kadın hareketinin Eşit Haklar yasa değişikliğine karşı meclis içerisinde farklı bir kampanya yapmaya karar verir.(n)</desc>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930041500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20200930041500 +0300" stop="20200930043700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20200930043700 +0300" stop="20200930050500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20200930050500 +0300" stop="20200930060000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20200930060000 +0300" stop="20200930064500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200930064500 +0300" stop="20200930073000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930073000 +0300" stop="20200930075200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930075200 +0300" stop="20200930081500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200930081500 +0300" stop="20200930090000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Radikal bir grubun ortaya çıkmasıyla Ajan Mack ve kardeşi çapraz ateşte kalır. Bu sırada, Simmoms her şeyi değiştirecek güçlü bir kimyasal bileşik keşfeder.(n)</desc>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930092200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930092200 +0300" stop="20200930094500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930103000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Amerika'yı bir grip salgını tehdit ederken, Federal Ajan Brad Wolgast tedavi araştırmalarının son deneği olan 10 yaşındaki Amy Bellafonte'u üsse getirmekle görevlidir. Ancak, Amy ile tanışınca Brad'in projeye olan sadakati sınanacaktır.(n)</desc>
+  </programme>
+  <programme start="20200930103000 +0300" stop="20200930111500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Yaralı Brad ve Amy, Richards'tan kaçmaya devam ederken, Lila onlara uzaktan yardım etmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930111500 +0300" stop="20200930120500 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20200930120500 +0300" stop="20200930122700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge yeni bir işe girerken, Lisa dünyayı iyileştirmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930122700 +0300" stop="20200930125500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer televizon yorumcusu olur ve Krusty'e kötü not verir.(n)</desc>
+  </programme>
+  <programme start="20200930125500 +0300" stop="20200930134500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930143000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20200930143000 +0300" stop="20200930152000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Daisy, gücü sayesinde öngördüğü bir geleceği durdurmaya çalışır. Bu sırada Hive, Gideon'a gerçek gücünü gösterir. Giyera ise, tarafını seçer.(n)</desc>
+  </programme>
+  <programme start="20200930152000 +0300" stop="20200930154200 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Homer ve Lisa birlikte çok zaman geçirince Bart kıskanır.(n)</desc>
+  </programme>
+  <programme start="20200930154200 +0300" stop="20200930161000 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Marge, başarısız bir Black Friday alışveriş çılgınlığının ardından Noel'i iyi geçirmeye çalışmaktadır, ancak Homer ve çocuklar Florida'da bir tatil ayarlayarak onu şaşırtır.(n)</desc>
+  </programme>
+  <programme start="20200930161000 +0300" stop="20200930170000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a getirildikten sonra Brad, Sykes ve Richards'la Amy'e yapılacak testlerde, onunla ile birlikte kalmak için bir anlaşma yapar.(n)</desc>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930175000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Wolgast, Sykes ve Lear'ı Amy'i korumak adına yapacakları egzersizler için tesis dışında bırakmalarına ikna eder.(n)</desc>
+  </programme>
+  <programme start="20200930175000 +0300" stop="20200930184500 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Ekip, yeni bir düşman hakkında bilgi arar; Malick'in geçmişindeki sırrı, Hydra mirasını yok etmekle tehdit eder.(n)</desc>
+  </programme>
+  <programme start="20200930184500 +0300" stop="20200930190700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Büyükbaba çocuklara bakıcılık yaparken Simpson ailesi onun geçmişinde bir yolculuğa çıkar.(n)</desc>
+  </programme>
+  <programme start="20200930190700 +0300" stop="20200930194500 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Lisa yeni bir arkadaş edinmesiyle birlikte iki farklı yaşam sürmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200930194500 +0300" stop="20200930203500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) NOAH'a üst düzey bir yetkilinin zamansız ziyaretinde, Brad ve Amy kaçışlarını planlar. Bu sırada, Sykes ve Richards birbirlerinin amaçlarını sorgulamaya başlar.(n)</desc>
+  </programme>
+  <programme start="20200930203500 +0300" stop="20200930213000 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir virüsün Proje NOAH'ın dışında görülmesi sonucunda Guilder ve Richard acil olarak bir arama ekibini harekete geçirir.(n)</desc>
+  </programme>
+  <programme start="20200930213000 +0300" stop="20200930222500 +0300" channel="FX">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Phyllis, Eşit Haklar Bildirgesi'ne karşı mücadelesinde taban desteğini seferber eder. Gloria Steinem, Bella Abzug'ın kendisini siyasi oyunun içine çekme girişimlerini durdurur.(n)</desc>
+  </programme>
+  <programme start="20200930222500 +0300" stop="20200930232500 +0300" channel="FX">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon ve Emmett, yılın en sıcak günlerinden birinde Chicago yaz eğlencesi için biraraya gelir. Kevin ailesinde gerçekleşen bir ölüm ile başa çıkmaya çalışmaktadır. Ronnie, Rafiq ile tekrar iletişime geçer ve bazı yardımı dokunabilecek olan tavsiyeler alır.(n)</desc>
+  </programme>
+  <programme start="20200930232500 +0300" stop="20201001002000 +0300" channel="FX">
+    <title lang="tr">The Chi</title>
+    <desc lang="tr">Brandon, THE AFTER TASTE FOOD yarışmasında finale kalır. Emmett, hayatındaki kadın ile aralarını yumuşatmaya çalışır. Kevin ve Jack bir kavgaya karışır.(n)</desc>
+  </programme>
+  <programme start="20201001002000 +0300" stop="20201001011500 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Oceanside grubu, Fısıldayanlar'ın geri dönmesi ihtimaline karşılık eğitimlerine devam ederken, yeni medeniyet kurmaya çalışanlar arasında gerilim artar.(n)</desc>
+  </programme>
+  <programme start="20201001011500 +0300" stop="20201001020000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Alfa ve Beta'nın arasındaki bağın kökeni ortaya çıkarken, Fısıldayanlar kendi ekiplerini bir araya getirir.(n)</desc>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001025000 +0300" channel="FX">
+    <title lang="tr">The Walking Dead</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Fısıldayanlar'ın geri dönmesi, Alexandria'da büyük bir paranoyaya sebep olur.(n)</desc>
+  </programme>
+  <programme start="20201001025000 +0300" stop="20201001034000 +0300" channel="FX">
+    <title lang="tr">Mrs. America</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Phyllis, Eşit Haklar Bildirgesi'ne karşı mücadelesinde taban desteğini seferber eder. Gloria Steinem, Bella Abzug'ın kendisini siyasi oyunun içine çekme girişimlerini durdurur.(n)</desc>
+  </programme>
+  <programme start="20201001034000 +0300" stop="20201001042500 +0300" channel="FX">
+    <title lang="tr">The Passage</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Bir virüsün Proje NOAH'ın dışında görülmesi sonucunda Guilder ve Richard acil olarak bir arama ekibini harekete geçirir.(n)</desc>
+  </programme>
+  <programme start="20201001042500 +0300" stop="20201001044700 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Büyükbaba çocuklara bakıcılık yaparken Simpson ailesi onun geçmişinde bir yolculuğa çıkar.(n)</desc>
+  </programme>
+  <programme start="20201001044700 +0300" stop="20201001051000 +0300" channel="FX">
+    <title lang="tr">The Simpsons</title>
+    <desc lang="tr">Lisa yeni bir arkadaş edinmesiyle birlikte iki farklı yaşam sürmeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20201001051000 +0300" stop="20201001081000 +0300" channel="FX">
+    <title lang="tr">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="tr">(TÜRKÇE ALT YAZI VE DUBLAJ SEÇENEĞİ İLE) Ekip, yeni bir düşman hakkında bilgi arar; Malick'in geçmişindeki sırrı, Hydra mirasını yok etmekle tehdit eder.(n)</desc>
+  </programme>
+</tv>
