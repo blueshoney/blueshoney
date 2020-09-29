@@ -1,0 +1,2369 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beIN SPORTS 1">
+    <display-name lang="tr">beIN SPORTS 1</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="tr">beIN SPORTS 2</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="tr">beIN SPORTS 3</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="beIN SPORTS 4">
+    <display-name lang="tr">beIN SPORTS 4</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 1">
+    <display-name lang="tr">beIN SPORTS MAX 1</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 2">
+    <display-name lang="tr">beIN SPORTS MAX 2</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="S SPORT 2">
+    <display-name lang="tr">S SPORT 2</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="tr">NBA TV</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="EM TV">
+    <display-name lang="tr">EM TV</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA 2 HD">
+    <display-name lang="tr">SİNEMA 2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA AKSİYON HD">
+    <display-name lang="tr">SİNEMA AKSİYON HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA AKSİYON 2 HD">
+    <display-name lang="tr">SİNEMA AKSİYON 2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA YERLİ">
+    <display-name lang="tr">SİNEMA YERLİ</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA YERLİ 2">
+    <display-name lang="tr">SİNEMA YERLİ 2</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA AİLE HD">
+    <display-name lang="tr">SİNEMA AİLE HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA AİLE 2 HD">
+    <display-name lang="tr">SİNEMA AİLE 2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA 1001 HD">
+    <display-name lang="tr">SİNEMA 1001 HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA 1002">
+    <display-name lang="tr">SİNEMA 1002</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA KOMEDİ HD">
+    <display-name lang="tr">SİNEMA KOMEDİ HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <channel id="SİNEMA KOMEDİ 2 HD">
+    <display-name lang="tr">SİNEMA KOMEDİ 2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr.E</url>
+  </channel>
+  <programme start="20200929000000 +0300" stop="20200929004500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200929004500 +0300" stop="20200929010000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">TFF 1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929020000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929023000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Geniş Özet</title>
+  </programme>
+  <programme start="20200929023000 +0300" stop="20200929041500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929041500 +0300" stop="20200929043000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">TFF 1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929053000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20200929053000 +0300" stop="20200929061500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200929061500 +0300" stop="20200929080000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929090000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20200929090000 +0300" stop="20200929100000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Gamer</title>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929111500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929111500 +0300" stop="20200929120000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929130000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Taraftar</title>
+  </programme>
+  <programme start="20200929130000 +0300" stop="20200929140000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Futbolun Şehirleri</title>
+  </programme>
+  <programme start="20200929140000 +0300" stop="20200929154500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929154500 +0300" stop="20200929160000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Kısa Özet</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929170000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Taraftar</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Teknik</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929190000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929194500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929200000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">TFF 1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929210000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Review Show</title>
+  </programme>
+  <programme start="20200929210000 +0300" stop="20200929215000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Önü</title>
+  </programme>
+  <programme start="20200929215000 +0300" stop="20200929224500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Dynamo Kiev - Gent</title>
+  </programme>
+  <programme start="20200929224500 +0300" stop="20200929230000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi</title>
+  </programme>
+  <programme start="20200929230000 +0300" stop="20200930024500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Dynamo Kiev - Gent</title>
+  </programme>
+  <programme start="20200930024500 +0300" stop="20200930053000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930053000 +0300" stop="20200930071500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930071500 +0300" stop="20200930080000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930083000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">TFF 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200930083000 +0300" stop="20200930103000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930103000 +0300" stop="20200930104500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Geniş Özet</title>
+  </programme>
+  <programme start="20200930104500 +0300" stop="20200930120000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Avrupa Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930134500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930174500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20200930174500 +0300" stop="20200930210000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Kısa Özet</title>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20200930220000 +0300" stop="20201001024500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001134500 +0300" stop="20201001143000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001174500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Taraftar</title>
+  </programme>
+  <programme start="20201001174500 +0300" stop="20201001220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Süper Lig Kısa Özet</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201002010000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929004500 +0300" stop="20200929010000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Süper Lig Kısa Özet</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929023000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Fransa'dan Futbol</title>
+  </programme>
+  <programme start="20200929023000 +0300" stop="20200929041500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929041500 +0300" stop="20200929043000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929061500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929061500 +0300" stop="20200929070000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929070000 +0300" stop="20200929080000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929084500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Süper Lig Maç Sonu</title>
+  </programme>
+  <programme start="20200929084500 +0300" stop="20200929093000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929093000 +0300" stop="20200929100000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">TFF 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929120000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Taraftar</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929134500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929140000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Süper Lig Kısa Özet</title>
+  </programme>
+  <programme start="20200929140000 +0300" stop="20200929150000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Gamer</title>
+  </programme>
+  <programme start="20200929150000 +0300" stop="20200929163000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">İtalya'dan Futbol</title>
+  </programme>
+  <programme start="20200929163000 +0300" stop="20200929170000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929190000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">1. Lig</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929200000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">beIN Teknik</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929215000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929215000 +0300" stop="20200930000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Ferencvaros - Molde</title>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930014500 +0300" stop="20200930033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930051500 +0300" stop="20200930070000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930070000 +0300" stop="20200930084500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930084500 +0300" stop="20200930120000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930153000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930153000 +0300" stop="20200930190000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20201001000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Gamer</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929014500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929014500 +0300" stop="20200929033000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929033000 +0300" stop="20200929051500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929051500 +0300" stop="20200929070000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929070000 +0300" stop="20200929084500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929084500 +0300" stop="20200929091500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20200929091500 +0300" stop="20200929094500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  </programme>
+  <programme start="20200929094500 +0300" stop="20200929101500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Maç Özetleri</title>
+  </programme>
+  <programme start="20200929101500 +0300" stop="20200929120000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929133000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929133000 +0300" stop="20200929134500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929153000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929160000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929174500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929174500 +0300" stop="20200929193000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929193000 +0300" stop="20200929200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929210000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20200929210000 +0300" stop="20200929211500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20200929211500 +0300" stop="20200929214500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">İngiltere Lig Kupası Maç Özetleri</title>
+  </programme>
+  <programme start="20200929214500 +0300" stop="20200929234500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Tottenham - Chelsea</title>
+  </programme>
+  <programme start="20200929234500 +0300" stop="20200930000000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">EFL Championship Haftanın Golleri</title>
+  </programme>
+  <programme start="20200930070000 +0300" stop="20200930100000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930100000 +0300" stop="20200930101500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930130000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Maç Özetleri</title>
+  </programme>
+  <programme start="20200930130000 +0300" stop="20200930134500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">BCL Maç Özetleri</title>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930140000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930154500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930163000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">BCL Maç Özetleri</title>
+  </programme>
+  <programme start="20200930163000 +0300" stop="20200930170000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Eurocup Maç Özetleri</title>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930171500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20200930171500 +0300" stop="20200930190000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20200930204500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930204500 +0300" stop="20200930220000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Serie A Kısa Özet</title>
+  </programme>
+  <programme start="20200930220000 +0300" stop="20200930233000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930233000 +0300" stop="20201001000000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Maç Özetleri</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001161500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">BCL Maç Özetleri</title>
+  </programme>
+  <programme start="20201001161500 +0300" stop="20201001163000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">THY Euroleague Transfer Dosyası</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001171500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Eurocup Maç Özetleri</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929003000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20200929003000 +0300" stop="20200929010000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929024500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929024500 +0300" stop="20200929043000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Kısa Özet</title>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929061500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Kısa Özet</title>
+  </programme>
+  <programme start="20200929061500 +0300" stop="20200929080000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929083000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929083000 +0300" stop="20200929101500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929101500 +0300" stop="20200929120000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929133000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Fransa'dan Futbol</title>
+  </programme>
+  <programme start="20200929133000 +0300" stop="20200929134500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Haftanın Golleri</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929153000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929171500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929171500 +0300" stop="20200929190000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929210000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  </programme>
+  <programme start="20200929210000 +0300" stop="20200929213000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">This is Paris</title>
+  </programme>
+  <programme start="20200929213000 +0300" stop="20200929220000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20200929220000 +0300" stop="20200929234500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929234500 +0300" stop="20200930014500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Serie A Haftanın Golleri</title>
+  </programme>
+  <programme start="20200930014500 +0300" stop="20200930033000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930051500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930051500 +0300" stop="20200930060000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930060000 +0300" stop="20200930063000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930070000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Serie A Geniş Özet</title>
+  </programme>
+  <programme start="20200930070000 +0300" stop="20200930081500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930081500 +0300" stop="20200930083000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930134500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930144500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20200930144500 +0300" stop="20200930151500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  </programme>
+  <programme start="20200930151500 +0300" stop="20200930154500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930173000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930173000 +0300" stop="20200930184500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930184500 +0300" stop="20200930190000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">EFL Championship Haftanın Golleri</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930210000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930220000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200930220000 +0300" stop="20200930230000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Ligue 1 Geniş Özet</title>
+  </programme>
+  <programme start="20200930230000 +0300" stop="20201001014500 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001230000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929040000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200930000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930040000 +0300" stop="20200930080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930160000 +0300" stop="20200930200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20201001000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929040000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200930000000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930040000 +0300" stop="20200930080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930160000 +0300" stop="20200930200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20201001000000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929021500 +0300" channel="S SPORT 2">
+    <title lang="tr">Boks Gecesi</title>
+  </programme>
+  <programme start="20200929021500 +0300" stop="20200929031500 +0300" channel="S SPORT 2">
+    <title lang="tr">Maksimum NFL</title>
+  </programme>
+  <programme start="20200929031500 +0300" stop="20200929063000 +0300" channel="S SPORT 2">
+    <title lang="tr">Kansas City Chiefs - Baltimore Ravens</title>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929070000 +0300" channel="S SPORT 2">
+    <title lang="tr">World Of Free Sports</title>
+  </programme>
+  <programme start="20200929070000 +0300" stop="20200929093000 +0300" channel="S SPORT 2">
+    <title lang="tr">Seattle Seahawks - Dallas Cowboys</title>
+  </programme>
+  <programme start="20200929093000 +0300" stop="20200929113000 +0300" channel="S SPORT 2">
+    <title lang="tr">Diamond League</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929120000 +0300" channel="S SPORT 2">
+    <title lang="tr">Outdoor Sports</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929140000 +0300" channel="S SPORT 2">
+    <title lang="tr">Hertha Berlin - Frankfurt</title>
+  </programme>
+  <programme start="20200929140000 +0300" stop="20200929160000 +0300" channel="S SPORT 2">
+    <title lang="tr">Formula 1</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929170000 +0300" channel="S SPORT 2">
+    <title lang="tr">Maksimum NFL</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929180000 +0300" channel="S SPORT 2">
+    <title lang="tr">FIA WEC</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929190000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Analiz</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929200000 +0300" channel="S SPORT 2">
+    <title lang="tr">Premier Lig Geniş Özetler</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929220000 +0300" channel="S SPORT 2">
+    <title lang="tr">Buducnost - Brescia</title>
+  </programme>
+  <programme start="20200929220000 +0300" stop="20200930003000 +0300" channel="S SPORT 2">
+    <title lang="tr">WWE Raw</title>
+  </programme>
+  <programme start="20200930003000 +0300" stop="20200930020000 +0300" channel="S SPORT 2">
+    <title lang="tr">Premier Analiz</title>
+  </programme>
+  <programme start="20200930020000 +0300" stop="20200930024500 +0300" channel="S SPORT 2">
+    <title lang="tr">Portekiz Geniş Özetler</title>
+  </programme>
+  <programme start="20200930024500 +0300" stop="20200930033000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Geniş Özetler</title>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930053000 +0300" channel="S SPORT 2">
+    <title lang="tr">Boca Juniors - Libertad</title>
+  </programme>
+  <programme start="20200930053000 +0300" stop="20200930063000 +0300" channel="S SPORT 2">
+    <title lang="tr">Premier Lig Geniş Özetler</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930070000 +0300" channel="S SPORT 2">
+    <title lang="tr">Outdoor Sports</title>
+  </programme>
+  <programme start="20200930070000 +0300" stop="20200930090000 +0300" channel="S SPORT 2">
+    <title lang="tr">Moto3 - Moto GP</title>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930093000 +0300" channel="S SPORT 2">
+    <title lang="tr">Gearing Up</title>
+  </programme>
+  <programme start="20200930093000 +0300" stop="20200930103000 +0300" channel="S SPORT 2">
+    <title lang="tr">FIA WEC</title>
+  </programme>
+  <programme start="20200930103000 +0300" stop="20200930113000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Analiz</title>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930120000 +0300" channel="S SPORT 2">
+    <title lang="tr">Premier Lig World Show</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930140000 +0300" channel="S SPORT 2">
+    <title lang="tr">Schalke 04 - Werder Bremen</title>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930163000 +0300" channel="S SPORT 2">
+    <title lang="tr">Kansas City Chiefs - Baltimore Ravens</title>
+  </programme>
+  <programme start="20200930163000 +0300" stop="20200930170000 +0300" channel="S SPORT 2">
+    <title lang="tr">World Of Free Sports</title>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930180000 +0300" channel="S SPORT 2">
+    <title lang="tr">Maksimum NFL</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930190000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Geniş Özetler</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20200930193000 +0300" channel="S SPORT 2">
+    <title lang="tr">Nba Daily</title>
+  </programme>
+  <programme start="20200930193000 +0300" stop="20200930213000 +0300" channel="S SPORT 2">
+    <title lang="tr">Promitheas - Gran Canaria</title>
+  </programme>
+  <programme start="20200930213000 +0300" stop="20200930233000 +0300" channel="S SPORT 2">
+    <title lang="tr">Hoffenheim - Bayern Münih</title>
+  </programme>
+  <programme start="20200930233000 +0300" stop="20201001003000 +0300" channel="S SPORT 2">
+    <title lang="tr">Portekiz Geniş Özetler</title>
+  </programme>
+  <programme start="20201001003000 +0300" stop="20201001023000 +0300" channel="S SPORT 2">
+    <title lang="tr">Diamond League</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001033000 +0300" channel="S SPORT 2">
+    <title lang="tr">Premier Lig Geniş Özetler</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001053000 +0300" channel="S SPORT 2">
+    <title lang="tr">River Plate - Sao Paulo</title>
+  </programme>
+  <programme start="20201001053000 +0300" stop="20201001063000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Geniş Özetler</title>
+  </programme>
+  <programme start="20201001063000 +0300" stop="20201001070000 +0300" channel="S SPORT 2">
+    <title lang="tr">Gearing Up</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001093000 +0300" channel="S SPORT 2">
+    <title lang="tr">Kansas City Chiefs - Baltimore Ravens</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001103000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Geniş Özetler</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001113000 +0300" channel="S SPORT 2">
+    <title lang="tr">Maksimum NFL</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001120000 +0300" channel="S SPORT 2">
+    <title lang="tr">Gearing Up</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001140000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bayer Leverkusen - Leipzig</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001160000 +0300" channel="S SPORT 2">
+    <title lang="tr">Buducnost - Brescia</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001170000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Analiz</title>
+  </programme>
+  <programme start="20201001170000 +0300" stop="20201001180000 +0300" channel="S SPORT 2">
+    <title lang="tr">Motogp</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001190000 +0300" channel="S SPORT 2">
+    <title lang="tr">Portekiz Geniş Özetler</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001210000 +0300" channel="S SPORT 2">
+    <title lang="tr">Schalke 04 - Werder Bremen</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001213000 +0300" channel="S SPORT 2">
+    <title lang="tr">Nba Daily</title>
+  </programme>
+  <programme start="20201001213000 +0300" stop="20201001233000 +0300" channel="S SPORT 2">
+    <title lang="tr">Roma - Juventus</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002003000 +0300" channel="S SPORT 2">
+    <title lang="tr">Bundesliga Geniş Özetler</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929003000 +0300" channel="NBA TV">
+    <title lang="tr">NBA Action 2931</title>
+  </programme>
+  <programme start="20200929003000 +0300" stop="20200929010000 +0300" channel="NBA TV">
+    <title lang="tr">High Tops: Best of 2019 -20 Part 1</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929020000 +0300" channel="NBA TV">
+    <title lang="tr">NBA Special</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929030000 +0300" channel="NBA TV">
+    <title lang="tr">West Finals</title>
+  </programme>
+  <programme start="20200929030000 +0300" stop="20200929050000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200929050000 +0300" stop="20200929060000 +0300" channel="NBA TV">
+    <title lang="tr">Playoff Playback</title>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929063000 +0300" channel="NBA TV">
+    <title lang="tr">High Tops: Best of 2019 -20 Part 1</title>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929080000 +0300" channel="NBA TV">
+    <title lang="tr">West Finals</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929140000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200929140000 +0300" stop="20200929150000 +0300" channel="NBA TV">
+    <title lang="tr">Inside the NBA</title>
+  </programme>
+  <programme start="20200929150000 +0300" stop="20200929160000 +0300" channel="NBA TV">
+    <title lang="tr">Playoff Playback</title>
+  </programme>
+  <programme start="20200929160000 +0300" stop="20200929163000 +0300" channel="NBA TV">
+    <title lang="tr">NBA Action 2931</title>
+  </programme>
+  <programme start="20200929163000 +0300" stop="20200929170000 +0300" channel="NBA TV">
+    <title lang="tr">High Tops: Best of 2019 -20 Part 1</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929180000 +0300" channel="NBA TV">
+    <title lang="tr">Inside the NBA</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929200000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929210000 +0300" channel="NBA TV">
+    <title lang="tr">Inside the NBA</title>
+  </programme>
+  <programme start="20200929210000 +0300" stop="20200929220000 +0300" channel="NBA TV">
+    <title lang="tr">Playoff Playback</title>
+  </programme>
+  <programme start="20200929220000 +0300" stop="20200929230000 +0300" channel="NBA TV">
+    <title lang="tr">Inside the NBA</title>
+  </programme>
+  <programme start="20200929230000 +0300" stop="20200930010000 +0300" channel="NBA TV">
+    <title lang="tr">Playoff Playback</title>
+  </programme>
+  <programme start="20200930010000 +0300" stop="20200930030000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930030000 +0300" stop="20200930050000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930050000 +0300" stop="20200930070000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930070000 +0300" stop="20200930090000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930110000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930110000 +0300" stop="20200930130000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930130000 +0300" stop="20200930150000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930150000 +0300" stop="20200930170000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930190000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20200930210000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930230000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200930230000 +0300" stop="20201001010000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001030000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001050000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001070000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001090000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001110000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001130000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001150000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001160000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001190000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001210000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001230000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002010000 +0300" channel="NBA TV">
+    <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929020000 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929024500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200929024500 +0300" stop="20200929041500 +0300" channel="EM TV">
+    <title lang="tr">İyi Bir Gün İçin</title>
+  </programme>
+  <programme start="20200929041500 +0300" stop="20200929060000 +0300" channel="EM TV">
+    <title lang="tr">Fedakar Postacı</title>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929064500 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20200929064500 +0300" stop="20200929081500 +0300" channel="EM TV">
+    <title lang="tr">Dallas</title>
+  </programme>
+  <programme start="20200929081500 +0300" stop="20200929083000 +0300" channel="EM TV">
+    <title lang="tr">Komik TV</title>
+  </programme>
+  <programme start="20200929083000 +0300" stop="20200929090000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20200929090000 +0300" stop="20200929103000 +0300" channel="EM TV">
+    <title lang="tr">Kızım ve Ben</title>
+  </programme>
+  <programme start="20200929103000 +0300" stop="20200929120000 +0300" channel="EM TV">
+    <title lang="tr">Arap Geceleri</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200929124500 +0300" stop="20200929143000 +0300" channel="EM TV">
+    <title lang="tr">Tokori Köprüsü</title>
+  </programme>
+  <programme start="20200929143000 +0300" stop="20200929154500 +0300" channel="EM TV">
+    <title lang="tr">Ölüme Koşanlar</title>
+  </programme>
+  <programme start="20200929154500 +0300" stop="20200929163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20200929163000 +0300" stop="20200929180000 +0300" channel="EM TV">
+    <title lang="tr">Gun Hill'den Son Tren</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20200929183000 +0300" stop="20200929193000 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200929193000 +0300" stop="20200929204500 +0300" channel="EM TV">
+    <title lang="tr">Asker</title>
+  </programme>
+  <programme start="20200929204500 +0300" stop="20200929223000 +0300" channel="EM TV">
+    <title lang="tr">Jesse James</title>
+  </programme>
+  <programme start="20200929223000 +0300" stop="20200930000000 +0300" channel="EM TV">
+    <title lang="tr">General Babam</title>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930020000 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20200930020000 +0300" stop="20200930024500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200930024500 +0300" stop="20200930041500 +0300" channel="EM TV">
+    <title lang="tr">Arap Geceleri</title>
+  </programme>
+  <programme start="20200930041500 +0300" stop="20200930060000 +0300" channel="EM TV">
+    <title lang="tr">Tokori Köprüsü</title>
+  </programme>
+  <programme start="20200930060000 +0300" stop="20200930064500 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20200930064500 +0300" stop="20200930081500 +0300" channel="EM TV">
+    <title lang="tr">Gun Hill'den Son Tren</title>
+  </programme>
+  <programme start="20200930081500 +0300" stop="20200930083000 +0300" channel="EM TV">
+    <title lang="tr">Komik TV</title>
+  </programme>
+  <programme start="20200930083000 +0300" stop="20200930090000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930103000 +0300" channel="EM TV">
+    <title lang="tr">Samanyolu</title>
+  </programme>
+  <programme start="20200930103000 +0300" stop="20200930120000 +0300" channel="EM TV">
+    <title lang="tr">Kadın Avcıları</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200930124500 +0300" stop="20200930143000 +0300" channel="EM TV">
+    <title lang="tr">Sezar ve Kleopatra</title>
+  </programme>
+  <programme start="20200930143000 +0300" stop="20200930154500 +0300" channel="EM TV">
+    <title lang="tr">Hasret Sancısı</title>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20200930163000 +0300" stop="20200930180000 +0300" channel="EM TV">
+    <title lang="tr">Jesse James</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20200930183000 +0300" stop="20200930193000 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20200930193000 +0300" stop="20200930203000 +0300" channel="EM TV">
+    <title lang="tr">Ölümcül Tehdit</title>
+  </programme>
+  <programme start="20200930203000 +0300" stop="20200930223000 +0300" channel="EM TV">
+    <title lang="tr">Bozgun</title>
+  </programme>
+  <programme start="20200930223000 +0300" stop="20201001000000 +0300" channel="EM TV">
+    <title lang="tr">Ev Sahibi</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001020000 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001024500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201001024500 +0300" stop="20201001041500 +0300" channel="EM TV">
+    <title lang="tr">Kadın Avcıları</title>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001060000 +0300" channel="EM TV">
+    <title lang="tr">Sezar ve Kleopatra</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001064500 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201001064500 +0300" stop="20201001081500 +0300" channel="EM TV">
+    <title lang="tr">Jesse James</title>
+  </programme>
+  <programme start="20201001081500 +0300" stop="20201001083000 +0300" channel="EM TV">
+    <title lang="tr">Komik TV</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001090000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001103000 +0300" channel="EM TV">
+    <title lang="tr">Kadın Asla Unutmaz</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001120000 +0300" channel="EM TV">
+    <title lang="tr">Yaşlı Adam ve Deniz</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201001124500 +0300" stop="20201001143000 +0300" channel="EM TV">
+    <title lang="tr">Adsız Kahramanlar</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001154500 +0300" channel="EM TV">
+    <title lang="tr">Yaralı Kurt</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001180000 +0300" channel="EM TV">
+    <title lang="tr">Frank James'in Dönüşü</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001193000 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001203000 +0300" channel="EM TV">
+    <title lang="tr">Polis Akademisi 2</title>
+  </programme>
+  <programme start="20201001203000 +0300" stop="20201001223000 +0300" channel="EM TV">
+    <title lang="tr">Batının Devleri</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201002000000 +0300" channel="EM TV">
+    <title lang="tr">Milyoner Nasıl Kaçırılır</title>
+  </programme>
+  <programme start="20200929013000 +0300" stop="20200929031500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Gizemli Parçalar</title>
+  </programme>
+  <programme start="20200929031500 +0300" stop="20200929050000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Halka 3</title>
+  </programme>
+  <programme start="20200929050000 +0300" stop="20200929064500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">İtibar</title>
+  </programme>
+  <programme start="20200929064500 +0300" stop="20200929084500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Florence</title>
+  </programme>
+  <programme start="20200929084500 +0300" stop="20200929113000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Transformers 5: Son Şövalye</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929130000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Düğün Marşı 3: Gelin Geliyor</title>
+  </programme>
+  <programme start="20200929130000 +0300" stop="20200929143000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Aşkım Bir Prens</title>
+  </programme>
+  <programme start="20200929143000 +0300" stop="20200929173000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Yıldızlararası</title>
+  </programme>
+  <programme start="20200929173000 +0300" stop="20200929191500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Labirent</title>
+  </programme>
+  <programme start="20200929191500 +0300" stop="20200929213000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Bumblebee</title>
+  </programme>
+  <programme start="20200929213000 +0300" stop="20200929231500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Gizli Güzellik</title>
+  </programme>
+  <programme start="20200929231500 +0300" stop="20200930043000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Henrı Pıck'in Gizemi</title>
+  </programme>
+  <programme start="20200930043000 +0300" stop="20200930061500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Çarpışma</title>
+  </programme>
+  <programme start="20200930061500 +0300" stop="20200930091500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Yıldızlararası</title>
+  </programme>
+  <programme start="20200930091500 +0300" stop="20200930110000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Gönüllü Asker</title>
+  </programme>
+  <programme start="20200930110000 +0300" stop="20200930124500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Düğün Marşı 4: Gelin Geleneği</title>
+  </programme>
+  <programme start="20200930124500 +0300" stop="20200930150000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Çılgın Zengin Asyalılar</title>
+  </programme>
+  <programme start="20200930150000 +0300" stop="20200930170000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Son Kennedy</title>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930190000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Columbus</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20200930211500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Aslında Sen De Benim Gibisin</title>
+  </programme>
+  <programme start="20200930211500 +0300" stop="20200930231500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">X+y</title>
+  </programme>
+  <programme start="20200930231500 +0300" stop="20201001013000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Justıce League: Adalet Birliği</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001031500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Şeytan Kapısı</title>
+  </programme>
+  <programme start="20201001031500 +0300" stop="20201001044500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Korku Diyarı</title>
+  </programme>
+  <programme start="20201001044500 +0300" stop="20201001070000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Çılgın Zengin Asyalılar</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001090000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Chappaquiddick</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001110000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Zafere Doğru</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001130000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">X+y</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001150000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Batı</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001171500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Justıce League: Adalet Birliği</title>
+  </programme>
+  <programme start="20201001171500 +0300" stop="20201001184500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Komplo</title>
+  </programme>
+  <programme start="20201001184500 +0300" stop="20201001210000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Düello</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001231500 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Roman J. Israel,</title>
+  </programme>
+  <programme start="20201001231500 +0300" stop="20201002013000 +0300" channel="SİNEMA 2 HD">
+    <title lang="tr">Kong: Kafatası Adası</title>
+  </programme>
+  <programme start="20200929001500 +0300" stop="20200929021500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Şeref Kanunu</title>
+  </programme>
+  <programme start="20200929021500 +0300" stop="20200929040000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Düşme Noktası</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929054500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">24 Saat</title>
+  </programme>
+  <programme start="20200929054500 +0300" stop="20200929074500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Bataklık</title>
+  </programme>
+  <programme start="20200929074500 +0300" stop="20200929094500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Hedef</title>
+  </programme>
+  <programme start="20200929094500 +0300" stop="20200929113000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Sınır Bölgesi</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929134500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Mojin: Kayıp Efsane</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929163000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">2012</title>
+  </programme>
+  <programme start="20200929163000 +0300" stop="20200929190000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Hidalgo</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929210000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">İmparator</title>
+  </programme>
+  <programme start="20200929210000 +0300" stop="20200929220000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20200929220000 +0300" stop="20200930003000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Özel Dedektif</title>
+  </programme>
+  <programme start="20200930003000 +0300" stop="20200930023000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Beyaz Saray'da Cinayet</title>
+  </programme>
+  <programme start="20200930023000 +0300" stop="20200930043000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Ölümcül İçgüdü</title>
+  </programme>
+  <programme start="20200930043000 +0300" stop="20200930061500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Sınır Bölgesi</title>
+  </programme>
+  <programme start="20200930061500 +0300" stop="20200930083000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Mojin: Kayıp Efsane</title>
+  </programme>
+  <programme start="20200930083000 +0300" stop="20200930110000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Özel Dedektif</title>
+  </programme>
+  <programme start="20200930110000 +0300" stop="20200930124500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">İsyan</title>
+  </programme>
+  <programme start="20200930124500 +0300" stop="20200930143000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Kod Adı Kılıçbalığı</title>
+  </programme>
+  <programme start="20200930143000 +0300" stop="20200930164500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Xxx - Yeni Nesil Ajan</title>
+  </programme>
+  <programme start="20200930164500 +0300" stop="20200930184500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Final Fantasy</title>
+  </programme>
+  <programme start="20200930184500 +0300" stop="20200930210000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Komplo</title>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930220000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20200930220000 +0300" stop="20201001001500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Kayıp Ceset</title>
+  </programme>
+  <programme start="20201001001500 +0300" stop="20201001023000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Keskin Nişancı</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001043000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Cezalandırıcı</title>
+  </programme>
+  <programme start="20201001043000 +0300" stop="20201001061500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">İsyan</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001080000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Kod Adı Kılıçbalığı</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001094500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">X-Men</title>
+  </programme>
+  <programme start="20201001094500 +0300" stop="20201001120000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Kayıp Ceset</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001133000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Batman Ve Harley Quınn</title>
+  </programme>
+  <programme start="20201001133000 +0300" stop="20201001150000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Les Gorilles</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001164500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Takas</title>
+  </programme>
+  <programme start="20201001164500 +0300" stop="20201001181500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Vahşiliğin İçinde</title>
+  </programme>
+  <programme start="20201001181500 +0300" stop="20201001204500 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Ölümcül İçgüdü 2</title>
+  </programme>
+  <programme start="20201001204500 +0300" stop="20201001220000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201002000000 +0300" channel="SİNEMA AKSİYON HD">
+    <title lang="tr">Karanlık Şehir</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929040000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Şeref Kanunu</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929054500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Düşme Noktası</title>
+  </programme>
+  <programme start="20200929054500 +0300" stop="20200929073000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">24 Saat</title>
+  </programme>
+  <programme start="20200929073000 +0300" stop="20200929093000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Bataklık</title>
+  </programme>
+  <programme start="20200929093000 +0300" stop="20200929113000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Hedef</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929131500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Sınır Bölgesi</title>
+  </programme>
+  <programme start="20200929131500 +0300" stop="20200929153000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Mojin: Kayıp Efsane</title>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929181500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">2012</title>
+  </programme>
+  <programme start="20200929181500 +0300" stop="20200929204500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Hidalgo</title>
+  </programme>
+  <programme start="20200929204500 +0300" stop="20200929224500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">İmparator</title>
+  </programme>
+  <programme start="20200929224500 +0300" stop="20200929234500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20200929234500 +0300" stop="20200930021500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Özel Dedektif</title>
+  </programme>
+  <programme start="20200930021500 +0300" stop="20200930041500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Beyaz Saray'da Cinayet</title>
+  </programme>
+  <programme start="20200930041500 +0300" stop="20200930061500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Ölümcül İçgüdü</title>
+  </programme>
+  <programme start="20200930061500 +0300" stop="20200930080000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Sınır Bölgesi</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930101500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Mojin: Kayıp Efsane</title>
+  </programme>
+  <programme start="20200930101500 +0300" stop="20200930124500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Özel Dedektif</title>
+  </programme>
+  <programme start="20200930124500 +0300" stop="20200930143000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">İsyan</title>
+  </programme>
+  <programme start="20200930143000 +0300" stop="20200930161500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Kod Adı Kılıçbalığı</title>
+  </programme>
+  <programme start="20200930161500 +0300" stop="20200930183000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Xxx - Yeni Nesil Ajan</title>
+  </programme>
+  <programme start="20200930183000 +0300" stop="20200930203000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Final Fantasy</title>
+  </programme>
+  <programme start="20200930203000 +0300" stop="20200930224500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Komplo</title>
+  </programme>
+  <programme start="20200930224500 +0300" stop="20200930234500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20200930234500 +0300" stop="20201001020000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Kayıp Ceset</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001041500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Keskin Nişancı</title>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001061500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Cezalandırıcı</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001080000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">İsyan</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001094500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Swordfish</title>
+  </programme>
+  <programme start="20201001094500 +0300" stop="20201001113000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">X-Men</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001134500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Kayıp Ceset</title>
+  </programme>
+  <programme start="20201001134500 +0300" stop="20201001151500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Batman Ve Harley Quınn</title>
+  </programme>
+  <programme start="20201001151500 +0300" stop="20201001164500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Les Gorilles</title>
+  </programme>
+  <programme start="20201001164500 +0300" stop="20201001183000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Takas</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001200000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Vahşiliğin İçinde</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001223000 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Ölümcül İçgüdü 2</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201001234500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Profilage</title>
+  </programme>
+  <programme start="20201001234500 +0300" stop="20201002014500 +0300" channel="SİNEMA AKSİYON 2 HD">
+    <title lang="tr">Karanlık Şehir</title>
+  </programme>
+  <programme start="20200929001500 +0300" stop="20200929021500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Çocuklar Sana Emanet</title>
+  </programme>
+  <programme start="20200929021500 +0300" stop="20200929043000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Elveda Katya</title>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929063000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Oflu Hoca'nın Şifresi</title>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929081500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kan Çiçeği</title>
+  </programme>
+  <programme start="20200929081500 +0300" stop="20200929101500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kadın İşi Banka Soygunu</title>
+  </programme>
+  <programme start="20200929101500 +0300" stop="20200929123000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kardeşim Benim</title>
+  </programme>
+  <programme start="20200929123000 +0300" stop="20200929143000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Sadece Sen</title>
+  </programme>
+  <programme start="20200929143000 +0300" stop="20200929163000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Göl Zamanı</title>
+  </programme>
+  <programme start="20200929163000 +0300" stop="20200929180000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Ceylan</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929200000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Üç Maymun</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929221500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
+  </programme>
+  <programme start="20200929221500 +0300" stop="20200930000000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Aşk Uykusu</title>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930014500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Azazil 2: Büyü</title>
+  </programme>
+  <programme start="20200930014500 +0300" stop="20200930031500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Delisin! Delisin!</title>
+  </programme>
+  <programme start="20200930031500 +0300" stop="20200930053000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kardeşim Benim</title>
+  </programme>
+  <programme start="20200930053000 +0300" stop="20200930073000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Göl Zamanı</title>
+  </programme>
+  <programme start="20200930073000 +0300" stop="20200930084500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Rüzgar</title>
+  </programme>
+  <programme start="20200930084500 +0300" stop="20200930101500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kümes</title>
+  </programme>
+  <programme start="20200930101500 +0300" stop="20200930121500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kardeşim Benim 2</title>
+  </programme>
+  <programme start="20200930121500 +0300" stop="20200930140000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Üç Maymun</title>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930161500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
+  </programme>
+  <programme start="20200930161500 +0300" stop="20200930180000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Hasip İle Nasip</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930200000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Beni Unutma</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930221500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Senden Bana Kalan</title>
+  </programme>
+  <programme start="20200930221500 +0300" stop="20201001001500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Acı Aşk</title>
+  </programme>
+  <programme start="20201001001500 +0300" stop="20201001014500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Aşkın Gören Gözlere İhtiyacı Yok</title>
+  </programme>
+  <programme start="20201001014500 +0300" stop="20201001031500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kümes</title>
+  </programme>
+  <programme start="20201001031500 +0300" stop="20201001051500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kardeşim Benim 2</title>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001064500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Sabuha</title>
+  </programme>
+  <programme start="20201001064500 +0300" stop="20201001083000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Dünyanın En Güzel Kadını</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001103000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Beni Unutma</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001121500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Kolay Para</title>
+  </programme>
+  <programme start="20201001121500 +0300" stop="20201001143000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Senden Bana Kalan</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001161500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Yakışıklı</title>
+  </programme>
+  <programme start="20201001161500 +0300" stop="20201001180000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Gecenin Kanatları</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001200000 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Son Ders: Aşk Ve Üniversite</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001214500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Dondurmam Gaymak</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001234500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Ejder Kapanı</title>
+  </programme>
+  <programme start="20201001234500 +0300" stop="20201002014500 +0300" channel="SİNEMA YERLİ">
+    <title lang="tr">Eve Dönüş</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929040000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Çocuklar Sana Emanet</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929061500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Elveda Katya</title>
+  </programme>
+  <programme start="20200929061500 +0300" stop="20200929081500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Oflu Hoca'nın Şifresi</title>
+  </programme>
+  <programme start="20200929081500 +0300" stop="20200929100000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kan Çiçeği</title>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929120000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kadın İşi Banka Soygunu</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929141500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kardeşim Benim</title>
+  </programme>
+  <programme start="20200929141500 +0300" stop="20200929161500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Sadece Sen</title>
+  </programme>
+  <programme start="20200929161500 +0300" stop="20200929181500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Göl Zamanı</title>
+  </programme>
+  <programme start="20200929181500 +0300" stop="20200929194500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Ceylan</title>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929214500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Üç Maymun</title>
+  </programme>
+  <programme start="20200929214500 +0300" stop="20200930000000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930014500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Aşk Uykusu</title>
+  </programme>
+  <programme start="20200930014500 +0300" stop="20200930033000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Azazil 2: Büyü</title>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930050000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Delisin! Delisin!</title>
+  </programme>
+  <programme start="20200930050000 +0300" stop="20200930071500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kardeşim Benim</title>
+  </programme>
+  <programme start="20200930071500 +0300" stop="20200930091500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Göl Zamanı</title>
+  </programme>
+  <programme start="20200930091500 +0300" stop="20200930103000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Rüzgar</title>
+  </programme>
+  <programme start="20200930103000 +0300" stop="20200930120000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kümes</title>
+  </programme>
+  <programme start="20200930120000 +0300" stop="20200930140000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kardeşim Benim 2</title>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930154500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Üç Maymun</title>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930180000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930194500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Hasip İle Nasip</title>
+  </programme>
+  <programme start="20200930194500 +0300" stop="20200930214500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Beni Unutma</title>
+  </programme>
+  <programme start="20200930214500 +0300" stop="20201001000000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Senden Bana Kalan</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001020000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Acı Aşk</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001033000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Aşkın Gören Gözlere İhtiyacı Yok</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001050000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kümes</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001070000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kardeşim Benim 2</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001083000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Sabuha</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001101500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Dünyanın En Güzel Kadını</title>
+  </programme>
+  <programme start="20201001101500 +0300" stop="20201001121500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Beni Unutma</title>
+  </programme>
+  <programme start="20201001121500 +0300" stop="20201001140000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Kolay Para</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001161500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Senden Bana Kalan</title>
+  </programme>
+  <programme start="20201001161500 +0300" stop="20201001180000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Yakışıklı</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001194500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Gecenin Kanatları</title>
+  </programme>
+  <programme start="20201001194500 +0300" stop="20201001214500 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Son Ders: Aşk Ve Üniversite</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001233000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Dondurmam Gaymak</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002013000 +0300" channel="SİNEMA YERLİ 2">
+    <title lang="tr">Ejder Kapanı</title>
+  </programme>
+  <programme start="20200929001500 +0300" stop="20200929021500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Çılgın Kral</title>
+  </programme>
+  <programme start="20200929021500 +0300" stop="20200929043000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">K9 Dünya Kupası</title>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929060000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Paytak Penguen</title>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929080000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Muhteşem Üçlü</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929094500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Eyvah Öğretmenim !</title>
+  </programme>
+  <programme start="20200929094500 +0300" stop="20200929113000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Güçlü Ol</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929130000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Pocahontas</title>
+  </programme>
+  <programme start="20200929130000 +0300" stop="20200929153000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Kayıp Zamanlar</title>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929171500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Parti Hayvanları</title>
+  </programme>
+  <programme start="20200929171500 +0300" stop="20200929183000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Prenses Maleen</title>
+  </programme>
+  <programme start="20200929183000 +0300" stop="20200929200000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Ernest Ve Celestine</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929214500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Muhteşem Aile</title>
+  </programme>
+  <programme start="20200929214500 +0300" stop="20200929233000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Balkondaki At</title>
+  </programme>
+  <programme start="20200929233000 +0300" stop="20200930013000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Shaolin Girl</title>
+  </programme>
+  <programme start="20200930013000 +0300" stop="20200930044500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Kahraman Köpek</title>
+  </programme>
+  <programme start="20200930044500 +0300" stop="20200930063000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Eyvah Öğretmenim !</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930080000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Pocahontas</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930094500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Özgür Balık</title>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930111500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Parti Hayvanları</title>
+  </programme>
+  <programme start="20200930111500 +0300" stop="20200930130000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Midas'ın Kutusu</title>
+  </programme>
+  <programme start="20200930130000 +0300" stop="20200930144500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Muhteşem Aile</title>
+  </programme>
+  <programme start="20200930144500 +0300" stop="20200930161500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Scooby-doo! Çılgın Ay Canavarı</title>
+  </programme>
+  <programme start="20200930161500 +0300" stop="20200930174500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Cesur Zebra</title>
+  </programme>
+  <programme start="20200930174500 +0300" stop="20200930181500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Tom Ve Jerry: Noel Baba'nın Küçük Yardımcıları</title>
+  </programme>
+  <programme start="20200930181500 +0300" stop="20200930200000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Bobby Ve Hayalet Avcıları</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930213000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Kuşlar Şehrinde Macera</title>
+  </programme>
+  <programme start="20200930213000 +0300" stop="20200930233000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Büyük Yarış</title>
+  </programme>
+  <programme start="20200930233000 +0300" stop="20201001013000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Talihsiz Sophie</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001030000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Baykuşlar Ve Fareler</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001033700 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20201001033700 +0300" stop="20201001043000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20201001043000 +0300" stop="20201001061500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Özgür Balık</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001080000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Midas'ın Kutusu</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001093000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Izzıe'nin Eve Dönüşü</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001111500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Bobby Ve Hayalet Avcıları</title>
+  </programme>
+  <programme start="20201001111500 +0300" stop="20201001131500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Motorlarını Çalıştır!</title>
+  </programme>
+  <programme start="20201001131500 +0300" stop="20201001143900 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Kuşlar Şehrinde Macera</title>
+  </programme>
+  <programme start="20201001143900 +0300" stop="20201001150000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Orman Dostları 1</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001164500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Zıp,</title>
+  </programme>
+  <programme start="20201001164500 +0300" stop="20201001181500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Tom Ve Jerry Korsanlar Arasında</title>
+  </programme>
+  <programme start="20201001181500 +0300" stop="20201001200000 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Tito Ve Uzaylılar</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001214500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Küçük Kardeşim</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001234500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Marsupılamı</title>
+  </programme>
+  <programme start="20201001234500 +0300" stop="20201002011500 +0300" channel="SİNEMA AİLE HD">
+    <title lang="tr">Max</title>
+  </programme>
+  <programme start="20200929001500 +0300" stop="20200929020000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Doğanın Senfonisi</title>
+  </programme>
+  <programme start="20200929020000 +0300" stop="20200929040000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Çılgın Kral</title>
+  </programme>
+  <programme start="20200929040000 +0300" stop="20200929054500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">K9 Dünya Kupası</title>
+  </programme>
+  <programme start="20200929054500 +0300" stop="20200929061500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20200929061500 +0300" stop="20200929074500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Paytak Penguen</title>
+  </programme>
+  <programme start="20200929074500 +0300" stop="20200929094500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Muhteşem Üçlü</title>
+  </programme>
+  <programme start="20200929094500 +0300" stop="20200929113000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Eyvah Öğretmenim !</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929131500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Güçlü Ol</title>
+  </programme>
+  <programme start="20200929131500 +0300" stop="20200929144500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Pocahontas</title>
+  </programme>
+  <programme start="20200929144500 +0300" stop="20200929171500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Kayıp Zamanlar</title>
+  </programme>
+  <programme start="20200929171500 +0300" stop="20200929184200 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Parti Hayvanları</title>
+  </programme>
+  <programme start="20200929184200 +0300" stop="20200929190000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları 4</title>
+  </programme>
+  <programme start="20200929190000 +0300" stop="20200929201500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Prenses Maleen</title>
+  </programme>
+  <programme start="20200929201500 +0300" stop="20200929214500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Ernest Ve Celestine</title>
+  </programme>
+  <programme start="20200929214500 +0300" stop="20200929233000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Muhteşem Aile</title>
+  </programme>
+  <programme start="20200929233000 +0300" stop="20200930011500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Balkondaki At</title>
+  </programme>
+  <programme start="20200930011500 +0300" stop="20200930031500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Shaolin Girl</title>
+  </programme>
+  <programme start="20200930031500 +0300" stop="20200930050000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Kahraman Köpek</title>
+  </programme>
+  <programme start="20200930050000 +0300" stop="20200930053700 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20200930053700 +0300" stop="20200930063000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930081500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Eyvah Öğretmenim !</title>
+  </programme>
+  <programme start="20200930081500 +0300" stop="20200930094500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Pocahontas</title>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930113000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Özgür Balık</title>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930130000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Parti Hayvanları</title>
+  </programme>
+  <programme start="20200930130000 +0300" stop="20200930144500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Midas'ın Kutusu</title>
+  </programme>
+  <programme start="20200930144500 +0300" stop="20200930163000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Muhteşem Aile</title>
+  </programme>
+  <programme start="20200930163000 +0300" stop="20200930180000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Scooby-doo! Çılgın Ay Canavarı</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930193000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Cesur Zebra</title>
+  </programme>
+  <programme start="20200930193000 +0300" stop="20200930200000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Tom Ve Jerry: Noel Baba'nın Küçük Yardımcıları</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930214500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Bobby Ve Hayalet Avcıları</title>
+  </programme>
+  <programme start="20200930214500 +0300" stop="20200930231500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Kuşlar Şehrinde Macera</title>
+  </programme>
+  <programme start="20200930231500 +0300" stop="20201001011500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Büyük Yarış</title>
+  </programme>
+  <programme start="20201001011500 +0300" stop="20201001031500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Talihsiz Sophie</title>
+  </programme>
+  <programme start="20201001031500 +0300" stop="20201001044500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Baykuşlar Ve Fareler</title>
+  </programme>
+  <programme start="20201001044500 +0300" stop="20201001052200 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20201001052200 +0300" stop="20201001061500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001080000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Özgür Balık</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001094500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">The Adventurer: The Curse Of The Midas Box</title>
+  </programme>
+  <programme start="20201001094500 +0300" stop="20201001111500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Izzıe'nin Eve Dönüşü</title>
+  </programme>
+  <programme start="20201001111500 +0300" stop="20201001130000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Bobby Ve Hayalet Avcıları</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001150000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Motorlarını Çalıştır!</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001162400 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Kuşlar Şehrinde Macera</title>
+  </programme>
+  <programme start="20201001162400 +0300" stop="20201001164500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Orman Dostları 1</title>
+  </programme>
+  <programme start="20201001164500 +0300" stop="20201001183000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Zıp,</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001200000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Tom Ve Jerry Korsanlar Arasında</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001214500 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Tito Ve Uzaylılar</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001233000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Küçük Kardeşim</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002013000 +0300" channel="SİNEMA AİLE 2 HD">
+    <title lang="tr">Marsupılamı</title>
+  </programme>
+  <programme start="20200929000000 +0300" stop="20200929030000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Truva</title>
+  </programme>
+  <programme start="20200929030000 +0300" stop="20200929051500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Jakob'un Yalanları</title>
+  </programme>
+  <programme start="20200929051500 +0300" stop="20200929070000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Zambak Yolu</title>
+  </programme>
+  <programme start="20200929070000 +0300" stop="20200929090000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Değişim</title>
+  </programme>
+  <programme start="20200929090000 +0300" stop="20200929113000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">İlk Şövalye</title>
+  </programme>
+  <programme start="20200929113000 +0300" stop="20200929133000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Top Gun</title>
+  </programme>
+  <programme start="20200929133000 +0300" stop="20200929151500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Küs Kardeşler Limited Şirketi</title>
+  </programme>
+  <programme start="20200929151500 +0300" stop="20200929180000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Güneş İmparatorluğu</title>
+  </programme>
+  <programme start="20200929180000 +0300" stop="20200929200000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Uzay Yolu: İsyan</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929220000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Yakınlık</title>
+  </programme>
+  <programme start="20200929220000 +0300" stop="20200930003000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kralın Seçimi</title>
+  </programme>
+  <programme start="20200930003000 +0300" stop="20200930024500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Yedi</title>
+  </programme>
+  <programme start="20200930024500 +0300" stop="20200930044500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Balığa Çıkmak İçin Kötü Bir Gün</title>
+  </programme>
+  <programme start="20200930044500 +0300" stop="20200930071500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Küçük Buda</title>
+  </programme>
+  <programme start="20200930071500 +0300" stop="20200930094500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kare</title>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930121500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kralın Seçimi</title>
+  </programme>
+  <programme start="20200930121500 +0300" stop="20200930134500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Benimle Kal</title>
+  </programme>
+  <programme start="20200930134500 +0300" stop="20200930154500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Artist</title>
+  </programme>
+  <programme start="20200930154500 +0300" stop="20200930180000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kazanma Sanatı</title>
+  </programme>
+  <programme start="20200930180000 +0300" stop="20200930200000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Star Trek: Nemesis</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930220000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20200930220000 +0300" stop="20201001000000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Salgın</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001014500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Yaşayan Ölülerin Gecesi</title>
+  </programme>
+  <programme start="20201001014500 +0300" stop="20201001034500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Geçmişe Yolculuk</title>
+  </programme>
+  <programme start="20201001034500 +0300" stop="20201001061500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kare</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001080000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Benimle Kal</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001094500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Kelimelerin Ötesi</title>
+  </programme>
+  <programme start="20201001094500 +0300" stop="20201001113000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001134500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Koruma</title>
+  </programme>
+  <programme start="20201001134500 +0300" stop="20201001154500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Salgın</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001174500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Süper Anne</title>
+  </programme>
+  <programme start="20201001174500 +0300" stop="20201001201500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Melekler Ve Şeytanlar</title>
+  </programme>
+  <programme start="20201001201500 +0300" stop="20201001220000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Frances Ha</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001233000 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Bir Şarkının Peşinde</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002011500 +0300" channel="SİNEMA 1001 HD">
+    <title lang="tr">Davıd Lynch: Yaşam Sanatı</title>
+  </programme>
+  <programme start="20200929014500 +0300" stop="20200929044500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Truva</title>
+  </programme>
+  <programme start="20200929044500 +0300" stop="20200929070000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Jakob'un Yalanları</title>
+  </programme>
+  <programme start="20200929070000 +0300" stop="20200929084500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Zambak Yolu</title>
+  </programme>
+  <programme start="20200929084500 +0300" stop="20200929104500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Değişim</title>
+  </programme>
+  <programme start="20200929104500 +0300" stop="20200929131500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">İlk Şövalye</title>
+  </programme>
+  <programme start="20200929131500 +0300" stop="20200929151500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Top Gun</title>
+  </programme>
+  <programme start="20200929151500 +0300" stop="20200929170000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Küs Kardeşler Limited Şirketi</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929194500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Güneş İmparatorluğu</title>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929214500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Uzay Yolu: İsyan</title>
+  </programme>
+  <programme start="20200929214500 +0300" stop="20200929234500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Yakınlık</title>
+  </programme>
+  <programme start="20200929234500 +0300" stop="20200930021500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kralın Seçimi</title>
+  </programme>
+  <programme start="20200930021500 +0300" stop="20200930043000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Yedi</title>
+  </programme>
+  <programme start="20200930043000 +0300" stop="20200930063000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Balığa Çıkmak İçin Kötü Bir Gün</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930090000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Küçük Buda</title>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930113000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kare</title>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930140000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kralın Seçimi</title>
+  </programme>
+  <programme start="20200930140000 +0300" stop="20200930153000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Benimle Kal</title>
+  </programme>
+  <programme start="20200930153000 +0300" stop="20200930173000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Artist</title>
+  </programme>
+  <programme start="20200930173000 +0300" stop="20200930194500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kazanma Sanatı</title>
+  </programme>
+  <programme start="20200930194500 +0300" stop="20200930214500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Star Trek: Nemesis</title>
+  </programme>
+  <programme start="20200930214500 +0300" stop="20200930234500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20200930234500 +0300" stop="20201001014500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Salgın</title>
+  </programme>
+  <programme start="20201001014500 +0300" stop="20201001033000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Yaşayan Ölülerin Gecesi</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001053000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Geçmişe Yolculuk</title>
+  </programme>
+  <programme start="20201001053000 +0300" stop="20201001080000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kare</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001094500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Stand By Me</title>
+  </programme>
+  <programme start="20201001094500 +0300" stop="20201001113000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Kelimelerin Ötesi</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001131500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20201001131500 +0300" stop="20201001153000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Koruma</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201001173000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Salgın</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001193000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Süper Anne</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001220000 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Melekler Ve Şeytanlar</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001234500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Frances Ha</title>
+  </programme>
+  <programme start="20201001234500 +0300" stop="20201002011500 +0300" channel="SİNEMA 1002">
+    <title lang="tr">Bir Şarkının Peşinde</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929031500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Erkek Severse</title>
+  </programme>
+  <programme start="20200929031500 +0300" stop="20200929044500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Fanatik</title>
+  </programme>
+  <programme start="20200929044500 +0300" stop="20200929063000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Baş Belası</title>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929081500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Bir Dünya Ki...</title>
+  </programme>
+  <programme start="20200929081500 +0300" stop="20200929100000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Vampir Terapisi</title>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929120000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Buradan Çok Uzakta</title>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929134500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Ben Casus</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929154500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Akıllı Ol</title>
+  </programme>
+  <programme start="20200929154500 +0300" stop="20200929174500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Sensiz Olmaz</title>
+  </programme>
+  <programme start="20200929174500 +0300" stop="20200929194500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Kör Talihim</title>
+  </programme>
+  <programme start="20200929194500 +0300" stop="20200929213000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Bill Ve Ted'in Maceraları 2</title>
+  </programme>
+  <programme start="20200929213000 +0300" stop="20200929231500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Hey Gidi Günler</title>
+  </programme>
+  <programme start="20200929231500 +0300" stop="20200930010000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Siyah Giyen Adamlar 2</title>
+  </programme>
+  <programme start="20200930010000 +0300" stop="20200930030000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Hesaplaşma Zamanı</title>
+  </programme>
+  <programme start="20200930030000 +0300" stop="20200930044500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Çılgın Banka Soygunu</title>
+  </programme>
+  <programme start="20200930044500 +0300" stop="20200930061500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Fransız Mutfağı</title>
+  </programme>
+  <programme start="20200930061500 +0300" stop="20200930080000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Yaş 60</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930094500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Showtime</title>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930113000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Hey Gidi Günler</title>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930133000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Saigon Macerası</title>
+  </programme>
+  <programme start="20200930133000 +0300" stop="20200930153000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Bay Kader</title>
+  </programme>
+  <programme start="20200930153000 +0300" stop="20200930171500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Davetsiz Misafir</title>
+  </programme>
+  <programme start="20200930171500 +0300" stop="20200930191500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Gerçek Öpücük</title>
+  </programme>
+  <programme start="20200930191500 +0300" stop="20200930213000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Mutluluk Karmaşası</title>
+  </programme>
+  <programme start="20200930213000 +0300" stop="20200930231500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Küçük Kasabanın Büyük Sırları</title>
+  </programme>
+  <programme start="20200930231500 +0300" stop="20201001013000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Terminal</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001033000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Kül Yutmaz</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001051500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Showtime</title>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001071500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Bay Kader</title>
+  </programme>
+  <programme start="20201001071500 +0300" stop="20201001090000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Ibıza</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001110000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Mutluluk Karmaşası</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001124500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Roma'da Aşk Başkadır</title>
+  </programme>
+  <programme start="20201001124500 +0300" stop="20201001143000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Küçük Kasabanın Büyük Sırları</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001163000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Aşk Masalı</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001183000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Kadın Avcıları</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001200000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Normal İnsan Olma Yolları</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001213000 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Bekarlığa Veda</title>
+  </programme>
+  <programme start="20201001213000 +0300" stop="20201001231500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Sucu</title>
+  </programme>
+  <programme start="20201001231500 +0300" stop="20201002011500 +0300" channel="SİNEMA KOMEDİ HD">
+    <title lang="tr">Malavıta: Belalı Tanık</title>
+  </programme>
+  <programme start="20200929010000 +0300" stop="20200929024500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Siyah Giyen Adamlar</title>
+  </programme>
+  <programme start="20200929024500 +0300" stop="20200929050000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Erkek Severse</title>
+  </programme>
+  <programme start="20200929050000 +0300" stop="20200929063000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Fanatik</title>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929081500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Baş Belası</title>
+  </programme>
+  <programme start="20200929081500 +0300" stop="20200929100000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Bir Dünya Ki...</title>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929114500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Vampir Terapisi</title>
+  </programme>
+  <programme start="20200929114500 +0300" stop="20200929134500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Buradan Çok Uzakta</title>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929153000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Ben Casus</title>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929173000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Akıllı Ol</title>
+  </programme>
+  <programme start="20200929173000 +0300" stop="20200929193000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Sensiz Olmaz</title>
+  </programme>
+  <programme start="20200929193000 +0300" stop="20200929213000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Kör Talihim</title>
+  </programme>
+  <programme start="20200929213000 +0300" stop="20200929231500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Bill Ve Ted'in Maceraları 2</title>
+  </programme>
+  <programme start="20200929231500 +0300" stop="20200930010000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Hey Gidi Günler</title>
+  </programme>
+  <programme start="20200930010000 +0300" stop="20200930024500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Siyah Giyen Adamlar 2</title>
+  </programme>
+  <programme start="20200930024500 +0300" stop="20200930044500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Hesaplaşma Zamanı</title>
+  </programme>
+  <programme start="20200930044500 +0300" stop="20200930063000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Çılgın Banka Soygunu</title>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930080000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Fransız Mutfağı</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930094500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Yaş 60</title>
+  </programme>
+  <programme start="20200930094500 +0300" stop="20200930113000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Showtime</title>
+  </programme>
+  <programme start="20200930113000 +0300" stop="20200930131500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Hey Gidi Günler</title>
+  </programme>
+  <programme start="20200930131500 +0300" stop="20200930151500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Saigon Macerası</title>
+  </programme>
+  <programme start="20200930151500 +0300" stop="20200930171500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Bay Kader</title>
+  </programme>
+  <programme start="20200930171500 +0300" stop="20200930190000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Davetsiz Misafir</title>
+  </programme>
+  <programme start="20200930190000 +0300" stop="20200930210000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Gerçek Öpücük</title>
+  </programme>
+  <programme start="20200930210000 +0300" stop="20200930231500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Mutluluk Karmaşası</title>
+  </programme>
+  <programme start="20200930231500 +0300" stop="20201001010000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Küçük Kasabanın Büyük Sırları</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001031500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Terminal</title>
+  </programme>
+  <programme start="20201001031500 +0300" stop="20201001051500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Kül Yutmaz</title>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001070000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Showtime</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001090000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Mr. Destiny</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001104500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Ibıza</title>
+  </programme>
+  <programme start="20201001104500 +0300" stop="20201001124500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Mutluluk Karmaşası</title>
+  </programme>
+  <programme start="20201001124500 +0300" stop="20201001143000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Roma'da Aşk Başkadır</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001161500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Küçük Kasabanın Büyük Sırları</title>
+  </programme>
+  <programme start="20201001161500 +0300" stop="20201001181500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Aşk Masalı</title>
+  </programme>
+  <programme start="20201001181500 +0300" stop="20201001201500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Kadın Avcıları</title>
+  </programme>
+  <programme start="20201001201500 +0300" stop="20201001214500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Normal İnsan Olma Yolları</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001231500 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Bekarlığa Veda</title>
+  </programme>
+  <programme start="20201001231500 +0300" stop="20201002010000 +0300" channel="SİNEMA KOMEDİ 2 HD">
+    <title lang="tr">Sucu</title>
+  </programme>
+</tv>
