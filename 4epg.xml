@@ -1,0 +1,3140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beIN SPORTS 1">
+    <display-name lang="tr">beIN SPORTS 1</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="tr">beIN SPORTS 2</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="tr">beIN SPORTS 3</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 4">
+    <display-name lang="tr">beIN SPORTS 4</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 1">
+    <display-name lang="tr">beIN SPORTS MAX 1</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 2">
+    <display-name lang="tr">beIN SPORTS MAX 2</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HABER HD">
+    <display-name lang="tr">beIN SPORTS HABER HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="FENERBAHÇE TV">
+    <display-name lang="tr">FENERBAHÇE TV</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="tr">DMAX</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="TRT SPOR HD">
+    <display-name lang="tr">TRT SPOR HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="EM TV">
+    <display-name lang="tr">EM TV</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="AUTOMOTO HD">
+    <display-name lang="tr">AUTOMOTO HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="FIGHTBOX HD">
+    <display-name lang="tr">FIGHTBOX HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="A SPOR">
+    <display-name lang="tr">A SPOR</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="FAST AND FUN HD">
+    <display-name lang="tr">FAST AND FUN HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="EUROSPORT 1 HD">
+    <display-name lang="tr">EUROSPORT 1 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="EUROSPORT 2 TR HD">
+    <display-name lang="tr">EUROSPORT 2 TR HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <programme start="20201001000000 +0300" stop="20201001010000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN 1</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001020000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İspanya'dan Futbol</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001030000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İngiltere'den Futbol</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001051500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001084500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001084500 +0300" stop="20201001103000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001111500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20201001111500 +0300" stop="20201001114500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20201001114500 +0300" stop="20201001120000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Haftanın Golleri</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001130000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN 1</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001140000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İspanya'dan Futbol</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001154500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001173000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga World</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001190000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İngiltere'den Futbol</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001194500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20201001194500 +0300" stop="20201001200000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001203000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001203000 +0300" stop="20201001210000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İtalya'dan Futbol</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001221500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001221500 +0300" stop="20201002014500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002014500 +0300" stop="20201002031500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002031500 +0300" stop="20201002033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Hedef Madrid</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002034500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002034500 +0300" stop="20201002044500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20201002044500 +0300" stop="20201002063000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002063000 +0300" stop="20201002070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002084500 +0300" stop="20201002094500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002094500 +0300" stop="20201002121500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002121500 +0300" stop="20201002123000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002123000 +0300" stop="20201002130000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Alo beIN</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002140000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Hedef Madrid</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002154500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002154500 +0300" stop="20201002180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002180000 +0300" stop="20201002183000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Files</title>
+  </programme>
+  <programme start="20201002183000 +0300" stop="20201002200000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Chronicles</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">STSL Maç Özetleri</title>
+  </programme>
+  <programme start="20201002220000 +0300" stop="20201003000000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003014500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003014500 +0300" stop="20201003033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003051500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003051500 +0300" stop="20201003070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003084500 +0300" stop="20201003094500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003094500 +0300" stop="20201003103000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003103000 +0300" stop="20201003124500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003124500 +0300" stop="20201003143000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003143000 +0300" stop="20201003161500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003161500 +0300" stop="20201003180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003180000 +0300" stop="20201003183000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Inside Serie A</title>
+  </programme>
+  <programme start="20201003183000 +0300" stop="20201003190000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Show</title>
+  </programme>
+  <programme start="20201003190000 +0300" stop="20201003211500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Ligue 1 Show</title>
+  </programme>
+  <programme start="20201003211500 +0300" stop="20201003220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Devre Arası</title>
+  </programme>
+  <programme start="20201003220000 +0300" stop="20201003230000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Serie A Kısa Özet</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201004000000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">West Bromwich Albion - Birmingham City</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001014500 +0300" stop="20201001033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001051500 +0300" stop="20201001070000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001084500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001084500 +0300" stop="20201001103000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001121500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001121500 +0300" stop="20201001140000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001154500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001173000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001183000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001230000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">PSG - Chelsea</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201001233000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Serie A Geniş Özet</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002014500 +0300" stop="20201002033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002143000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002143000 +0300" stop="20201002154500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20201002154500 +0300" stop="20201002191500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002191500 +0300" stop="20201002210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002210000 +0300" stop="20201002224500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002224500 +0300" stop="20201002230000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Ligue 1 Kısa Özet</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201003000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003014500 +0300" stop="20201003033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003173000 +0300" stop="20201003190000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003190000 +0300" stop="20201003191500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Ligue 1 Show</title>
+  </programme>
+  <programme start="20201003191500 +0300" stop="20201003200000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201003210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Başlıyor</title>
+  </programme>
+  <programme start="20201003210000 +0300" stop="20201003211500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003211500 +0300" stop="20201003220000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Devre Arası</title>
+  </programme>
+  <programme start="20201003220000 +0300" stop="20201003221500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">La Liga Chronicles</title>
+  </programme>
+  <programme start="20201003221500 +0300" stop="20201003224500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Sonu</title>
+  </programme>
+  <programme start="20201003224500 +0300" stop="20201004014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Rennes - O. Lyon</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001040000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001063000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001063000 +0300" stop="20201001084500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001084500 +0300" stop="20201001113000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001140000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001171500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001171500 +0300" stop="20201001173000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001183000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001194500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001194500 +0300" stop="20201001200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001220000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002020000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201002020000 +0300" stop="20201002040000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002070000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201002070000 +0300" stop="20201002100000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002100000 +0300" stop="20201002130000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002160000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002190000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201002190000 +0300" stop="20201002191500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201002191500 +0300" stop="20201002193000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201002193000 +0300" stop="20201002200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Otofan</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002210000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20201002210000 +0300" stop="20201002220000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20201002220000 +0300" stop="20201002224500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Potada Bugün</title>
+  </programme>
+  <programme start="20201002224500 +0300" stop="20201003014500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Olimpia Milano - Fenerbahçe Beko</title>
+  </programme>
+  <programme start="20201003014500 +0300" stop="20201003030000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003030000 +0300" stop="20201003033000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003051500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003051500 +0300" stop="20201003070000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003070000 +0300" stop="20201003084500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003084500 +0300" stop="20201003103000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003103000 +0300" stop="20201003140000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003140000 +0300" stop="20201003154500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003154500 +0300" stop="20201003173000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003173000 +0300" stop="20201003191500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003191500 +0300" stop="20201003200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201003223000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">KHIMKI - CSKA Moskova</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201003224500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Baskonia - Anadolu Efes</title>
+  </programme>
+  <programme start="20201003224500 +0300" stop="20201003233000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">41. Dakika</title>
+  </programme>
+  <programme start="20201003233000 +0300" stop="20201004003000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Premier League Preview</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001040000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001080000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001210000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001230000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Dunkerque - Montpellier</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002020000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Cesson Rennes - Nantes</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002120000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002220000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002220000 +0300" stop="20201003000000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Panathinaikos - Real Madrid</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003040000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201004020000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001023000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001040000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002040000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002220500 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002220500 +0300" stop="20201002230500 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Maccabi Tel Aviv - Gran Canaria</title>
+  </programme>
+  <programme start="20201002230500 +0300" stop="20201003000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003120000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003120000 +0300" stop="20201003160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003210000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003210000 +0300" stop="20201003223000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201003233000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Olimpiakos - Zalgiris Kaunas</title>
+  </programme>
+  <programme start="20201003233000 +0300" stop="20201004000000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001040000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002230000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201003010000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">Barcelona - Buducnost</title>
+  </programme>
+  <programme start="20201003010000 +0300" stop="20201003040000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003120000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003120000 +0300" stop="20201003160000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201003230000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201004010000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">Girona - Athletic Bilbao</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001040000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Lig Arası</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001050000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">İngiltere'den Futbol</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001060000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001070000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN Bugün</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001090000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Yeni Gün</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001100000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN 1</title>
+  </programme>
+  <programme start="20201001100000 +0300" stop="20201001110000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Lig Arası</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001120000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001123000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20201001123000 +0300" stop="20201001124500 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001124500 +0300" stop="20201001130000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Uefa Avrupa Ligi</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001140000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001143000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Haber Canlı</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001150000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001160000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN Manşet</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001170000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">İtalya'dan Futbol</title>
+  </programme>
+  <programme start="20201001170000 +0300" stop="20201001173000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001180000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Premier League World</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001190000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001193000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">La Liga World</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001200000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">UEFA Şampiyonlar Ligi Magazin</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001210000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Alo beIN</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001220000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Lig Arası</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001223000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201001224500 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001224500 +0300" stop="20201001230000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002000000 +0300" channel="beIN SPORTS HABER HD">
+    <title lang="tr">beIN Bugün</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001002000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fener Countdown</title>
+  </programme>
+  <programme start="20201001002000 +0300" stop="20201001003500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Efsane 11</title>
+  </programme>
+  <programme start="20201001003500 +0300" stop="20201001020000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – Ted Ankara Kolejliler</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001033000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001040000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Perspektif</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001053000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">14/16</title>
+  </programme>
+  <programme start="20201001053000 +0300" stop="20201001064500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe – Beşiktaş</title>
+  </programme>
+  <programme start="20201001064500 +0300" stop="20201001070000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Onun 10 Golü</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001080000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">40+</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001091500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – Tofaş Erkekler</title>
+  </programme>
+  <programme start="20201001091500 +0300" stop="20201001093000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Yarının Yıldızları</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001101500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Günaydın Fenerbahçe</title>
+  </programme>
+  <programme start="20201001101500 +0300" stop="20201001103000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Top Ten</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001104500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201001104500 +0300" stop="20201001110000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Yarının Yıldızları</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001123000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Kick Off</title>
+  </programme>
+  <programme start="20201001123000 +0300" stop="20201001133000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Mutfak Takımı</title>
+  </programme>
+  <programme start="20201001133000 +0300" stop="20201001140000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001154500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – İstanbul Bbsk</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001160000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001163000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fener Countdown</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001170000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fast and Bold</title>
+  </programme>
+  <programme start="20201001170000 +0300" stop="20201001171500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Efsane 11</title>
+  </programme>
+  <programme start="20201001171500 +0300" stop="20201001173000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201001173000 +0300" stop="20201001180000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Perspektif</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001190700 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">All the Goals</title>
+  </programme>
+  <programme start="20201001190700 +0300" stop="20201001193000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001210000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001223000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – İstanbul Bbsk</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201001233000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Mazinde Bir Tarih Yatar</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201001234500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201001234500 +0300" stop="20201002000000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Gece Haberi</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002011500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201002011500 +0300" stop="20201002013000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Efsane 11</title>
+  </programme>
+  <programme start="20201002013000 +0300" stop="20201002024500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe – Beşiktaş</title>
+  </programme>
+  <programme start="20201002024500 +0300" stop="20201002030000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Onun 10 Golü</title>
+  </programme>
+  <programme start="20201002030000 +0300" stop="20201002033000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Perspektif</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002040000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">All the Goals</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002053000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">14/16</title>
+  </programme>
+  <programme start="20201002053000 +0300" stop="20201002064500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – Tofaş</title>
+  </programme>
+  <programme start="20201002064500 +0300" stop="20201002080000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002093000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – İstanbul Bbsk</title>
+  </programme>
+  <programme start="20201002093000 +0300" stop="20201002101500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Günaydın Fenerbahçe</title>
+  </programme>
+  <programme start="20201002101500 +0300" stop="20201002103000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Top Ten</title>
+  </programme>
+  <programme start="20201002103000 +0300" stop="20201002104500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201002104500 +0300" stop="20201002110000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Onun 10 Golü</title>
+  </programme>
+  <programme start="20201002110000 +0300" stop="20201002123000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – İstanbul Bbsk</title>
+  </programme>
+  <programme start="20201002123000 +0300" stop="20201002130000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fener Countdown</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002133000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fast and Bold</title>
+  </programme>
+  <programme start="20201002133000 +0300" stop="20201002134500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Efsane 11</title>
+  </programme>
+  <programme start="20201002134500 +0300" stop="20201002140000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002160000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">14/16</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002161500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">All the Goals</title>
+  </programme>
+  <programme start="20201002161500 +0300" stop="20201002163000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Yarının Yıldızları</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002174500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201002174500 +0300" stop="20201002200000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe – Eskişehirspor Hazırlık Maçı</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002201500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20201002201500 +0300" stop="20201002214500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Sezon Golleri</title>
+  </programme>
+  <programme start="20201002214500 +0300" stop="20201002224500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Euroleague Özel</title>
+  </programme>
+  <programme start="20201002224500 +0300" stop="20201002233500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Maç Havası</title>
+  </programme>
+  <programme start="20201002233500 +0300" stop="20201002234500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Gece Haberi</title>
+  </programme>
+  <programme start="20201002234500 +0300" stop="20201003004500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Maç Havası</title>
+  </programme>
+  <programme start="20201003004500 +0300" stop="20201003014500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Euroleague Özel</title>
+  </programme>
+  <programme start="20201003014500 +0300" stop="20201003024500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Opet – Thy</title>
+  </programme>
+  <programme start="20201003024500 +0300" stop="20201003040000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Kıck Off</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003053000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe Beko – İstanbul Bbsk</title>
+  </programme>
+  <programme start="20201003053000 +0300" stop="20201003063000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">All the Goals</title>
+  </programme>
+  <programme start="20201003063000 +0300" stop="20201003070000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fast and Bold</title>
+  </programme>
+  <programme start="20201003070000 +0300" stop="20201003081500 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Fenerbahçe – Beşiktaş</title>
+  </programme>
+  <programme start="20201003081500 +0300" stop="20201003083000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Yarının Yıldızları</title>
+  </programme>
+  <programme start="20201003083000 +0300" stop="20201004000000 +0300" channel="FENERBAHÇE TV">
+    <title lang="tr">Top 50</title>
+  </programme>
+  <programme start="20201001005500 +0300" stop="20201001015500 +0300" channel="DMAX">
+    <title lang="tr">Tamirat Tadilat</title>
+  </programme>
+  <programme start="20201001015500 +0300" stop="20201001024000 +0300" channel="DMAX">
+    <title lang="tr">Morgan Freeman ile Evrenin Sırları</title>
+  </programme>
+  <programme start="20201001024000 +0300" stop="20201001032500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201001032500 +0300" stop="20201001041000 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201001041000 +0300" stop="20201001045500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201001045500 +0300" stop="20201001052000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001052000 +0300" stop="20201001054000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201001054000 +0300" stop="20201001060000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001062500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001062500 +0300" stop="20201001065000 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201001065000 +0300" stop="20201001071000 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201001071000 +0300" stop="20201001075500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201001075500 +0300" stop="20201001085500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201001085500 +0300" stop="20201001095500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201001095500 +0300" stop="20201001105500 +0300" channel="DMAX">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20201001105500 +0300" stop="20201001112500 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201001112500 +0300" stop="20201001115500 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201001115500 +0300" stop="20201001122500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001122500 +0300" stop="20201001125500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001125500 +0300" stop="20201001135500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201001135500 +0300" stop="20201001145500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201001145500 +0300" stop="20201001155500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201001155500 +0300" stop="20201001165500 +0300" channel="DMAX">
+    <title lang="tr">Mühendislik Harikaları</title>
+  </programme>
+  <programme start="20201001165500 +0300" stop="20201001175500 +0300" channel="DMAX">
+    <title lang="tr">Altın Peşinde: Köpüklü Sular</title>
+  </programme>
+  <programme start="20201001175500 +0300" stop="20201001182500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201001182500 +0300" stop="20201001185500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201001185500 +0300" stop="20201001192500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001192500 +0300" stop="20201001195500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201001195500 +0300" stop="20201001205500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201001205500 +0300" stop="20201001215500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201001215500 +0300" stop="20201001225500 +0300" channel="DMAX">
+    <title lang="tr">Altın Peşinde</title>
+  </programme>
+  <programme start="20201001225500 +0300" stop="20201001235500 +0300" channel="DMAX">
+    <title lang="tr">Megan Fox ile Kayıp Efsaneler</title>
+  </programme>
+  <programme start="20201001235500 +0300" stop="20201002005500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201002005500 +0300" stop="20201002015500 +0300" channel="DMAX">
+    <title lang="tr">Tamirat Tadilat</title>
+  </programme>
+  <programme start="20201002015500 +0300" stop="20201002024000 +0300" channel="DMAX">
+    <title lang="tr">Morgan Freeman ile Evrenin Sırları</title>
+  </programme>
+  <programme start="20201002024000 +0300" stop="20201002032500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201002032500 +0300" stop="20201002041000 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201002041000 +0300" stop="20201002045500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201002045500 +0300" stop="20201002052000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002052000 +0300" stop="20201002054000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201002054000 +0300" stop="20201002060000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201002060000 +0300" stop="20201002062500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002062500 +0300" stop="20201002065000 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201002065000 +0300" stop="20201002071000 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201002071000 +0300" stop="20201002075500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201002075500 +0300" stop="20201002085500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201002085500 +0300" stop="20201002095500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201002095500 +0300" stop="20201002105500 +0300" channel="DMAX">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20201002105500 +0300" stop="20201002112500 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201002112500 +0300" stop="20201002115500 +0300" channel="DMAX">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+  </programme>
+  <programme start="20201002115500 +0300" stop="20201002122500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002122500 +0300" stop="20201002125500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002125500 +0300" stop="20201002135500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201002135500 +0300" stop="20201002145500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Brezilya Macerası</title>
+  </programme>
+  <programme start="20201002145500 +0300" stop="20201002155500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201002155500 +0300" stop="20201002165500 +0300" channel="DMAX">
+    <title lang="tr">Mühendislik Harikaları</title>
+  </programme>
+  <programme start="20201002165500 +0300" stop="20201002175500 +0300" channel="DMAX">
+    <title lang="tr">Altın Peşinde: Köpüklü Sular (Özel Bölüm)</title>
+  </programme>
+  <programme start="20201002175500 +0300" stop="20201002182500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201002182500 +0300" stop="20201002185500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201002185500 +0300" stop="20201002192500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002192500 +0300" stop="20201002195500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201002195500 +0300" stop="20201002205500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201002205500 +0300" stop="20201002215500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Hindistan Macerası</title>
+  </programme>
+  <programme start="20201002215500 +0300" stop="20201002225500 +0300" channel="DMAX">
+    <title lang="tr">Hazine Arayışı: Yılan Adası</title>
+  </programme>
+  <programme start="20201002225500 +0300" stop="20201002235500 +0300" channel="DMAX">
+    <title lang="tr">Cooper'ın Hazinesi</title>
+  </programme>
+  <programme start="20201002235500 +0300" stop="20201003005500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201003005500 +0300" stop="20201003015500 +0300" channel="DMAX">
+    <title lang="tr">Tamirat Tadilat</title>
+  </programme>
+  <programme start="20201003015500 +0300" stop="20201003024000 +0300" channel="DMAX">
+    <title lang="tr">Morgan Freeman ile Evrenin Sırları</title>
+  </programme>
+  <programme start="20201003024000 +0300" stop="20201003032500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Hindistan Macerası</title>
+  </programme>
+  <programme start="20201003032500 +0300" stop="20201003041000 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201003041000 +0300" stop="20201003045500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201003045500 +0300" stop="20201003052000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003052000 +0300" stop="20201003054000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201003054000 +0300" stop="20201003060000 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201003060000 +0300" stop="20201003062500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003062500 +0300" stop="20201003071000 +0300" channel="DMAX">
+    <title lang="tr">Tamirat-Tadilat - Top 5 Bölüm</title>
+  </programme>
+  <programme start="20201003071000 +0300" stop="20201003075500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201003075500 +0300" stop="20201003085500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Hindistan Macerası</title>
+  </programme>
+  <programme start="20201003085500 +0300" stop="20201003095500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201003095500 +0300" stop="20201003105000 +0300" channel="DMAX">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20201003105000 +0300" stop="20201003115500 +0300" channel="DMAX">
+    <title lang="tr">Tamirat-Tadilat - Top 5 Bölüm</title>
+  </programme>
+  <programme start="20201003115500 +0300" stop="20201003122500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003122500 +0300" stop="20201003125500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003125500 +0300" stop="20201003135500 +0300" channel="DMAX">
+    <title lang="tr">Alaska Hava Yolları</title>
+  </programme>
+  <programme start="20201003135500 +0300" stop="20201003145500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Hindistan Macerası</title>
+  </programme>
+  <programme start="20201003145500 +0300" stop="20201003155500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201003155500 +0300" stop="20201003165500 +0300" channel="DMAX">
+    <title lang="tr">Mühendislik Harikaları</title>
+  </programme>
+  <programme start="20201003165500 +0300" stop="20201003175500 +0300" channel="DMAX">
+    <title lang="tr">Altın Peşinde</title>
+  </programme>
+  <programme start="20201003175500 +0300" stop="20201003182500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201003182500 +0300" stop="20201003185500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılır?</title>
+  </programme>
+  <programme start="20201003185500 +0300" stop="20201003192500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003192500 +0300" stop="20201003195500 +0300" channel="DMAX">
+    <title lang="tr">Nasıl Yapılmış?</title>
+  </programme>
+  <programme start="20201003195500 +0300" stop="20201003205500 +0300" channel="DMAX">
+    <title lang="tr">Alaska: Son Sınırda Hayatta Kalmak</title>
+  </programme>
+  <programme start="20201003205500 +0300" stop="20201003215500 +0300" channel="DMAX">
+    <title lang="tr">Vahşi Frank: Hindistan Macerası</title>
+  </programme>
+  <programme start="20201003215500 +0300" stop="20201003225500 +0300" channel="DMAX">
+    <title lang="tr">Garaj Doktoru</title>
+  </programme>
+  <programme start="20201003225500 +0300" stop="20201003235500 +0300" channel="DMAX">
+    <title lang="tr">Oto İstifçileri</title>
+  </programme>
+  <programme start="20201003235500 +0300" stop="20201004005500 +0300" channel="DMAX">
+    <title lang="tr">Çifte Kurtuluş</title>
+  </programme>
+  <programme start="20201001003000 +0300" stop="20201001013000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gün Sonu</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001030000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Almanya'dan Futbol</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001041500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001050000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001052500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201001052500 +0300" stop="20201001054000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">NBA Özetler</title>
+  </programme>
+  <programme start="20201001054000 +0300" stop="20201001065800 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hedef Süper Lig</title>
+  </programme>
+  <programme start="20201001065800 +0300" stop="20201001070000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001085000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İlk Baskı</title>
+  </programme>
+  <programme start="20201001085000 +0300" stop="20201001085500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001085500 +0300" stop="20201001090000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001091500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+  </programme>
+  <programme start="20201001091500 +0300" stop="20201001092500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">A Milli Futbol Takımı Özetler</title>
+  </programme>
+  <programme start="20201001092500 +0300" stop="20201001095000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Adrenalin</title>
+  </programme>
+  <programme start="20201001095000 +0300" stop="20201001095500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001095500 +0300" stop="20201001100000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001100000 +0300" stop="20201001105000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Dünyası</title>
+  </programme>
+  <programme start="20201001105000 +0300" stop="20201001105500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001105500 +0300" stop="20201001110000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spot + Fragman</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001121000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20201001121000 +0300" stop="20201001122000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Süper Lig Goller</title>
+  </programme>
+  <programme start="20201001122000 +0300" stop="20201001125500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Pota Altı</title>
+  </programme>
+  <programme start="20201001125500 +0300" stop="20201001130000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001132500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20201001132500 +0300" stop="20201001135000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201001135000 +0300" stop="20201001135500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001135500 +0300" stop="20201001140000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001153000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201001155500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Genç Spor</title>
+  </programme>
+  <programme start="20201001155500 +0300" stop="20201001160000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001163000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Set Sayısı</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001164000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Atlası</title>
+  </programme>
+  <programme start="20201001164000 +0300" stop="20201001174000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20201001174000 +0300" stop="20201001175500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">NBA Özetler</title>
+  </programme>
+  <programme start="20201001175500 +0300" stop="20201001180000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001185000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Akşamı</title>
+  </programme>
+  <programme start="20201001185000 +0300" stop="20201001185500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201001185500 +0300" stop="20201001190000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001203000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Futbol Aklı</title>
+  </programme>
+  <programme start="20201001203000 +0300" stop="20201001214500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Avrupanın Paslaşması</title>
+  </programme>
+  <programme start="20201001214500 +0300" stop="20201001220000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Atlası</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001233000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Premier Futbol</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002003000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20201002003000 +0300" stop="20201002013000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gün Sonu</title>
+  </programme>
+  <programme start="20201002013000 +0300" stop="20201002030000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Futbol Aklı</title>
+  </programme>
+  <programme start="20201002030000 +0300" stop="20201002033500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Süper Lig Özetler</title>
+  </programme>
+  <programme start="20201002033500 +0300" stop="20201002034500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Atlası</title>
+  </programme>
+  <programme start="20201002034500 +0300" stop="20201002044500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20201002044500 +0300" stop="20201002051000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201002051000 +0300" stop="20201002052500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">NBA Özetler</title>
+  </programme>
+  <programme start="20201002052500 +0300" stop="20201002053000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201002053000 +0300" stop="20201002065800 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Premier Futbol</title>
+  </programme>
+  <programme start="20201002065800 +0300" stop="20201002070000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20201002070000 +0300" stop="20201002085000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İlk Baskı</title>
+  </programme>
+  <programme start="20201002085000 +0300" stop="20201002085500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201002085500 +0300" stop="20201002090000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201002090000 +0300" stop="20201002091500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+  </programme>
+  <programme start="20201002091500 +0300" stop="20201002093500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Almanya Bundesliga Özetler</title>
+  </programme>
+  <programme start="20201002093500 +0300" stop="20201002094500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Süper Lig'de Haftanın En'leri</title>
+  </programme>
+  <programme start="20201002094500 +0300" stop="20201002095000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor ve Sağlık</title>
+  </programme>
+  <programme start="20201002095000 +0300" stop="20201002095500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201002095500 +0300" stop="20201002100000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201002100000 +0300" stop="20201002105500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Dünyası</title>
+  </programme>
+  <programme start="20201002105500 +0300" stop="20201002110000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201002110000 +0300" stop="20201002122000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20201002122000 +0300" stop="20201002122500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Efsanelerin İzinde</title>
+  </programme>
+  <programme start="20201002122500 +0300" stop="20201002125000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201002125000 +0300" stop="20201002125500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201002125500 +0300" stop="20201002130000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002132500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Bülteni</title>
+  </programme>
+  <programme start="20201002132500 +0300" stop="20201002135500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Orhan Ayhan'la</title>
+  </programme>
+  <programme start="20201002135500 +0300" stop="20201002140000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Kitaplığı</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002151000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20201002151000 +0300" stop="20201002151500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spot + Fragman</title>
+  </programme>
+  <programme start="20201002151500 +0300" stop="20201002155000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Engelsiz Spor</title>
+  </programme>
+  <programme start="20201002155000 +0300" stop="20201002160000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Toto 1. Lig Goller</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002162000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20201002162000 +0300" stop="20201002163000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Atlası</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002173000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20201002173000 +0300" stop="20201002175500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Akşamı</title>
+  </programme>
+  <programme start="20201002175500 +0300" stop="20201002200000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">2018-19 Voleybol Sezonu Vestel Venus Sultanlar LigiPLAY-OFF Çeyrek Final Karş.' Vakıfbank-Nilüfer Bld.'</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002213000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Basın Merkezi</title>
+  </programme>
+  <programme start="20201002213000 +0300" stop="20201002221500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">1. Lig Gündemi</title>
+  </programme>
+  <programme start="20201002221500 +0300" stop="20201002232500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20201002232500 +0300" stop="20201002233000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spot + Fragman</title>
+  </programme>
+  <programme start="20201002233000 +0300" stop="20201003003000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20201003003000 +0300" stop="20201003013000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gün Sonu</title>
+  </programme>
+  <programme start="20201003013000 +0300" stop="20201003024000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20201003024000 +0300" stop="20201003024500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003024500 +0300" stop="20201003033000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">1. Lig Gündemi</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003043500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201003043500 +0300" stop="20201003050000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Adrenalin</title>
+  </programme>
+  <programme start="20201003050000 +0300" stop="20201003051500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Süper Lig Panorama</title>
+  </programme>
+  <programme start="20201003051500 +0300" stop="20201003052000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor ve Sağlık</title>
+  </programme>
+  <programme start="20201003052000 +0300" stop="20201003052500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003052500 +0300" stop="20201003053000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Kitaplığı</title>
+  </programme>
+  <programme start="20201003053000 +0300" stop="20201003065800 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Basın Merkezi</title>
+  </programme>
+  <programme start="20201003065800 +0300" stop="20201003070000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20201003070000 +0300" stop="20201003085000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İlk Baskı</title>
+  </programme>
+  <programme start="20201003085000 +0300" stop="20201003085500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003085500 +0300" stop="20201003090000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201003090000 +0300" stop="20201003091500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+  </programme>
+  <programme start="20201003091500 +0300" stop="20201003094000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Adrenalin</title>
+  </programme>
+  <programme start="20201003094000 +0300" stop="20201003095000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">A Milli Futbol Takımı Özetler</title>
+  </programme>
+  <programme start="20201003095000 +0300" stop="20201003095500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003095500 +0300" stop="20201003100000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201003100000 +0300" stop="20201003105000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Dünyası</title>
+  </programme>
+  <programme start="20201003105000 +0300" stop="20201003105500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003105500 +0300" stop="20201003110000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Kitaplığı</title>
+  </programme>
+  <programme start="20201003110000 +0300" stop="20201003122500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20201003122500 +0300" stop="20201003125000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">UEFA Euro 2020 Eleme Karşılaşmaları</title>
+  </programme>
+  <programme start="20201003125000 +0300" stop="20201003125500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Takvim Yaprakları</title>
+  </programme>
+  <programme start="20201003125500 +0300" stop="20201003130000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201003130000 +0300" stop="20201003132500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Bülteni</title>
+  </programme>
+  <programme start="20201003132500 +0300" stop="20201003133000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Futbol Ajandası</title>
+  </programme>
+  <programme start="20201003133000 +0300" stop="20201003135500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Tenis Dünyası</title>
+  </programme>
+  <programme start="20201003135500 +0300" stop="20201003140000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spot + Fragman</title>
+  </programme>
+  <programme start="20201003140000 +0300" stop="20201003151500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20201003151500 +0300" stop="20201003152500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Atlası</title>
+  </programme>
+  <programme start="20201003152500 +0300" stop="20201003160000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Her Yerde</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003163000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Haber Saati</title>
+  </programme>
+  <programme start="20201003163000 +0300" stop="20201003163500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor ve Sağlık</title>
+  </programme>
+  <programme start="20201003163500 +0300" stop="20201003164000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Nedir,</title>
+  </programme>
+  <programme start="20201003164000 +0300" stop="20201003173000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Ajans Saati</title>
+  </programme>
+  <programme start="20201003173000 +0300" stop="20201003175500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Bundesliga'da 27. Haftaya Doğru</title>
+  </programme>
+  <programme start="20201003175500 +0300" stop="20201003180000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20201003180000 +0300" stop="20201003182500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spor Akşamı</title>
+  </programme>
+  <programme start="20201003182500 +0300" stop="20201003203000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">2018‐19 Voleybol Sezonu Vestel Venus Sultanlar Ligi Play-Off Çeyrek Final Karş. “Galatasaray - Beşiktaş”</title>
+  </programme>
+  <programme start="20201003203000 +0300" stop="20201003214500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20201003214500 +0300" stop="20201003220000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">NBA Özetler</title>
+  </programme>
+  <programme start="20201003220000 +0300" stop="20201003235500 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Başlama Vuruşu</title>
+  </programme>
+  <programme start="20201003235500 +0300" stop="20201004000000 +0300" channel="TRT SPOR HD">
+    <title lang="tr">Spot + Fragman</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001020000 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001024500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201001024500 +0300" stop="20201001041500 +0300" channel="EM TV">
+    <title lang="tr">Batıda Beş Silah</title>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001061500 +0300" channel="EM TV">
+    <title lang="tr">Affedilmeyenler</title>
+  </programme>
+  <programme start="20201001061500 +0300" stop="20201001070000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001083000 +0300" channel="EM TV">
+    <title lang="tr">Komançi İstasyonu</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001101500 +0300" channel="EM TV">
+    <title lang="tr">Kanlı Aşk</title>
+  </programme>
+  <programme start="20201001101500 +0300" stop="20201001103000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001120000 +0300" channel="EM TV">
+    <title lang="tr">Gun Hill'den Son Tren</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201001124500 +0300" stop="20201001141500 +0300" channel="EM TV">
+    <title lang="tr">Jesse James</title>
+  </programme>
+  <programme start="20201001141500 +0300" stop="20201001154500 +0300" channel="EM TV">
+    <title lang="tr">Davaro</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001180000 +0300" channel="EM TV">
+    <title lang="tr">Çöl Yavrusu</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001193000 +0300" channel="EM TV">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001204500 +0300" channel="EM TV">
+    <title lang="tr">Sıkı Dostlar</title>
+  </programme>
+  <programme start="20201001204500 +0300" stop="20201001223000 +0300" channel="EM TV">
+    <title lang="tr">Kahraman Süvariler</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201002000000 +0300" channel="EM TV">
+    <title lang="tr">Merhaba Tokyo</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002014500 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20201002014500 +0300" stop="20201002023000 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201002023000 +0300" stop="20201002040000 +0300" channel="EM TV">
+    <title lang="tr">Gun Hill'den Son Tren</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002053000 +0300" channel="EM TV">
+    <title lang="tr">Jesse James</title>
+  </programme>
+  <programme start="20201002053000 +0300" stop="20201002061500 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201002061500 +0300" stop="20201002074500 +0300" channel="EM TV">
+    <title lang="tr">Çöl Yavrusu</title>
+  </programme>
+  <programme start="20201002074500 +0300" stop="20201002093000 +0300" channel="EM TV">
+    <title lang="tr">Kahraman Süvariler</title>
+  </programme>
+  <programme start="20201002093000 +0300" stop="20201002103000 +0300" channel="EM TV">
+    <title lang="tr">Beş Milyoncuk Borç Verir misin?</title>
+  </programme>
+  <programme start="20201002103000 +0300" stop="20201002120000 +0300" channel="EM TV">
+    <title lang="tr">Maskeli Süvari Kayıp Altın Şehirde</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201002124500 +0300" stop="20201002141500 +0300" channel="EM TV">
+    <title lang="tr">Kötüler Şehri</title>
+  </programme>
+  <programme start="20201002141500 +0300" stop="20201002154500 +0300" channel="EM TV">
+    <title lang="tr">Anneler ve Kızları</title>
+  </programme>
+  <programme start="20201002154500 +0300" stop="20201002163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002180000 +0300" channel="EM TV">
+    <title lang="tr">Silahşörler Kraliçesi</title>
+  </programme>
+  <programme start="20201002180000 +0300" stop="20201002183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201002183000 +0300" stop="20201002193000 +0300" channel="EM TV">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201002193000 +0300" stop="20201002210000 +0300" channel="EM TV">
+    <title lang="tr">Ölümcül Topraklarda</title>
+  </programme>
+  <programme start="20201002210000 +0300" stop="20201002223000 +0300" channel="EM TV">
+    <title lang="tr">Otobüs Durağı</title>
+  </programme>
+  <programme start="20201002223000 +0300" stop="20201003000000 +0300" channel="EM TV">
+    <title lang="tr">Deniz Kurdu</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003020000 +0300" channel="EM TV">
+    <title lang="tr">21. Yüzyıl Şifreleri</title>
+  </programme>
+  <programme start="20201003020000 +0300" stop="20201003024500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201003024500 +0300" stop="20201003041500 +0300" channel="EM TV">
+    <title lang="tr">Maskeli Süvari Kayıp Altın Şehirde</title>
+  </programme>
+  <programme start="20201003041500 +0300" stop="20201003054500 +0300" channel="EM TV">
+    <title lang="tr">Kötüler Şehri</title>
+  </programme>
+  <programme start="20201003054500 +0300" stop="20201003063000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201003063000 +0300" stop="20201003080000 +0300" channel="EM TV">
+    <title lang="tr">Silahşörler Kraliçesi</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003090000 +0300" channel="EM TV">
+    <title lang="tr">Otobüs Durağı</title>
+  </programme>
+  <programme start="20201003090000 +0300" stop="20201003103000 +0300" channel="EM TV">
+    <title lang="tr">Bütün Anneler Melektir</title>
+  </programme>
+  <programme start="20201003103000 +0300" stop="20201003120000 +0300" channel="EM TV">
+    <title lang="tr">Laramie'den Gelen Adam</title>
+  </programme>
+  <programme start="20201003120000 +0300" stop="20201003124500 +0300" channel="EM TV">
+    <title lang="tr">Keşif</title>
+  </programme>
+  <programme start="20201003124500 +0300" stop="20201003141500 +0300" channel="EM TV">
+    <title lang="tr">Nevadalı</title>
+  </programme>
+  <programme start="20201003141500 +0300" stop="20201003154500 +0300" channel="EM TV">
+    <title lang="tr">Aslan Bacanak</title>
+  </programme>
+  <programme start="20201003154500 +0300" stop="20201003163000 +0300" channel="EM TV">
+    <title lang="tr">Hayde Gidelum Hayde</title>
+  </programme>
+  <programme start="20201003163000 +0300" stop="20201003180000 +0300" channel="EM TV">
+    <title lang="tr">Çapkın Ortaklar</title>
+  </programme>
+  <programme start="20201003180000 +0300" stop="20201003183000 +0300" channel="EM TV">
+    <title lang="tr">Para Konuşur</title>
+  </programme>
+  <programme start="20201003183000 +0300" stop="20201003193000 +0300" channel="EM TV">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201003193000 +0300" stop="20201003211500 +0300" channel="EM TV">
+    <title lang="tr">Üçkağıtçılar</title>
+  </programme>
+  <programme start="20201003211500 +0300" stop="20201003223000 +0300" channel="EM TV">
+    <title lang="tr">Milyoner Avcıları</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201004000000 +0300" channel="EM TV">
+    <title lang="tr">Deniz Kurdu 2</title>
+  </programme>
+  <programme start="20201001000500 +0300" stop="20201001080000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Jay Leno'nun Garajı</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001090000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">V6</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001093000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001102000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201001102000 +0300" stop="20201001105000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Görevimiz Otomobil</title>
+  </programme>
+  <programme start="20201001105000 +0300" stop="20201001111500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Görevimiz Otomobil</title>
+  </programme>
+  <programme start="20201001111500 +0300" stop="20201001120500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Speed Gang 2014</title>
+  </programme>
+  <programme start="20201001120500 +0300" stop="20201001125000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Restorayon Dünyası</title>
+  </programme>
+  <programme start="20201001125000 +0300" stop="20201001133500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201001133500 +0300" stop="20201001140000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001143000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001145500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201001145500 +0300" stop="20201001152000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201001152000 +0300" stop="20201001154500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201001154500 +0300" stop="20201001163500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201001163500 +0300" stop="20201001172500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201001172500 +0300" stop="20201001181500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201001181500 +0300" stop="20201001190500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201001190500 +0300" stop="20201001195500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201001195500 +0300" stop="20201001204500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201001204500 +0300" stop="20201001211500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201001211500 +0300" stop="20201001214000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201001214000 +0300" stop="20201001221000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201001221000 +0300" stop="20201001222500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201001222500 +0300" stop="20201001234000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Monster Energy Ama Supercross 2019</title>
+  </programme>
+  <programme start="20201001234000 +0300" stop="20201002080000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Monster Energy Ama Supercross 2019</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002090000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">V6</title>
+  </programme>
+  <programme start="20201002090000 +0300" stop="20201002093000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201002093000 +0300" stop="20201002102000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201002102000 +0300" stop="20201002105000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201002105000 +0300" stop="20201002111500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201002111500 +0300" stop="20201002114500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201002114500 +0300" stop="20201002120500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201002120500 +0300" stop="20201002125000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Restorayon Dünyası</title>
+  </programme>
+  <programme start="20201002125000 +0300" stop="20201002133500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201002133500 +0300" stop="20201002140000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002143000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Tutkunu Yıldızlar</title>
+  </programme>
+  <programme start="20201002143000 +0300" stop="20201002145500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Tutkunu Yıldızlar</title>
+  </programme>
+  <programme start="20201002145500 +0300" stop="20201002154500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Speed Gang 2014</title>
+  </programme>
+  <programme start="20201002154500 +0300" stop="20201002163500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201002163500 +0300" stop="20201002172500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201002172500 +0300" stop="20201002181500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201002181500 +0300" stop="20201002190000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201002190000 +0300" stop="20201002204500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Eğrisiyle Doğrusuyla</title>
+  </programme>
+  <programme start="20201002204500 +0300" stop="20201002211500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201002211500 +0300" stop="20201002214000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201002214000 +0300" stop="20201002221000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201002221000 +0300" stop="20201002223000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201002223000 +0300" stop="20201002233000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Eğrisiyle Doğrusuyla</title>
+  </programme>
+  <programme start="20201002233000 +0300" stop="20201003000000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003080000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Motor Dünyası</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003090000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">V6</title>
+  </programme>
+  <programme start="20201003090000 +0300" stop="20201003093000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201003093000 +0300" stop="20201003102000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201003102000 +0300" stop="20201003104500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201003104500 +0300" stop="20201003111500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201003111500 +0300" stop="20201003120500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">The Guild Garage</title>
+  </programme>
+  <programme start="20201003120500 +0300" stop="20201003125000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Restorayon Dünyası</title>
+  </programme>
+  <programme start="20201003125000 +0300" stop="20201003133500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201003133500 +0300" stop="20201003140000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201003140000 +0300" stop="20201003143000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201003143000 +0300" stop="20201003145500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Retro Araba Tutkusu</title>
+  </programme>
+  <programme start="20201003145500 +0300" stop="20201003154500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Klasik Araba Şovu</title>
+  </programme>
+  <programme start="20201003154500 +0300" stop="20201003163500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201003163500 +0300" stop="20201003172500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201003172500 +0300" stop="20201003181500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Araba Mezarlığı</title>
+  </programme>
+  <programme start="20201003181500 +0300" stop="20201003190500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Eğrisiyle Doğrusuyla</title>
+  </programme>
+  <programme start="20201003190500 +0300" stop="20201003195500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201003195500 +0300" stop="20201003204500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Sıradışı Konvoy</title>
+  </programme>
+  <programme start="20201003204500 +0300" stop="20201003213400 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Monster Jam</title>
+  </programme>
+  <programme start="20201003213400 +0300" stop="20201003223500 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Monster Jam</title>
+  </programme>
+  <programme start="20201003223500 +0300" stop="20201003230400 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Görevimiz Otomobil</title>
+  </programme>
+  <programme start="20201003230400 +0300" stop="20201004080000 +0300" channel="AUTOMOTO HD">
+    <title lang="tr">Görevimiz Otomobil</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001013000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Son Dövüş Deneyimi - UCE</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001041500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">UCF Görkemli Melekler</title>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001071500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Karma Dövüş Gala</title>
+  </programme>
+  <programme start="20201001071500 +0300" stop="20201001073000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Tekvando</title>
+  </programme>
+  <programme start="20201001073000 +0300" stop="20201001074500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">WUSHU Şampiyonası</title>
+  </programme>
+  <programme start="20201001074500 +0300" stop="20201001080000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Tekvando</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001081500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">WUSHU Şampiyonası</title>
+  </programme>
+  <programme start="20201001081500 +0300" stop="20201001103000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kralların Kralı Büyük Dövüş</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001130000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kazan Dünya Dövüş Grand Prix TNA Tatneft Arena</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001143000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Dünya Karate Federasyonu</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001164000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Dövüş Kuralları</title>
+  </programme>
+  <programme start="20201001164000 +0300" stop="20201001194000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Riga Arenası LNK Boks Gecesi 5</title>
+  </programme>
+  <programme start="20201001194000 +0300" stop="20201001210000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kafes Halka Şampiyonası 7</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001231000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Letonya Fightbox Kralların Kralı Kahramanlar Serisi Riga</title>
+  </programme>
+  <programme start="20201001231000 +0300" stop="20201002012500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kralların Kralı Büyük Dövüş</title>
+  </programme>
+  <programme start="20201002012500 +0300" stop="20201002022000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kafes Halka Şampiyonası 7</title>
+  </programme>
+  <programme start="20201002022000 +0300" stop="20201002032000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Grup Savaşları</title>
+  </programme>
+  <programme start="20201002032000 +0300" stop="20201002053500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Savaş</title>
+  </programme>
+  <programme start="20201002053500 +0300" stop="20201002080000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kafes Yarışmacıları</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002081500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Tekvando</title>
+  </programme>
+  <programme start="20201002081500 +0300" stop="20201002083000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">WUSHU Şampiyonası</title>
+  </programme>
+  <programme start="20201002083000 +0300" stop="20201002094500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kafes Halka Şampiyonası 7</title>
+  </programme>
+  <programme start="20201002094500 +0300" stop="20201002114500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Pişmanlığa Yer Yok</title>
+  </programme>
+  <programme start="20201002114500 +0300" stop="20201002161500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Romanya 28. 02. 2019 Superkombat Oss Dövüşçüleri Bükreş</title>
+  </programme>
+  <programme start="20201002161500 +0300" stop="20201002174500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Dünya Karate Federasyonu</title>
+  </programme>
+  <programme start="20201002174500 +0300" stop="20201002200000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Savaş</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002230000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Riga Arenası LNK Boks Gecesi 5</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201002235000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Çaylak Dövüşü</title>
+  </programme>
+  <programme start="20201002235000 +0300" stop="20201003005000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Japon Pro Tüm Dallar Güreş Şampiyonası</title>
+  </programme>
+  <programme start="20201003005000 +0300" stop="20201003023500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Litvanya FightBox Kralların Kralı Kahramanlar Serisi Vilnus</title>
+  </programme>
+  <programme start="20201003023500 +0300" stop="20201003043500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Bangkok Dövüş Gecesi</title>
+  </programme>
+  <programme start="20201003043500 +0300" stop="20201003055000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Gerçeküstü Dövüşler Turnuvası</title>
+  </programme>
+  <programme start="20201003055000 +0300" stop="20201003074500 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Öfkeli Kafes Dövüşleri Şampiyonası</title>
+  </programme>
+  <programme start="20201003074500 +0300" stop="20201003080000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Tekvando</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003102000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kazan Dünya Dövüş Grand Prix TNA Tatneft Arena</title>
+  </programme>
+  <programme start="20201003102000 +0300" stop="20201003123000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Letonya Fightbox Kralların Kralı Kahramanlar Serisi Riga</title>
+  </programme>
+  <programme start="20201003123000 +0300" stop="20201003152000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Dünya Karate Federasyonu</title>
+  </programme>
+  <programme start="20201003152000 +0300" stop="20201003162000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Dövüş Gecesi Fırtınası</title>
+  </programme>
+  <programme start="20201003162000 +0300" stop="20201003173000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kafes Halka Şampiyonası 7</title>
+  </programme>
+  <programme start="20201003173000 +0300" stop="20201003200000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kazan Dünya Dövüş Grand Prix TNA Tatneft Arena</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201003230000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Kolezyum Turnuvası - CANLI</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201004023000 +0300" channel="FIGHTBOX HD">
+    <title lang="tr">Karma Dövüş Gala</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001070000 +0300" channel="A SPOR">
+    <title lang="tr">Tekrarlar</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001100000 +0300" channel="A SPOR">
+    <title lang="tr">Sabah Sporu</title>
+  </programme>
+  <programme start="20201001100000 +0300" stop="20201001110000 +0300" channel="A SPOR">
+    <title lang="tr">Premier Lig Özetler</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001140000 +0300" channel="A SPOR">
+    <title lang="tr">Spor Ajansı</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001150000 +0300" channel="A SPOR">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001180000 +0300" channel="A SPOR">
+    <title lang="tr">Spor Gündemi</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001210000 +0300" channel="A SPOR">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001230000 +0300" channel="A SPOR">
+    <title lang="tr">Futbol A</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002020000 +0300" channel="A SPOR">
+    <title lang="tr">Son Sayfa</title>
+  </programme>
+  <programme start="20201002100000 +0300" stop="20201002110000 +0300" channel="A SPOR">
+    <title lang="tr">Dünyadan Futbol</title>
+  </programme>
+  <programme start="20201002210000 +0300" stop="20201002230000 +0300" channel="A SPOR">
+    <title lang="tr">Futbol Meydanı</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201003020000 +0300" channel="A SPOR">
+    <title lang="tr">Son Sayfa</title>
+  </programme>
+  <programme start="20201003100000 +0300" stop="20201003110000 +0300" channel="A SPOR">
+    <title lang="tr">Taraftar Konuşuyor</title>
+  </programme>
+  <programme start="20201003210000 +0300" stop="20201003230000 +0300" channel="A SPOR">
+    <title lang="tr">Artı Futbol</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201004010000 +0300" channel="A SPOR">
+    <title lang="tr">Son Sayfa</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001003000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001003000 +0300" stop="20201001010000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001013000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001020000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001023000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001030000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001033000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001040000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001050000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001053000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201001053000 +0300" stop="20201001060000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001063000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001063000 +0300" stop="20201001070000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001073000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Vites Değiştirme</title>
+  </programme>
+  <programme start="20201001073000 +0300" stop="20201001080000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001083000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001090000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Havacılar</title>
+  </programme>
+  <programme start="20201001090000 +0300" stop="20201001093000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001100000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001100000 +0300" stop="20201001110000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001113000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001120000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001123000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001123000 +0300" stop="20201001130000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001133000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001133000 +0300" stop="20201001140000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001140000 +0300" stop="20201001143000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001150000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001153000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201001160000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001163000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Icarus Belgesel Serisi Bölüm 3</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001170000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Icarus Belgesel Serisi Bölüm 4</title>
+  </programme>
+  <programme start="20201001170000 +0300" stop="20201001180000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201001180000 +0300" stop="20201001183000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Tokyo'ya Deniz Yolculuğu 2017</title>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001190000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001193000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001200000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001203000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201001203000 +0300" stop="20201001210000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001213000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001213000 +0300" stop="20201001220000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001223000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201001230000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201001233000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201001233000 +0300" stop="20201002000000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002003000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002003000 +0300" stop="20201002010000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002010000 +0300" stop="20201002020000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201002020000 +0300" stop="20201002023000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Açıkhava Sporları</title>
+  </programme>
+  <programme start="20201002023000 +0300" stop="20201002030000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Açıkhava Sporları</title>
+  </programme>
+  <programme start="20201002030000 +0300" stop="20201002033000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Icarus Belgesel Serisi Bölüm 4</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002040000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Icarus Belgesel Serisi Bölüm 5</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002043000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201002043000 +0300" stop="20201002050000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201002050000 +0300" stop="20201002053000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002053000 +0300" stop="20201002060000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002060000 +0300" stop="20201002063000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201002063000 +0300" stop="20201002070000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201002070000 +0300" stop="20201002073000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002073000 +0300" stop="20201002080000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002080000 +0300" stop="20201002083000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Rüzgar Ustaları</title>
+  </programme>
+  <programme start="20201002083000 +0300" stop="20201002090000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Rüzgar Ustaları</title>
+  </programme>
+  <programme start="20201002090000 +0300" stop="20201002100000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201002100000 +0300" stop="20201002103000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Vites Değiştirme</title>
+  </programme>
+  <programme start="20201002103000 +0300" stop="20201002110000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Vites Değiştirme</title>
+  </programme>
+  <programme start="20201002110000 +0300" stop="20201002113000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002113000 +0300" stop="20201002120000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002123000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002123000 +0300" stop="20201002130000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002133000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Rüzgar Ustaları</title>
+  </programme>
+  <programme start="20201002133000 +0300" stop="20201002140000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Bot Şov 4K</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002150000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201002150000 +0300" stop="20201002160000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201002160000 +0300" stop="20201002163000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002170000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002170000 +0300" stop="20201002173000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201002173000 +0300" stop="20201002180000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201002180000 +0300" stop="20201002183000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201002183000 +0300" stop="20201002190000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201002190000 +0300" stop="20201002193000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002193000 +0300" stop="20201002200000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002203000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002203000 +0300" stop="20201002210000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201002210000 +0300" stop="20201002213000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Tokyo'ya Deniz Yolculuğu 2017</title>
+  </programme>
+  <programme start="20201002213000 +0300" stop="20201002220000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Tokyo'ya Deniz Yolculuğu 2017</title>
+  </programme>
+  <programme start="20201002220000 +0300" stop="20201002223000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Bot Şov 4K</title>
+  </programme>
+  <programme start="20201002223000 +0300" stop="20201002230000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Bot Şov 4K</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201002233000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Monster Custom Docu 3</title>
+  </programme>
+  <programme start="20201002233000 +0300" stop="20201003000000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003010000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201003010000 +0300" stop="20201003013000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003013000 +0300" stop="20201003020000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003020000 +0300" stop="20201003023000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003023000 +0300" stop="20201003030000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003030000 +0300" stop="20201003033000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003040000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003043000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003043000 +0300" stop="20201003050000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003050000 +0300" stop="20201003053000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Açıkhava Sporları</title>
+  </programme>
+  <programme start="20201003053000 +0300" stop="20201003060000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Açıkhava Sporları</title>
+  </programme>
+  <programme start="20201003060000 +0300" stop="20201003063000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003063000 +0300" stop="20201003070000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003070000 +0300" stop="20201003073000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003073000 +0300" stop="20201003080000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003083000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201003083000 +0300" stop="20201003090000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003090000 +0300" stop="20201003093000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003093000 +0300" stop="20201003100000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003100000 +0300" stop="20201003103000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003103000 +0300" stop="20201003110000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003110000 +0300" stop="20201003113000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003113000 +0300" stop="20201003120000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003120000 +0300" stop="20201003130000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003130000 +0300" stop="20201003133000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201003133000 +0300" stop="20201003140000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201003140000 +0300" stop="20201003143000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Serbest Stil Dünya Gençler Şampiyonaları 2017</title>
+  </programme>
+  <programme start="20201003143000 +0300" stop="20201003150000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003150000 +0300" stop="20201003153000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Sörf Tahtası Hikayeleri</title>
+  </programme>
+  <programme start="20201003153000 +0300" stop="20201003160000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003163000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">GC32 Tur Yarışları 2017</title>
+  </programme>
+  <programme start="20201003163000 +0300" stop="20201003170000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003170000 +0300" stop="20201003173000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003173000 +0300" stop="20201003180000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003180000 +0300" stop="20201003183000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003183000 +0300" stop="20201003190000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Aksiyon Sporları Dünyası</title>
+  </programme>
+  <programme start="20201003190000 +0300" stop="20201003193000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003193000 +0300" stop="20201003200000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Büyük Pist Yarışı</title>
+  </programme>
+  <programme start="20201003200000 +0300" stop="20201003210000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201003210000 +0300" stop="20201003220000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Yelken Dünyası</title>
+  </programme>
+  <programme start="20201003220000 +0300" stop="20201003223000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201003230000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Hızlı Arabalar</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201003233000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Cape Epic 2017</title>
+  </programme>
+  <programme start="20201003233000 +0300" stop="20201004000000 +0300" channel="FAST AND FUN HD">
+    <title lang="tr">Quattro - Serbest Stil Dünya Gençler Şampiyonaları 2017</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001010000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001010000 +0300" stop="20201001013000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001013500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201001013500 +0300" stop="20201001014500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001014500 +0300" stop="20201001023000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001023500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001023500 +0300" stop="20201001030000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201001030000 +0300" stop="20201001033000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001040000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001043000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001043000 +0300" stop="20201001050000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001060000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001063000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001063000 +0300" stop="20201001070000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001073000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201001073000 +0300" stop="20201001083000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001093000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001103000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001103500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001103500 +0300" stop="20201001113000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001120000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001130000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001133000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001133000 +0300" stop="20201001143000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001153000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201001160000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001160000 +0300" stop="20201001163000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001174500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001174500 +0300" stop="20201001191500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001191500 +0300" stop="20201001201500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001201500 +0300" stop="20201001213000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001213000 +0300" stop="20201001222500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001222500 +0300" stop="20201001223000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201001223000 +0300" stop="20201001230000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002000000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Olimpiyat Oyunları</title>
+  </programme>
+  <programme start="20201002000000 +0300" stop="20201002003000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Olimpiyat Oyunları</title>
+  </programme>
+  <programme start="20201002003000 +0300" stop="20201002010000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002010000 +0300" stop="20201002013000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002013000 +0300" stop="20201002013500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201002013500 +0300" stop="20201002023000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002023000 +0300" stop="20201002033000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002040000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002040000 +0300" stop="20201002043000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002043000 +0300" stop="20201002050000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002050000 +0300" stop="20201002060000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002060000 +0300" stop="20201002063000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201002063000 +0300" stop="20201002070000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002070000 +0300" stop="20201002073000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002073000 +0300" stop="20201002083000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002083000 +0300" stop="20201002093000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002093000 +0300" stop="20201002103000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201002103000 +0300" stop="20201002113000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002113000 +0300" stop="20201002130000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002133000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201002133000 +0300" stop="20201002143000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002143000 +0300" stop="20201002153000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002153000 +0300" stop="20201002163000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002174500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002174500 +0300" stop="20201002191500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002191500 +0300" stop="20201002201500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201002201500 +0300" stop="20201002213000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002213000 +0300" stop="20201002215500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201002215500 +0300" stop="20201002220500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201002220500 +0300" stop="20201002223000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002223000 +0300" stop="20201002230000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002230000 +0300" stop="20201003000000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003003000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201003003000 +0300" stop="20201003010000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003010000 +0300" stop="20201003013000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201003013000 +0300" stop="20201003013500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201003013500 +0300" stop="20201003023000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003023000 +0300" stop="20201003033000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003040000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003043000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003043000 +0300" stop="20201003050000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003050000 +0300" stop="20201003060000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003060000 +0300" stop="20201003070000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201003070000 +0300" stop="20201003073000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201003073000 +0300" stop="20201003083000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003083000 +0300" stop="20201003093000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201003093000 +0300" stop="20201003100000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003100000 +0300" stop="20201003103000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003103000 +0300" stop="20201003113000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003113000 +0300" stop="20201003120500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201003120500 +0300" stop="20201003123000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003123000 +0300" stop="20201003133000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201003133000 +0300" stop="20201003143000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003143000 +0300" stop="20201003153000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201003153000 +0300" stop="20201003160000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Wrc</title>
+  </programme>
+  <programme start="20201003160000 +0300" stop="20201003163000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003163000 +0300" stop="20201003174500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003174500 +0300" stop="20201003191500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003191500 +0300" stop="20201003194500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003194500 +0300" stop="20201003201500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003201500 +0300" stop="20201003213000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003213000 +0300" stop="20201003222500 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003222500 +0300" stop="20201003223000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201003230000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003230000 +0300" stop="20201004000000 +0300" channel="EUROSPORT 1 HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001000000 +0300" stop="20201001013000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001013000 +0300" stop="20201001020000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001020000 +0300" stop="20201001022500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001022500 +0300" stop="20201001023000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201001023000 +0300" stop="20201001033000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001033000 +0300" stop="20201001040000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201001040000 +0300" stop="20201001050000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001050000 +0300" stop="20201001053000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001053000 +0300" stop="20201001060000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001070000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001070000 +0300" stop="20201001080000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201001080000 +0300" stop="20201001083000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001083000 +0300" stop="20201001093000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001093000 +0300" stop="20201001103000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001103000 +0300" stop="20201001110000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201001110000 +0300" stop="20201001113000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001113000 +0300" stop="20201001120000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001120000 +0300" stop="20201001130000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001130000 +0300" stop="20201001133000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201001133000 +0300" stop="20201001143000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001143000 +0300" stop="20201001150000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001150000 +0300" stop="20201001153000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001153000 +0300" stop="20201001163000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001163000 +0300" stop="20201001190000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001190000 +0300" stop="20201001193000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201001193000 +0300" stop="20201001200000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001200000 +0300" stop="20201001203000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201001203000 +0300" stop="20201001210000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201001210000 +0300" stop="20201001220000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Formula E</title>
+  </programme>
+  <programme start="20201001220000 +0300" stop="20201001225500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201001225500 +0300" stop="20201001230000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201001230000 +0300" stop="20201002003000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002003000 +0300" stop="20201002013000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002013000 +0300" stop="20201002022500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002022500 +0300" stop="20201002023000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201002023000 +0300" stop="20201002033000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002033000 +0300" stop="20201002050000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002050000 +0300" stop="20201002053000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002053000 +0300" stop="20201002060000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002060000 +0300" stop="20201002070000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002070000 +0300" stop="20201002083000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002083000 +0300" stop="20201002093000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002093000 +0300" stop="20201002100000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002100000 +0300" stop="20201002103000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002103000 +0300" stop="20201002110000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002110000 +0300" stop="20201002120000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayakla Atlama</title>
+  </programme>
+  <programme start="20201002120000 +0300" stop="20201002130000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002130000 +0300" stop="20201002133000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002133000 +0300" stop="20201002140000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Motokros</title>
+  </programme>
+  <programme start="20201002140000 +0300" stop="20201002143000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Motokros</title>
+  </programme>
+  <programme start="20201002143000 +0300" stop="20201002150000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Motokros</title>
+  </programme>
+  <programme start="20201002150000 +0300" stop="20201002153000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Motokros</title>
+  </programme>
+  <programme start="20201002153000 +0300" stop="20201002163000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002163000 +0300" stop="20201002170000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201002170000 +0300" stop="20201002184500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002184500 +0300" stop="20201002190000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201002190000 +0300" stop="20201002193000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002193000 +0300" stop="20201002200000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201002200000 +0300" stop="20201002203000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201002203000 +0300" stop="20201002220000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002220000 +0300" stop="20201002225500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201002225500 +0300" stop="20201003000000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201003000000 +0300" stop="20201003023000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003023000 +0300" stop="20201003023500 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20201003023500 +0300" stop="20201003033000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003033000 +0300" stop="20201003040000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003040000 +0300" stop="20201003043000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003043000 +0300" stop="20201003050000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201003050000 +0300" stop="20201003053000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">WRC</title>
+  </programme>
+  <programme start="20201003053000 +0300" stop="20201003060000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201003060000 +0300" stop="20201003080000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003080000 +0300" stop="20201003083000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Tüm Sporlar</title>
+  </programme>
+  <programme start="20201003083000 +0300" stop="20201003093000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003093000 +0300" stop="20201003120000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003120000 +0300" stop="20201003130000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003130000 +0300" stop="20201003153000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003153000 +0300" stop="20201003163000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003163000 +0300" stop="20201003180000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003180000 +0300" stop="20201003203000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Bisiklet</title>
+  </programme>
+  <programme start="20201003203000 +0300" stop="20201003210000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003210000 +0300" stop="20201003213000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Biatlon</title>
+  </programme>
+  <programme start="20201003213000 +0300" stop="20201003220000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Kayaklı Koşu</title>
+  </programme>
+  <programme start="20201003220000 +0300" stop="20201003223000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Futbol</title>
+  </programme>
+  <programme start="20201003223000 +0300" stop="20201004003000 +0300" channel="EUROSPORT 2 TR HD">
+    <title lang="tr">Futbol</title>
+  </programme>
+</tv>
